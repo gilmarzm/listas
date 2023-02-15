@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="pe.AgroTV" tvg-logo="https://postimg.cc/cvTd69WP" group-title="Perú", Agro TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Perú", America TV HD
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=M5Q86yZWOONKThSm98DVDMOaydBbFfs4&pid=5qvhM2sJbdCYUTQL2vAHaR1TqlDyF0fG&an=screen&at=web-app&av=v5.2.320&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=920x518&without_cookies=false&listenerid=&dnt=true&access_token=lIvDe1rKXpcRrdQhgDikZCa01jgHA9RLr5d4Dcma20GLL1egXJO0EHfCrL3W87rRGQDvd7BlTyS
 #EXTINF:-1 tvg-id="pe.AntaresTV" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Perú", Antares TV HD
