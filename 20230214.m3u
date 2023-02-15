@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Perú", America TV HD
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=wqXcqyznNN44JQ7JNYRht7dqlPyNnT3R&pid=aXqowSOsJTsnlJHoMQemL99vJPftIeaJ&an=screen&at=web-app&av=v5.2.320&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1343x755&without_cookies=false&listenerid=&dnt=true&access_token=pVIpwL473NwLjptuEAVTy5LxwtKVBvptC7iIsk2mERqrcaKYT2kBaYGifIxItS5a20n5zON2viy
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=M5Q86yZWOONKThSm98DVDMOaydBbFfs4&pid=5qvhM2sJbdCYUTQL2vAHaR1TqlDyF0fG&an=screen&at=web-app&av=v5.2.320&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=920x518&without_cookies=false&listenerid=&dnt=true&access_token=lIvDe1rKXpcRrdQhgDikZCa01jgHA9RLr5d4Dcma20GLL1egXJO0EHfCrL3W87rRGQDvd7BlTyS
 #EXTINF:-1 tvg-id="pe.AntaresTV" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Cine", Antares TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1558370895.m3u8
 #EXTINF:-1 tvg-id="pe.ATV" tvg-logo="https://i.postimg.cc/HJCvSvsn/pe-atv.png" group-title="Perú", ATV HD
@@ -40,4 +40,4 @@ https://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Cine", Vision Sur HD
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax HD
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtjixqMxqPVFAYgYfRVVH9-k5MsBZ2x_WfFKbFbzxCaU)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmg3DxgUdh-Z6i1G5LhPxCHC3WIdsa6QKYgiw5TJOCsP5)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
