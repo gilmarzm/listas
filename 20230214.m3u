@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pe.AgroTV" tvg-logo="https://i.postimg.cc/jjY2gmFq/pe-agrotv.png" group-title="Perú", Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="pe.AmazonasTV" tvg-logo="https://i.postimg.cc/CL3wStp3/pe-amazonastv.png" group-title="Perú", Amazonas TV
+https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Perú", America TV HD
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=M5Q86yZWOONKThSm98DVDMOaydBbFfs4&pid=5qvhM2sJbdCYUTQL2vAHaR1TqlDyF0fG&an=screen&at=web-app&av=v5.2.320&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=920x518&without_cookies=false&listenerid=&dnt=true&access_token=lIvDe1rKXpcRrdQhgDikZCa01jgHA9RLr5d4Dcma20GLL1egXJO0EHfCrL3W87rRGQDvd7BlTyS
 #EXTINF:-1 tvg-id="pe.AntaresTV" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Perú", Antares TV HD
@@ -13,6 +15,8 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 #EXTINF:-1 tvg-id="pe.AutenticaTV" tvg-logo="https://i.postimg.cc/HL4DPw47/pe-autenticatv.png" group-title="Perú", Auténtica TV HD
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pe.BestCableSports" tvg-logo="https://i.postimg.cc/fT02XWJr/pe-bestcablesports.png" group-title="Perú", BestCable Sports
+https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="pe.Exitosa" tvg-logo="https://i.postimg.cc/sxJL4HTx/pe-exitosa.png" group-title="Perú", Exitosa HD
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="pe.FuegoTV" tvg-logo="https://i.postimg.cc/G2HcScdy/pe-fuegotv.png" group-title="Perú", Fuego TV
@@ -33,6 +37,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.QuatroTV" tvg-logo="https://i.postimg.cc/RC3tWH2w/pe-quatrotv.png" group-title="Perú", Quatro TV
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFElIfDvGpLbw0QIMh8BnMus1iSMO2alnlMBQt3Oa8AkXBbnRp3Qmjxd5Q_hUvVgXLI6mkoDo2BUQtCv-6FiaMZcUMujiYzok0A_yxyQDYT0rPSTnA6AcFXiRzZfM4PJUYq-Dx63X1qN23tLQRr7uTFvyKDkoK-P0FiIgwIJILjLQadd41EI2PxHv23TSOIpSPuHOFeYNwG51nUC9IgM5MoVFtm_cmvcPSAOXKfVhDNLg4ltST1eZio1Sv_gEuEyJs6ApJugGG0DwDu6V10zAHlDlitdfsBiwVa_NRby4uohVfSUUtBBGxVWW7zO5Eb5OBdqIbwNYBEpymdjtD7aVAeEi7GUutz5M3CHHaUqfC53n42VXNhPVHoB2LYdSojYqwtAI_7VBsFgcUfHm6yaxVOAnr5rO92tovpDjAIwdBXq7QzeTIdYZOd_ljdOAIAl14oRdC08HtU_V1xBliwltTlSK0PmHX3qEeD4QjDsY3tsOmrylstyMqRGUXl6uVXIMq0a_bkodSVgK0alMNipqWNl-O6sMEBpNbwwYPF7yzrbjmYCuKSWfpuqtYLCm3LfNNdGqgW-Q6RprmfPITUtt1vnQng865VxPRcUsoAibDNJp1EB9HlezW5KUUA6wCxVvaoPgu7ol3lTR65RSI0lDD4MMQdPVHB5cRhnHQkbVG7REMHIWtJxxE5MPxuut1MjyEey5fbmik7-5oCAopnCwG35trMWXZ2IpU-3dFhyZ8MUaG4aK5oEhQB9eb940wiEtxcm9TRClq76tayISqMvLThraHyBYGsmdASdWll5V4xmPgmgtNdByAc04h6GNdHq347FhX7Z6-iC9luV-ugvO4UDrieaOoZmqIGgwoJcT--p_e4ePnCCIgASoJdXMtZWFzdC0xMKUE.m3u8
+#EXTINF:-1 tvg-id="pe.TeleAmazonas" tvg-logo="https://i.postimg.cc/50JvZ6jr/pe-teleamazonas.png" group-title="Perú", Tele Amazonas
+https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w40892444.m3u8
 #EXTINF:-1 tvg-id="pe.TVPeru" tvg-logo="https://i.postimg.cc/tZrjGGY2/pe-tvperu.png" group-title="Perú", TV Perú
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="pe.TVPeruNoticias" tvg-logo="https://i.postimg.cc/5Y9Vr2NX/pe-tvperu-noticias.png" group-title="Perú", TV Perú Noticias
