@@ -4,7 +4,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pe.AmazonasTV" tvg-logo="https://i.postimg.cc/CL3wStp3/pe-amazonastv.png" group-title="Perú", Amazonas TV [Amazonas]
 https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Perú", America TV HD
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=M5Q86yZWOONKThSm98DVDMOaydBbFfs4&pid=5qvhM2sJbdCYUTQL2vAHaR1TqlDyF0fG&an=screen&at=web-app&av=v5.2.320&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=920x518&without_cookies=false&listenerid=&dnt=true&access_token=lIvDe1rKXpcRrdQhgDikZCa01jgHA9RLr5d4Dcma20GLL1egXJO0EHfCrL3W87rRGQDvd7BlTyS
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=jSUKpJ1d7nZdwIf01tK9kqgNPRIRTuJF&pid=kBsmfIPlvATcSUnyVFd2SLmWFUlHu3De&an=screen&at=web-app&av=v5.2.321&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1343x755&without_cookies=false&listenerid=&dnt=true&access_token=SWMHnr9RlKPuZKieY6qPa7j0yEDexwRwG9i1QWlxmaT9ApeTbO9ZOlk7FPjIyJDklnBVRidx7NG
 #EXTINF:-1 tvg-id="pe.AntaresTV" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Perú", Antares TV HD [Tarapoto]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1558370895.m3u8
 #EXTINF:-1 tvg-id="pe.ATV" tvg-logo="https://i.postimg.cc/HJCvSvsn/pe-atv.png" group-title="Perú", ATV HD
@@ -95,7 +95,7 @@ https://v4.tustreaming.cl/odtv2/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w501531335.m3u8
 #EXTINF:-1 tvg-id="pe.PalmerasTV" tvg-logo="https://i.postimg.cc/ZnYCT5Mq/pe-palmerastv.png" group-title="Perú", Palmeras TV [La Unión-Piura]
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
-#EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana HD
+#EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
@@ -130,7 +130,7 @@ https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurMoquegua" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Perú", Telesur [Moquegua]
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="pe.TelevisionTarapoto" tvg-logo="https://i.postimg.cc/MKbWpwSk/pe-television-tarapoto.png" group-title="Perú", Televisión Tarapoto [Tarapoto]
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_OEXiM4W/chunks.m3u8?nimblesessionid=1393289
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TopLatinoTV" tvg-logo="https://i.postimg.cc/sDKW10Wx/pe-toplatinotv.png" group-title="Perú", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TPTOChannel" tvg-logo="https://i.postimg.cc/gJ6zzPgh/pe-tptochannel.png" group-title="Perú", TPTO Channel
@@ -163,7 +163,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w946284272.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Vision Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax HD
+#EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkpAh9BJlVYjSMxQd_BhH0ImLDrWZ3NsOTiPuYqEn59n)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
