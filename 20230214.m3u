@@ -7,6 +7,8 @@ https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rBihlO6SYx9scBWBiXcxnvxs0uXW&sid=jSUKpJ1d7nZdwIf01tK9kqgNPRIRTuJF&pid=XhKvAT4zhhuqtvvALQVffkmHjuICZt9c&an=screen&at=web-app&av=v5.2.321&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=920x518&without_cookies=false&listenerid=&dnt=true&access_token=I68Vqvf9qZnJKoYbWeNRgxIFe0Pj2tWpfp1bQ8hOK5b5B1aP1BD0NNofwYfCESt6y6oYhGraDOf
 #EXTINF:-1 tvg-id="pe.AntaresTV" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Perú", Antares TV HD [Tarapoto]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1558370895.m3u8
+#EXTINF:-1 tvg-id="pe.AsiriTV" tvg-logo="https://i.postimg.cc/y85W7K19/pe-asiritv.png" group-title="Perú", AsiriTV [Chosica]
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="pe.ATV" tvg-logo="https://i.postimg.cc/HJCvSvsn/pe-atv.png" group-title="Perú", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="pe.ATVMas" tvg-logo="https://i.postimg.cc/mtJ592vQ/pe-atv.png" group-title="Perú", ATV+ HD
@@ -67,6 +69,8 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w856933784.m3u8
 #EXTINF:-1 tvg-id="pe.KaribeñaTV" tvg-logo="https://i.postimg.cc/bYQszpMP/pe-karibe-atv.png" group-title="Perú", Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-id="pe.LaAbejaTV" tvg-logo="https://i.postimg.cc/xjvpKK6Z/pe-la-abejatv.png" group-title="Perú", La Abeja TV
+https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1 tvg-id="pe.Latina" tvg-logo="https://i.postimg.cc/LY4JVScT/pe-latina.png" group-title="Perú", Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="pe.LotPlusTV" tvg-logo="https://i.postimg.cc/bNXDfLRZ/pe-lotplustv.png" group-title="Perú", Lot+ TV
@@ -105,20 +109,26 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="pe.QuatroTV" tvg-logo="https://i.postimg.cc/RC3tWH2w/pe-quatrotv.png" group-title="Perú", Quatro TV [Arequipa]
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUF2DVLGzc7FATEubk3qao84VoyyTCZ8SS_YQH00iGeF2wXT_A4Gf5cQSHSkbrCbKoS5I0ObbDneBH08RK_xjxTJ8xQB-bF_7BUg19yRMdl8GBYB7aCMWBQL-MtyEpZOVtiOHUN9mLT90a9yienC-BqKLgnfPfJaw9b-U0ln-s76k5x0zv3RrhG0FF2lAdFRH--z5ZOStBAEY2zT4reR5azSQzHaoDZTVwai1UCEHefmtQayfXlWyxElYzzF8MrVj5qG6pflOewGw7dwZhEYUzKlp5PyRkuhi5akxj4_8LB1N5RkuMkiEe6l1Jtc1hqsOun-LpeAYGho9AThkrZJjLN6DpHiBHPVMyPqQ5IEtvkbkYcVIvXN25AdvM4PgZNnE6kbFYRypRd_9NYttRABZHP1ObsitPnXNgknixb5MXFmQjJ57efIVSO1mtpLMccivnBcT9ZKTIK0gNSC3KHcHZxyHn1YC4RhQt2QswVYFC1vLBs6yFBag_fHjW9cese1n9Wi659yzsIqMvgQPAvvZFbTynnsz3AMCsG5xfLj7zEP_AN1LzTk7KddZ3GkOSsGh3N37cUyqAysqJHLE_OXA0DxssLnrYfVXhZJ3ShTQknJTkdNdXn91Yxh6Z7OXLxccqyipArlWrm3xZWI5A9Ej0b0R0eNvqwgwVp_ax85-ndkfVwMFI4mcZNQh8f7o6NqlduB2B0llz5X0g7Uwf3D0Zv5EF5-Djwaa-JQaV-jM8PIQuIgWIuNTspyITQvw_Cpga9piIgX798Qml0QMd3LLXmXTAMSzTeggDqiIWwBGMNg4nS7jwOiqPulr217H-40cBpDwYMhMPKmT0IxPwXko_Zkm06R_M3GgzQB-oH61g-_B9i8zMgASoJdXMtZWFzdC0xMKYE.m3u8
+#EXTINF:-1 tvg-id="pe.RadioSanBorjaTV" tvg-logo="https://i.postimg.cc/x139hJjp/pe-radio-sanborjatv.png" group-title="Perú", Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w661432274.m3u8
 #EXTINF:-1 tvg-id="pe.RegionTV" tvg-logo="https://i.postimg.cc/GtkvsGSc/pe-regiontv.png" group-title="Perú", Región TV [Callao]
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="pe.Ribereña" tvg-logo="https://i.postimg.cc/MK3sCCRw/pe-ribere-a.png" group-title="Perú", Ribereña [Pucallpa]
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.RNTelevision" tvg-logo="https://i.postimg.cc/tC25bLjt/pe-rn-television.png" group-title="Perú", RN Televisión [Yurimaguas]
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/chunklist_w913930563.m3u8
-#EXTINF:-1 tvg-id="pe.RTVTotal" tvg-logo="https://i.postimg.cc/rsDB9F2Z/pe-rtv-total.png" group-title="Perú", RTVTotal [Yurimaguas]
+#EXTINF:-1 tvg-id="pe.RTVTotal" tvg-logo="https://i.postimg.cc/rsDB9F2Z/pe-rtv-total.png" group-title="Perú", RTV Total [Yurimaguas]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="pe.RTVOasis" tvg-logo="https://i.postimg.cc/DZh7CMzt/pe-rtv-oasis.png" group-title="Perú", RTV Oasis [Trujillo]
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-id="pe.SistemasCuscoPeru" tvg-logo="https://i.postimg.cc/YC9ktyzM/pe-sistemas-cusco-peru.png" group-title="Perú", Sistemas Cusco Perú [Cusco]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/chunklist_w1294283177.m3u8
 #EXTINF:-1 tvg-id="pe.SumacTV" tvg-logo="https://i.postimg.cc/brPCFQM5/pe-sumactv.png" group-title="Perú", Sumac TV HD
 https://vps1.lnx.pe/sumactv-web/envivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.Sur" tvg-logo="https://i.postimg.cc/d0xmy8wC/pe-sur.png" group-title="Perú", Sur [Ilo]
 https://stmv.panel.grupolimalive.com/surtv/surtv/chunklist_w373841168.m3u8
+#EXTINF:-1 tvg-id="pe.Tele2000" tvg-logo="https://i.postimg.cc/FK8x0RtG/pe-tele2000.png" group-title="Perú", Tele 2000 [Huanta-Ayacucho]
+https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-id="pe.TeleAmazonas" tvg-logo="https://i.postimg.cc/50JvZ6jr/pe-teleamazonas.png" group-title="Perú", Tele Amazonas [Chachapoyas]
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1582745010.m3u8
 #EXTINF:-1 tvg-id="pe.Telecolor" tvg-logo="https://i.postimg.cc/vT4HHYn7/pe-telecolor.png" group-title="Perú", Telecolor HD [Yurimaguas]
@@ -137,6 +147,8 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TribuTV" tvg-logo="https://i.postimg.cc/mDg1GGgR/pe-trivutv.png" group-title="Perú", Tribu TV
 https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-id="pe.TropicalTV" tvg-logo="https://i.postimg.cc/KcB30688/pe-tropicaltv.png" group-title="Perú", Tropical TV [Puerto Maldonado]
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1866840476.m3u8
 #EXTINF:-1 tvg-id="pe.TVBellaAsuncion" tvg-logo="https://i.postimg.cc/BQgpNgyK/pe-tvbella-asuncion.png" group-title="Perú", TV Bella Asunción
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.TVCosmos" tvg-logo="https://i.postimg.cc/N0WhxCc7/pe-tvcosmos.png" group-title="Perú", TV Cosmos
