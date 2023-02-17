@@ -77,6 +77,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/chunklist_w1084314285.m3u8
 #EXTINF:-1 tvg-id="pe.MasterTV" tvg-logo="https://i.postimg.cc/x8ScS1SX/pe-mastertv.png" group-title="Perú", Master TV [Tarapoto]
 https://tv.oyotunstream.com:1936/master/master/chunklist_w89059597.m3u8
+#EXTINF:-1 tvg-id="pe.MaticesTV" tvg-logo="https://i.postimg.cc/m2xGHcHp/pe-maticestv.png" group-title="Perú", Matices TV [Cañete]
+http://v4.tustreaming.cl/matices/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.MegaTVArequipa" tvg-logo="https://i.postimg.cc/dDnPVdnx/pe-megatv-arequipa.png" group-title="Perú", Mega TV [Arequipa]
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 tvg-id="pe.MegaTVJaen" tvg-logo="https://i.postimg.cc/Sjmb4VL9/pe-megatv-jaen.png" group-title="Perú", Mega TV HD [Jaen]
@@ -93,6 +95,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://stream.plixitv.live/oktv/oktv/chunklist_w1268572940.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigital" tvg-logo="https://i.postimg.cc/FHNGsLSN/pe-onda-digital.png" group-title="Perú", Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w941755085.m3u8
+#EXTINF:-1 tvg-id="pe.Oriental" tvg-logo="https://i.postimg.cc/VkCrF0GS/pe-orientaltv.png" group-title="Perú", Oriental TV [Pucallpa]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/chunklist_w917880231.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigitalTV" tvg-logo="https://i.postimg.cc/8PJV8y2q/pe-onda-digitaltv.png" group-title="Perú", Onda Digital TV HD
 https://v4.tustreaming.cl/odtv2/index.m3u8
 #EXTINF:-1 tvg-id="pe.Ovacion" tvg-logo="https://i.postimg.cc/L52F4SN7/pe-ovacion.png" group-title="Perú", Ovación HD
@@ -103,12 +107,16 @@ https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="pe.PeruvianRadioTV" tvg-logo="https://i.postimg.cc/zfzTJSSs/pe-peruvian-radiotv-2.png" group-title="Perú", Peruvian Radio TV
+https://stmv.panel.grupolimalive.com/peruvian/peruvian/chunklist_w1875998373.m3u8
 #EXTINF:-1 tvg-id="pe.PlanetaTV" tvg-logo="https://i.postimg.cc/NFv1MKM1/pe-planetatv.png" group-title="Perú", Planeta TV HD [Moyobamba]
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.QTTV" tvg-logo="https://i.postimg.cc/GtQPBb69/pe-qttv.png" group-title="Perú", QT TV HD [Cusco]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="pe.QuatroTV" tvg-logo="https://i.postimg.cc/RC3tWH2w/pe-quatrotv.png" group-title="Perú", Quatro TV [Arequipa]
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoUF2DVLGzc7FATEubk3qao84VoyyTCZ8SS_YQH00iGeF2wXT_A4Gf5cQSHSkbrCbKoS5I0ObbDneBH08RK_xjxTJ8xQB-bF_7BUg19yRMdl8GBYB7aCMWBQL-MtyEpZOVtiOHUN9mLT90a9yienC-BqKLgnfPfJaw9b-U0ln-s76k5x0zv3RrhG0FF2lAdFRH--z5ZOStBAEY2zT4reR5azSQzHaoDZTVwai1UCEHefmtQayfXlWyxElYzzF8MrVj5qG6pflOewGw7dwZhEYUzKlp5PyRkuhi5akxj4_8LB1N5RkuMkiEe6l1Jtc1hqsOun-LpeAYGho9AThkrZJjLN6DpHiBHPVMyPqQ5IEtvkbkYcVIvXN25AdvM4PgZNnE6kbFYRypRd_9NYttRABZHP1ObsitPnXNgknixb5MXFmQjJ57efIVSO1mtpLMccivnBcT9ZKTIK0gNSC3KHcHZxyHn1YC4RhQt2QswVYFC1vLBs6yFBag_fHjW9cese1n9Wi659yzsIqMvgQPAvvZFbTynnsz3AMCsG5xfLj7zEP_AN1LzTk7KddZ3GkOSsGh3N37cUyqAysqJHLE_OXA0DxssLnrYfVXhZJ3ShTQknJTkdNdXn91Yxh6Z7OXLxccqyipArlWrm3xZWI5A9Ej0b0R0eNvqwgwVp_ax85-ndkfVwMFI4mcZNQh8f7o6NqlduB2B0llz5X0g7Uwf3D0Zv5EF5-Djwaa-JQaV-jM8PIQuIgWIuNTspyITQvw_Cpga9piIgX798Qml0QMd3LLXmXTAMSzTeggDqiIWwBGMNg4nS7jwOiqPulr217H-40cBpDwYMhMPKmT0IxPwXko_Zkm06R_M3GgzQB-oH61g-_B9i8zMgASoJdXMtZWFzdC0xMKYE.m3u8
+#EXTINF:-1 tvg-id="pe.RadioInkaTV" tvg-logo="https://i.postimg.cc/q7WCcMwB/pe-radio-inkatv.png" group-title="Perú", Radio Inka TV [Abancay]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="pe.RadioSanBorjaTV" tvg-logo="https://i.postimg.cc/x139hJjp/pe-radio-sanborjatv.png" group-title="Perú", Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w661432274.m3u8
 #EXTINF:-1 tvg-id="pe.RegionTV" tvg-logo="https://i.postimg.cc/GtkvsGSc/pe-regiontv.png" group-title="Perú", Región TV [Callao]
@@ -125,6 +133,8 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/chunklist_w1294283177.m3u8
 #EXTINF:-1 tvg-id="pe.SumacTV" tvg-logo="https://i.postimg.cc/brPCFQM5/pe-sumactv.png" group-title="Perú", Sumac TV HD
 https://vps1.lnx.pe/sumactv-web/envivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pe.SuperTV" tvg-logo="https://i.postimg.cc/x8TD0Zpw/pe-supertv.png" group-title="Perú", Super TV HD
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="pe.Sur" tvg-logo="https://i.postimg.cc/d0xmy8wC/pe-sur.png" group-title="Perú", Sur [Ilo]
 https://stmv.panel.grupolimalive.com/surtv/surtv/chunklist_w373841168.m3u8
 #EXTINF:-1 tvg-id="pe.Tele2000" tvg-logo="https://i.postimg.cc/FK8x0RtG/pe-tele2000.png" group-title="Perú", Tele 2000 [Huanta-Ayacucho]
@@ -176,6 +186,6 @@ https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w9
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Vision Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkpAh9BJlVYjSMxQd_BhH0ImLDrWZ3NsOTiPuYqEn59n)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmi_vfDQTFRInp0RNbHa4IfsyENcdSeS1sOH9xm0XDP_Z)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
