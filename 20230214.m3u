@@ -23,7 +23,7 @@ https://ca2.inka.net.pe/bestcablemusic/index.m3u8
 https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="pe.BHTV" tvg-logo="https://i.postimg.cc/8cFQ5TpG/pe-bhtv.png" group-title="Perú", BHTV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w2131315679.m3u8
-#EXTINF:-1 tvg-id="pe.CableVisionPeru" tvg-logo="https://i.postimg.cc/qq2NshKw/pe-cablevisionperu.png" group-title="Perú", Cable Vision Perú
+#EXTINF:-1 tvg-id="pe.CableVisionPeru" tvg-logo="https://i.postimg.cc/qq2NshKw/pe-cablevisionperu.png" group-title="Perú", Cable Visión Perú
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w225843302.m3u8
 #EXTINF:-1 tvg-id="pe.CadenaTV" tvg-logo="https://i.postimg.cc/DyhyQTX5/pe-cadenatv.png" group-title="Perú", Cadena TV HD [Huancayo]
 https://servilive.com:3079/live/cdnatvlive.m3u8
@@ -203,9 +203,9 @@ https://inliveserver.com:1936/9506/9506/chunklist_w548877440.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.ViaTV" tvg-logo="https://i.postimg.cc/bJcbh5ZJ/pe-via.png" group-title="Perú", Via Televisión [Tarapoto]
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w946284272.m3u8
-#EXTINF:-1 tvg-id="pe.VisionMusica" tvg-logo="https://i.postimg.cc/ncRM3NVp/pe-vision-musica.png" group-title="Perú", Vision Música
+#EXTINF:-1 tvg-id="pe.VisionMusica" tvg-logo="https://i.postimg.cc/ncRM3NVp/pe-vision-musica.png" group-title="Perú", Visión Música
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w191694385.m3u8
-#EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Vision Sur HD [Arequipa]
+#EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Visión Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtullWEJTQCe4P9uG3kYSQmJWxcHrp3TI7GT7KIsBs7R)/dm/3/x7x4dgx/s/live-1.m3u8
