@@ -203,6 +203,8 @@ https://inliveserver.com:1936/9506/9506/chunklist_w548877440.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.ViaTV" tvg-logo="https://i.postimg.cc/bJcbh5ZJ/pe-via.png" group-title="Perú", Via Televisión [Tarapoto]
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w946284272.m3u8
+#EXTINF:-1 tvg-id="pe.VisionMusica" tvg-logo="https://i.postimg.cc/ncRM3NVp/pe-vision-musica.png" group-title="Perú", Vision Música
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w191694385.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Vision Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
