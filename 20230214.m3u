@@ -161,7 +161,7 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TPTOChannel" tvg-logo="https://i.postimg.cc/gJ6zzPgh/pe-tptochannel.png" group-title="Perú", TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 tvg-id="pe.TribuTV" tvg-logo="https://i.postimg.cc/mDg1GGgR/pe-trivutv.png" group-title="Perú", Tribu TV
+#EXTINF:-1 tvg-id="pe.TribuTV" tvg-logo="https://i.postimg.cc/mDg1GGgR/pe-trivutv.png" group-title="Perú", Trivu TV
 https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-id="pe.TropicalTV" tvg-logo="https://i.postimg.cc/KcB30688/pe-tropicaltv.png" group-title="Perú", Tropical TV [Puerto Maldonado]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w1866840476.m3u8
@@ -170,7 +170,7 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.TVCosmos" tvg-logo="https://i.postimg.cc/N0WhxCc7/pe-tvcosmos.png" group-title="Perú", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w227657348.m3u8
 #EXTINF:-1 tvg-id="pe.TVNorte" tvg-logo="https://i.postimg.cc/wjG1QrHv/pe-tvnorte.png" group-title="Perú", TV Norte HD [Chiclayo]
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqnfDW_dsMqzChOyJz9q5ajkjB4bwPDG1wFLzTDsgS_x7)/dm/3/x7uk62a/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvLcg-8CmaD0wwMFvDltNFB9MSIdU7MUUJBteRet9lDH)/dm/3/x7uk62a/s/live-2.m3u8
 #EXTINF:-1 tvg-id="pe.TVEnLinea" tvg-logo="https://i.postimg.cc/6pgq7Gc7/pe-tv-en-linea.png" group-title="Perú", TV En Línea [Cusco]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="pe.TVPeru" tvg-logo="https://i.postimg.cc/tZrjGGY2/pe-tvperu.png" group-title="Perú", TV Perú
@@ -192,6 +192,6 @@ https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w9
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Vision Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgCsCJZdsklkrNlfE9wxwsANIDaM1ZcRnlxphZzs61yw)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtullWEJTQCe4P9uG3kYSQmJWxcHrp3TI7GT7KIsBs7R)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
