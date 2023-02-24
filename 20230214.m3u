@@ -9,6 +9,8 @@ https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=LwM7rB
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1558370895.m3u8
 #EXTINF:-1 tvg-id="pe.AsiriTV" tvg-logo="https://i.postimg.cc/y85W7K19/pe-asiritv.png" group-title="Perú", AsiriTV [Chosica]
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="pe.ATM" tvg-logo="https://i.postimg.cc/y86WKfZd/pe-atm.png" group-title="Perú", ATM HD [Apurimac]
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.ATV" tvg-logo="https://i.postimg.cc/HJCvSvsn/pe-atv.png" group-title="Perú", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="pe.ATVMas" tvg-logo="https://i.postimg.cc/mtJ592vQ/pe-atv.png" group-title="Perú", ATV+ HD
@@ -110,7 +112,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 #EXTINF:-1 tvg-id="pe.PalmerasTV" tvg-logo="https://i.postimg.cc/ZnYCT5Mq/pe-palmerastv.png" group-title="Perú", Palmeras TV [La Unión-Piura]
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFv9M24JpRifp-f3mq8ezDHd_S5wE6aKjA5SbmIp11JE3)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1 tvg-id="pe.PeruChannel" tvg-logo="https://i.postimg.cc/GmpvcP8c/pe-peru-channel.png" group-title="Perú", Perú Channel
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/chunklist_w2143354898.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.PeruvianRadioTV" tvg-logo="https://i.postimg.cc/zfzTJSSs/pe-peruvian-radiotv-2.png" group-title="Perú", Peruvian Radio TV
