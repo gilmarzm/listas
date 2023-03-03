@@ -118,7 +118,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 #EXTINF:-1 tvg-id="pe.PalmerasTV" tvg-logo="https://i.postimg.cc/ZnYCT5Mq/pe-palmerastv.png" group-title="Perú", Palmeras TV [La Unión-Piura]
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpYQ_Py91hQ3pkzk7U3ZT647bo_WLFOPEQ3GqqVfPCYc)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.PeruChannel" tvg-logo="https://i.postimg.cc/GmpvcP8c/pe-peru-channel.png" group-title="Perú", Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
@@ -155,7 +155,7 @@ https://live.obslivestream.com/rwtv/index.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.SolStereoTV" tvg-logo="https://i.postimg.cc/QxFDKz5P/pe-sol-stereotv.png" group-title="Perú", Sol Stereo TV [Casma]
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-id="pe.SumacTV" tvg-logo="https://i.postimg.cc/brPCFQM5/pe-sumactv.png" group-title="Perú", Sumac TV HD
+#EXTINF:-1 tvg-id="pe.SumacTV" tvg-logo="https://i.postimg.cc/brPCFQM5/pe-sumactv.png" group-title="Perú", Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 tvg-id="pe.SuperTV" tvg-logo="https://i.postimg.cc/x8TD0Zpw/pe-supertv.png" group-title="Perú", Super TV HD [Bagua Grande]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
