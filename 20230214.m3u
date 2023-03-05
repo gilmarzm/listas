@@ -229,7 +229,7 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/099e82d5-7694-4119-b4ad-c80db4996f27/5.m3u8
 #EXTINF:-1 tvg-id="plex.CineReal" tvg-logo="https://i.postimg.cc/brp4JfsZ/plex-cine-real.png" group-title="PLEX", PLEX Cine Real
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7095a09205002da4f295.m3u8?X-Plex-Session-Identifier=6igv42a5wdkrsfk69vlpgpzf&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
-#EXTINF:-1 tvg-id="plex.CineSureño" tvg-logo="https://i.postimg.cc/2SGRB64C/plex-cine-sureño.png" group-title="PLEX PLEX", PLEX Cine Sureño
+#EXTINF:-1 tvg-id="plex.CineSureño" tvg-logo="https://i.postimg.cc/2SGRB64C/plex-cine-sureño.png" group-title="PLEX", PLEX Cine Sureño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/52cc6515-3fee-4999-a16a-64854b38923e/5.m3u8
 #EXTINF:-1 tvg-id="plex.Flash" tvg-logo="https://i.postimg.cc/Jhhw3LqZ/plex-flash.png" group-title="PLEX", PLEX Flash
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/9c9c5b36-6767-4b03-bc00-07ddb6c1c1b3/5.m3u8
