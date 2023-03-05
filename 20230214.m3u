@@ -118,7 +118,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 #EXTINF:-1 tvg-id="pe.PalmerasTV" tvg-logo="https://i.postimg.cc/ZnYCT5Mq/pe-palmerastv.png" group-title="Perú", Palmeras TV [La Unión-Piura]
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana
-https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=eEd4sIYqNTEZ9Suy_hnpONv_Om_atEn1rO7-IkscKtYwg67OngXsBkiTniOxl7KOenM9B83jmWbRTqtL21EmUw&dmTs=801030&dmV1st=EFC125A4E9FF438ABADAFAB097E018E9
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.PeruChannel" tvg-logo="https://i.postimg.cc/GmpvcP8c/pe-peru-channel.png" group-title="Perú", Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
@@ -220,8 +220,38 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Visión Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmljAl-uQJ2SnY9hIBz2wQ1JoSXunG9a6ExLq_DcO-xMr)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmo8bJRATECFLcgeZKI28FzKZ9RB_b2dAsWkxAX4TPrPn)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:-1 tvg-id="plex.Chiquilines" tvg-logo="https://i.postimg.cc/Jh6YcH65/plex-chiquilines.png" group-title="PLEX", PLEX Chiquilines
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/099e82d5-7694-4119-b4ad-c80db4996f27/5.m3u8
+#EXTINF:-1 tvg-id="plex.CineReal" tvg-logo="https://i.postimg.cc/brp4JfsZ/plex-cine-real.png" group-title="PLEX", PLEX Cine Real
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7095a09205002da4f295.m3u8?X-Plex-Session-Identifier=6igv42a5wdkrsfk69vlpgpzf&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.CineSureño" tvg-logo="https://i.postimg.cc/2SGRB64C/plex-cine-sureño.png" group-title="PLEX PLEX", PLEX Cine Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/52cc6515-3fee-4999-a16a-64854b38923e/5.m3u8
+#EXTINF:-1 tvg-id="plex.Flash" tvg-logo="https://i.postimg.cc/Jhhw3LqZ/plex-flash.png" group-title="PLEX", PLEX Flash
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/9c9c5b36-6767-4b03-bc00-07ddb6c1c1b3/5.m3u8
+#EXTINF:-1 tvg-id="plex.JuntosTV" tvg-logo="https://i.postimg.cc/Pf6PjXLv/plex-juntos.png" group-title="PLEX", PLEX Juntos
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/8b5ed396-d561-4bfb-87c5-d3e296ad7e9c/5.m3u8
+#EXTINF:-1 tvg-id="plex.SaberMas" tvg-logo="https://i.postimg.cc/bwYGcZgn/plex-saber-mas.png" group-title="PLEX", PLEX Saber Mas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/ee8cb62b-f045-4303-94ef-9f917d3a0689/5.m3u8
+#EXTINF:-1 tvg-id="plex.TopCine" tvg-logo="https://i.postimg.cc/Z54zR3vf/plex-top-cine.png" group-title="PLEX", PLEX Top Cine
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7094a09205002da4f291.m3u8?X-Plex-Session-Identifier=1trvalg5zlw5ft0t73g216fx&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.TuCine" tvg-logo="https://i.postimg.cc/BQcQMJxV/plex-tu-cine.png" group-title="PLEX", PLEX Tu Cine
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6018913ea15130002b284193.m3u8?X-Plex-Session-Identifier=ytli73m2ghkjit3ng3nvqe5d&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.Bjgtjme" tvg-logo="https://i.postimg.cc/LhFHT84N/plex-bjgtjme.png" group-title="PLEX", Bjgtjme
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=31691edafa68d1c71a12385bcc593314-27aa363810234c617caaffad49c3ba291f37acc951b0e34da9c38672997a504547b95ed3d360742ef0666cf888df5d6ff1eaa81b0cfcd083fa8ef438e298eb5f70dd4086954a6d2363a834fc92d71c267adf11f1e69dfeb9f7109973a0693807b464e1eff4016c29c78e7412b02ee022f09b688ffbb4027bc37112ba38fc140f619cc8e7963d636d4c474a0f53d2333619d2ba6bc3ca654aa3551aada755f990bdd90e5cf1e372693782ac80ae8cc1b45c14b8112b4567e8c7b5e0144baec3a8196c6d3704d217b14b34e539363c981b&x-plex-token=7wx5RzKS6it-J71RqQvU
+#EXTINF:-1 tvg-id="plex.EuronewsEspanol" tvg-logo="https://i.postimg.cc/tCgc7jXx/plex-euronews-espanol.png" group-title="PLEX", Euronews Español
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/fde5906f-8793-4136-8752-229fa4c60643/0.m3u8
+#EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
+https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
+https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/868421f1-64dc-42cf-b641-0f1df6bc9130/5.m3u8
+#EXTINF:-1 tvg-id="plex.MotorvisionTV" tvg-logo="https://i.postimg.cc/CLCRZG5X/plex-motorvisiontv.png" group-title="PLEX", Motorvision TV
+https://stream.ads.ottera.tv/cl/230305cg221b4ps1tjeqviu8l0/1280x720_3071200_1_f.m3u8
+#EXTINF:-1 tvg-id="plex.StingrayExitosDelMomento" tvg-logo="https://i.postimg.cc/xCRT8rKc/plex-stingray-exitos-del-momento.png" group-title="PLEX", Stingray - Éxitos del Momento
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-62efba6588a16bb7d6b6fb58/variant.m3u8?url=59344922c0ba7548c15735f89462cb0b-c38b08be39641fcdbcd11aab9a85c5f0fd9ed7309400d29969e1e3bcf97804b2226607415cb34557587298abde1daaba64e383595cb7836d701544142749f4b239f2f214cd8b0a5a502532786f05fa57b3cd213d00a910a154e630b1543e52e5&x-plex-token=7wx5RzKS6it-J71RqQvU
+#EXTINF:-1 tvg-id="plex.TheBobRossChannelEnEspañol" tvg-logo="https://i.postimg.cc/rpK0Rwf7/plex-the-bob-ross-channel-en-espa-ol.png" group-title="PLEX", The Bob Ross Channel en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Session-Identifier=z9x6m8yfkjgugumjocrjxa74&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=859x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
