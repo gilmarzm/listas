@@ -222,31 +222,31 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Visión Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrAmcjtvSw3EPcd3aUub-fmkp1293XwiW1TDR4niy2vQ)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmq-qpd6vVCzeZJkix1JdtXEACenC6tjpE3V-ZxdsnSyW)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="plex.Chiquilines" tvg-logo="https://i.postimg.cc/Jh6YcH65/plex-chiquilines.png" group-title="PLEX", PLEX Chiquilines
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/099e82d5-7694-4119-b4ad-c80db4996f27/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/3ed38d58-3a02-4440-a61b-446aa59e51e3/5.m3u8
 #EXTINF:-1 tvg-id="plex.CineReal" tvg-logo="https://i.postimg.cc/brp4JfsZ/plex-cine-real.png" group-title="PLEX", PLEX Cine Real
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7095a09205002da4f295.m3u8?X-Plex-Session-Identifier=6igv42a5wdkrsfk69vlpgpzf&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
 #EXTINF:-1 tvg-id="plex.CineSureño" tvg-logo="https://i.postimg.cc/2SGRB64C/plex-cine-sureño.png" group-title="PLEX", PLEX Cine Sureño
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/52cc6515-3fee-4999-a16a-64854b38923e/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/0441b100-5e7a-48ef-ab98-68207f30eb73/5.m3u8
 #EXTINF:-1 tvg-id="plex.Flash" tvg-logo="https://i.postimg.cc/Jhhw3LqZ/plex-flash.png" group-title="PLEX", PLEX Flash
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/9c9c5b36-6767-4b03-bc00-07ddb6c1c1b3/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/1fea6ef5-edaf-411f-8b92-acd040cee45a/5.m3u8
 #EXTINF:-1 tvg-id="plex.JuntosTV" tvg-logo="https://i.postimg.cc/Pf6PjXLv/plex-juntos.png" group-title="PLEX", PLEX Juntos
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/8b5ed396-d561-4bfb-87c5-d3e296ad7e9c/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/2e05f713-1437-4ce3-8bbb-293f5bbffef6/5.m3u8
 #EXTINF:-1 tvg-id="plex.SaberMas" tvg-logo="https://i.postimg.cc/bwYGcZgn/plex-saber-mas.png" group-title="PLEX", PLEX Saber Mas
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/ee8cb62b-f045-4303-94ef-9f917d3a0689/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/cf979d7b-6a63-4c39-884e-0e8868ae7fb5/5.m3u8
 #EXTINF:-1 tvg-id="plex.TopCine" tvg-logo="https://i.postimg.cc/Z54zR3vf/plex-top-cine.png" group-title="PLEX", PLEX Top Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7094a09205002da4f291.m3u8?X-Plex-Session-Identifier=1trvalg5zlw5ft0t73g216fx&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
 #EXTINF:-1 tvg-id="plex.TuCine" tvg-logo="https://i.postimg.cc/BQcQMJxV/plex-tu-cine.png" group-title="PLEX", PLEX Tu Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6018913ea15130002b284193.m3u8?X-Plex-Session-Identifier=ytli73m2ghkjit3ng3nvqe5d&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
 #EXTINF:-1 tvg-id="plex.Bjgtjme" tvg-logo="https://i.postimg.cc/LhFHT84N/plex-bjgtjme.png" group-title="PLEX", Bjgtjme
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=31691edafa68d1c71a12385bcc593314-27aa363810234c617caaffad49c3ba291f37acc951b0e34da9c38672997a504547b95ed3d360742ef0666cf888df5d6ff1eaa81b0cfcd083fa8ef438e298eb5f70dd4086954a6d2363a834fc92d71c267adf11f1e69dfeb9f7109973a0693807b464e1eff4016c29c78e7412b02ee022f09b688ffbb4027bc37112ba38fc140f619cc8e7963d636d4c474a0f53d2333619d2ba6bc3ca654aa3551aada755f990bdd90e5cf1e372693782ac80ae8cc1b45c14b8112b4567e8c7b5e0144baec3a8196c6d3704d217b14b34e539363c981b&x-plex-token=7wx5RzKS6it-J71RqQvU
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=3f97022550b7f20957ee51e421392cfe-d2008b33169bb57a69a67d8c9edbd7c2df39c79b2bac814e5479ace1615ae368eb2281d129751034e02c24fd7920ab0f466b4724679d116d155cf8b117dcb1a9dccdc0dd872c208867664859fb40b99f51a1906d9b6800984ebbacd9b0dcfff4efb8c8efbb21d7d6b6b8ce71ae3514fa6ecdde1e1b7c65100aa9d7e15d1488597732c6a2d55bd2389b6f738a35d6ef6d276f2821a453733a221e5f9bcdc051593592cf8c11066c4f33225ebd2a2c129303504ae00aed13e667d720321fd1197a9078ca2509b4aff82e37d9048ce50d74&x-plex-token=7wx5RzKS6it-J71RqQvU
 #EXTINF:-1 tvg-id="plex.EuronewsEspanol" tvg-logo="https://i.postimg.cc/tCgc7jXx/plex-euronews-espanol.png" group-title="PLEX", Euronews Español
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/fde5906f-8793-4136-8752-229fa4c60643/0.m3u8
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/6251481c-8000-45d5-9cee-849248f8f62a/0.m3u8
 #EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
 https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
