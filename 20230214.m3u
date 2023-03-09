@@ -120,7 +120,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 #EXTINF:-1 tvg-id="pe.PalmerasTV" tvg-logo="https://i.postimg.cc/ZnYCT5Mq/pe-palmerastv.png" group-title="Perú", Palmeras TV [La Unión-Piura]
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/HcSVZKHC/pe-panamericana.png" group-title="Perú", Panamericana
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFq8FeXGCjLfROUa-RWci12dhmY9pjZkWJVYKoF--TMbO)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.PeruChannel" tvg-logo="https://i.postimg.cc/GmpvcP8c/pe-peru-channel.png" group-title="Perú", Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanisima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Perú", Peruanísima
@@ -222,7 +222,7 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VisionSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Perú", Visión Sur HD [Arequipa]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmm5hXwzNjBHA0apF6llxmHmHQaXhomkva-ubJf80JHhm)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrAmcjtvSw3EPcd3aUub-fmkp1293XwiW1TDR4niy2vQ)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
