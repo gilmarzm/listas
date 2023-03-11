@@ -49,6 +49,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="pe.ChinchaTV" tvg-logo="https://i.postimg.cc/HspQGmXP/pe-chinchatv.png" group-title="Perú", Chincha TV [Chincha]
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
+#EXTINF:-1 tvg-id="pe.CineClubTV" tvg-logo="https://i.postimg.cc/dV5NXhkf/pe-cine-clubtv.png" group-title="Perú", Cine Club TV [Arequipa]
+https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="pe.ClipsTV" tvg-logo="https://i.postimg.cc/cHXpsQnx/pe-clipstv.png" group-title="Perú", Clips TV [Paita]
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="pe.CNCDigital" tvg-logo="https://i.postimg.cc/xTZJ7BSw/pe-cnc-digital.png" group-title="Perú", CNC Digital [Iquitos]
@@ -136,7 +138,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.QTTV" tvg-logo="https://i.postimg.cc/GtQPBb69/pe-qttv.png" group-title="Perú", QT TV HD [Cusco]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="pe.QuatroTV" tvg-logo="https://i.postimg.cc/RC3tWH2w/pe-quatrotv.png" group-title="Perú", Quatro TV [Arequipa]
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFPQtn4yzHYX9_LWYtrDJEm9QZMEiZfz0GefZ10PnmdD2qkuECGHp7wOKECpQDCrzznoi3TWUEGuRFCRicUMuGdFxaQAgV2BjZTP8hiH2vVUrdGi9Y9XTZyc6_60v0cBp7QxgNRnH9o7KUlifwN5QsnLxX7ZivwNbVe5SJldzzWlb1dSrVunGix7J9g5dJHIocu4hHPPUcPCwxODEl9bUpX_2Vlbxf_fNYAmT9s0487jE5e5OOkrPBtSDV57n-PZXEhNkUnNpF9NGdVXnpvx5p05trC8PxXzJMtgQ9fAM_nKiRqPijIJXGzsgROjDWDF2ZCe63T10kTZqrEUVtXrZ1IPgIS_BAAfz9R6CHx5Cm1yIVlqGYl4fqTSBz29Q6-H76Af27-N4nj8Z915kqF8a1Xht5z89MMr9ZUEo2oRuAfjHEgR1XwoRcFZSaHDOijWz3nfPMBQIf_llW-3I3_haXFt6iTaWdDsVKkBUqM_cqZtY71UlnnehH9tZVTiTle8k7faXTgU1xF9F1yKKlwAiUCk_xYpHRNGqLqlSzVMNh0pJJbhMu4J5jsFIfC3H0gf9rq11661FHfGJkXvzQ9Qdk82S6Z-FvMYGsDiJb668O_9pf2_T7R0wQIq1IhHxXvfJESqBeEaWvvwaDOpgS5TLiyFkIUZqAtcU5ee7WEqWEkeT2Pj9l_UBvYq0obkcHsYyo0e5sqDJJK7KUOL41mqi4OUdoob7Z44vLk6MhtJ7pcxypf4-Kpi4LqbM8XNh5L2PlfUP2t6uMywcu_btIM3bIEIPlfrNyID1v9drb2HG-FR5vD3lOpsmnEQggz9AdD5t3QjIL0zdQ3NGt7imMyTRS6tPB2wDpufPfGgy08TmnFHdVcajfaZ0gASoJdXMtZWFzdC0xMLwE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFaXlAfSHXxPalT46SyldbTTZ1hx-t5ctF6KH3lX5wencmbJhBFJ5LEfD874UcuuQ0N-tiibAjhuw20q-xsNm_hY6QZyQ3Q9AMGGP5X2V40dcmDHVHLky47xQpJA6JnCalVt7uND9anbzoFHcm6T8GVWl-AROUiyw8qBtmQwwzljFm-SlKMYMbCs3grkIEuqsDzmTYLqBaurwtLKW7bSnBBSDcWePCaeHJPcmM_vH8vqWFSLutxcZJUO-biCVS4mleTU48cGXhFzDS_1QNJwSkDRdLhRDnYp8qB9tf-0jxsqOAN7Lwr61HkvDYs6G53cWrrkAJqGWJBMW-NPJjmu3i470zwzmkfRIZK0kSGL6b1Vwq_UPjeOQ76gaiOfXn827dNdlLQ8_pUZkhsXMi9j39idQUz3qVA_Dgk6zVUwsxbAoyOFm1gU56K5l-mQvNf8JNYbIBQ8haINR7ij28fD_RAovutWPXBwAcZP7BshhK1xlpGOd7f9cRtZc8CdoVP4pZ_bCObDBISxa3WORXPeaHENTUCHXQ6wVdV3O6McLFjo2ACquYY6o6WxcCu6X-au9rgItU4Lsq18jPjp2jgoLQVWznxNCFiCbvIPF-vjR2Bcxml2XG5APkZjfJkQ_Wr6xc-90Fdn5V4D7IPAVrPDNSLBBbdG1C06w2EKN1jz9I-kVVJ2QnOoriJlpAlVwEV6IqCnVZDH1AbtlyLPM0_BQPowv8wBYxnka3WW02ZtDayuBKa6DpjhO7_XAMqXxtk7_7dMN-JmFb2R93VNmsf6X9mVuctH-aE21yBPYa7Mym8POdBMYoBn0DJ-UTV2EUJ7D6cnQhuhv7jyZCowD0gzQTq9p_hCYNRG91GgzQBvLUFQhcQP1s0DAgASoJdXMtZWFzdC0xML0E.m3u8
 #EXTINF:-1 tvg-id="pe.RadioInkaTV" tvg-logo="https://i.postimg.cc/q7WCcMwB/pe-radio-inkatv.png" group-title="Perú", Radio Inka TV [Abancay]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="pe.RadioSanBorjaTV" tvg-logo="https://i.postimg.cc/x139hJjp/pe-radio-sanborjatv.png" group-title="Perú", Radio San Borja TV
@@ -228,7 +230,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VivaTV" tvg-logo="https://i.postimg.cc/zfs02nVk/pe-vivatv.png" group-title="Perú", Viva TV [Yurimaguas]
 https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_D0BcHv22/wixmp-3dbd5cb16bb136182e099f78_D0BcHv22_.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvMDQRjnupLZGCw_07FYZwharXHHnCF_SY_M8_S8v3px)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuLFfU-Ooha1dOxkp0I84idpU7kn78n5xl8w5i0m3Ar9)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
@@ -252,11 +254,11 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6018913ea151
 #EXTINF:-1 tvg-id="plex.Bjgtjme" tvg-logo="https://i.postimg.cc/LhFHT84N/plex-bjgtjme.png" group-title="PLEX", Bjgtjme
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=3f97022550b7f20957ee51e421392cfe-d2008b33169bb57a69a67d8c9edbd7c2df39c79b2bac814e5479ace1615ae368eb2281d129751034e02c24fd7920ab0f466b4724679d116d155cf8b117dcb1a9dccdc0dd872c208867664859fb40b99f51a1906d9b6800984ebbacd9b0dcfff4efb8c8efbb21d7d6b6b8ce71ae3514fa6ecdde1e1b7c65100aa9d7e15d1488597732c6a2d55bd2389b6f738a35d6ef6d276f2821a453733a221e5f9bcdc051593592cf8c11066c4f33225ebd2a2c129303504ae00aed13e667d720321fd1197a9078ca2509b4aff82e37d9048ce50d74&x-plex-token=7wx5RzKS6it-J71RqQvU
 #EXTINF:-1 tvg-id="plex.EuronewsEspanol" tvg-logo="https://i.postimg.cc/tCgc7jXx/plex-euronews-espanol.png" group-title="PLEX", Euronews Español
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/6251481c-8000-45d5-9cee-849248f8f62a/0.m3u8
+https://stream.ads.ottera.tv/cl/230308cg3vj5fn8r58414ejfa0/1280x720_1500000_0_f.m3u8
 #EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
 https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
-https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/868421f1-64dc-42cf-b641-0f1df6bc9130/5.m3u8
+https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/2e1f8028-a88e-496c-9f60-8e577031ce7c/5.m3u8
 #EXTINF:-1 tvg-id="plex.MotorvisionTV" tvg-logo="https://i.postimg.cc/CLCRZG5X/plex-motorvisiontv.png" group-title="PLEX", Motorvision TV
 https://stream.ads.ottera.tv/cl/230305cg221b4ps1tjeqviu8l0/1280x720_3071200_1_f.m3u8
 #EXTINF:-1 tvg-id="plex.StingrayExitosDelMomento" tvg-logo="https://i.postimg.cc/xCRT8rKc/plex-stingray-exitos-del-momento.png" group-title="PLEX", Stingray - Éxitos del Momento
