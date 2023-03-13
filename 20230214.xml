@@ -5,13 +5,13 @@
 	<channel id="pe.AgroTV">
 	<display-name>America TV</display-name>
 	</channel>
-	<programme channel="pe.AgroTV" start="20230313000000 +0000" stop="20230313010000 +0000">
+	<programme channel="pe.AgroTV" start="20230313113000 +0000" stop="20230313123000 +0000">
 	<title>Test 1</title>
 	<desc>Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
 	<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1709045"/>
 	<category>Informativo</category>
 	</programme>
-	<programme channel="pe.AgroTV" start="20230313010000 +0000" stop="20230313023000 +0000">
+	<programme channel="pe.AgroTV" start="20230313123000 +0000" stop="20230313143000 +0000">
 	<title>Test 2</title>
 	<desc>2 Sirun Demirjian conduce este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
 	<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1709045"/>
