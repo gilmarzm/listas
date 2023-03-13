@@ -138,7 +138,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.QTTV" tvg-logo="https://i.postimg.cc/GtQPBb69/pe-qttv.png" group-title="Perú", QT TV HD [Cusco]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="pe.QuatroTV" tvg-logo="https://i.postimg.cc/RC3tWH2w/pe-quatrotv.png" group-title="Perú", Quatro TV [Arequipa]
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFaXlAfSHXxPalT46SyldbTTZ1hx-t5ctF6KH3lX5wencmbJhBFJ5LEfD874UcuuQ0N-tiibAjhuw20q-xsNm_hY6QZyQ3Q9AMGGP5X2V40dcmDHVHLky47xQpJA6JnCalVt7uND9anbzoFHcm6T8GVWl-AROUiyw8qBtmQwwzljFm-SlKMYMbCs3grkIEuqsDzmTYLqBaurwtLKW7bSnBBSDcWePCaeHJPcmM_vH8vqWFSLutxcZJUO-biCVS4mleTU48cGXhFzDS_1QNJwSkDRdLhRDnYp8qB9tf-0jxsqOAN7Lwr61HkvDYs6G53cWrrkAJqGWJBMW-NPJjmu3i470zwzmkfRIZK0kSGL6b1Vwq_UPjeOQ76gaiOfXn827dNdlLQ8_pUZkhsXMi9j39idQUz3qVA_Dgk6zVUwsxbAoyOFm1gU56K5l-mQvNf8JNYbIBQ8haINR7ij28fD_RAovutWPXBwAcZP7BshhK1xlpGOd7f9cRtZc8CdoVP4pZ_bCObDBISxa3WORXPeaHENTUCHXQ6wVdV3O6McLFjo2ACquYY6o6WxcCu6X-au9rgItU4Lsq18jPjp2jgoLQVWznxNCFiCbvIPF-vjR2Bcxml2XG5APkZjfJkQ_Wr6xc-90Fdn5V4D7IPAVrPDNSLBBbdG1C06w2EKN1jz9I-kVVJ2QnOoriJlpAlVwEV6IqCnVZDH1AbtlyLPM0_BQPowv8wBYxnka3WW02ZtDayuBKa6DpjhO7_XAMqXxtk7_7dMN-JmFb2R93VNmsf6X9mVuctH-aE21yBPYa7Mym8POdBMYoBn0DJ-UTV2EUJ7D6cnQhuhv7jyZCowD0gzQTq9p_hCYNRG91GgzQBvLUFQhcQP1s0DAgASoJdXMtZWFzdC0xML0E.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogFPaX-OLBd9ArtdtqEuFF909u3r4a84ckjV4LPBVjIcdDEGYA7mtdR_wFfU34AqKMWt6osYfPdlYDgLACeGhJdyyoJTfAuJo4xnneBSgILH8eAyg6HcHSSzvra0z35pz1rAzkPHvuSFDkgXKoM2IXVbxAp7Ax94f_nHYq_y3v0ui0uP-Z6YVp7dfGM6YTui-fGu_icuW9vmCPBnTa9-owEfCMzitW5ZyyvnSPSeBt5nZEJgZrDkV_YIZveM7BLcg92SgPdGPciEI0Pj30OtVWT_ArrBzxiCJl6j97-XVCzGqZPeg15Drtw8WmUrTjvtM99SmQpxkJcPpKCb76Md67ZO8JAEFSbLJrDLLCQVJDAYE9hEu6efY9F0ToYVO6DJqzDiZ-_2fTrtUB01f084gUPZHWFPR9tS_hSVF7EZpMoMLl6WGM94Q25ITdYWZP3kalftU-cxOQUoPJpkyNxw-gUao0NJahGVLSus9hW1AbNW0SqNJhMYRoQwL0J5g4l1YXKkWMvKyoF_xhClH12NSVizrTlU4P6j5csTK5qFkpDsbKeLxvNcic3qwd4dZobPzZhY04khV9PSGstBDeChyH6yDE1y4Q_BTpcOr5XGHIwMHUqfiuLyWYtohnOJkNY8WdVclbsevuRWEPxD2k2OQoPQkrlqDTDSiSyTGgTaXwyWBwvuGG47oxmvjC4YPFuOav64ADswZt8FpwcPhJxY3T0b1xsP8F739ncwY6XLdIoAvy4pdpzOCfNR8NhBQ5ED5PNbKW7ss-o25E1c42qkZH-a_7G8osIUaph0yHgabqMPPLMw9RJUAO6MXes2QfGl1RFTSf3qynxvPs6qCJkpTx-HhMcGvdOXXDYGgzgcjSR2cgla0NNf-8gASoJdXMtZWFzdC0xML8E.m3u8
 #EXTINF:-1 tvg-id="pe.RadioInkaTV" tvg-logo="https://i.postimg.cc/q7WCcMwB/pe-radio-inkatv.png" group-title="Perú", Radio Inka TV [Abancay]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="pe.RadioSanBorjaTV" tvg-logo="https://i.postimg.cc/x139hJjp/pe-radio-sanborjatv.png" group-title="Perú", Radio San Borja TV
@@ -230,7 +230,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VivaTV" tvg-logo="https://i.postimg.cc/zfs02nVk/pe-vivatv.png" group-title="Perú", Viva TV [Yurimaguas]
 https://prod-live-us-central1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_D0BcHv22/wixmp-3dbd5cb16bb136182e099f78_D0BcHv22_.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuLFfU-Ooha1dOxkp0I84idpU7kn78n5xl8w5i0m3Ar9)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmnzG5yP3PHeqGM15kG5tPM08AONY9dthXD16HFyhJl8t)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
@@ -258,7 +258,7 @@ https://stream.ads.ottera.tv/cl/230308cg3vj5fn8r58414ejfa0/1280x720_1500000_0_f.
 #EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
 https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
-https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/2e1f8028-a88e-496c-9f60-8e577031ce7c/5.m3u8
+https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/02c8cb50-5aeb-483f-95f7-ce7208120884/0.m3u8
 #EXTINF:-1 tvg-id="plex.MotorvisionTV" tvg-logo="https://i.postimg.cc/CLCRZG5X/plex-motorvisiontv.png" group-title="PLEX", Motorvision TV
 https://stream.ads.ottera.tv/cl/230305cg221b4ps1tjeqviu8l0/1280x720_3071200_1_f.m3u8
 #EXTINF:-1 tvg-id="plex.StingrayExitosDelMomento" tvg-logo="https://i.postimg.cc/xCRT8rKc/plex-stingray-exitos-del-momento.png" group-title="PLEX", Stingray - Éxitos del Momento
