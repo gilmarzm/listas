@@ -236,7 +236,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VivaTV" tvg-logo="https://i.postimg.cc/zfs02nVk/pe-vivatv.png" group-title="Perú", Viva TV [Yurimaguas]
 https://repackager.wixmp.com/wixmp-vod/2c320d0f-3ee7-47c5-866e-42221509b37d/video/cc68bf5de0354ee1aebf3be1c202e5e9/720p/mp4/file.mp4/index-v1-a1.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcHA6cHJpdmF0ZW1lZGlhIiwiaXNfY2xpcCI6ZmFsc2UsInZpZGVvX2lkIjoiY2M2OGJmNWRlMDM1NGVlMWFlYmYzYmUxYzIwMmU1ZTkiLCJzdWIiOiJ1c2VyOnByaXZhdGVtZWRpYSIsImV4cCI6MTY3ODg3MTM0MH0.M1jOF3s_B4-XDB8yRz5Ws4THXdrJ5IlOWYjDi8wzh9w&site_id=426d64fa-29db-47e1-9093-f8ab6a954368
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmnzG5yP3PHeqGM15kG5tPM08AONY9dthXD16HFyhJl8t)/dm/3/x7x4dgx/s/live-1.m3u8
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0cCJK3HvdvblsweMsOZX8cBNOn3_v-Ja1MRR-kf0_W8H3qkZAqjdONi9LWdWgOmX9g&dmTs=801030&dmV1st=EFC125A4E9FF438ABADAFAB097E018E9
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
