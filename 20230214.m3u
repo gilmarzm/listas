@@ -175,7 +175,7 @@ https://inliveserver.com:1936/9514/9514/playlist.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.SolStereoTV" tvg-logo="https://i.postimg.cc/QxFDKz5P/pe-sol-stereotv.png" group-title="Perú", Sol Stereo TV [Casma]
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-id="pe.SolTV" tvg-logo="https://i.postimg.cc/QxFDKz5P/pe-sol-stereotv.png" group-title="Perú", Sol TV [Trujillo]
+#EXTINF:-1 tvg-id="pe.SolTV" tvg-logo="https://i.postimg.cc/9MdVDML5/pe-soltv.png" group-title="Perú", Sol TV [Trujillo]
 https://livefocamundo.com:8081/soltv/index.m3u8
 #EXTINF:-1 tvg-id="pe.SolarTelevision" tvg-logo="https://i.postimg.cc/9MdVDML5/pe-soltv.png" group-title="Perú", Solar Televisión [Cusco]
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
