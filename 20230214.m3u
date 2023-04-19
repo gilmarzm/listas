@@ -594,15 +594,15 @@ https://stream.ads.ottera.tv/cl/230305cg221b4ps1tjeqviu8l0/1280x720_3071200_1_f.
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-62efba6588a16bb7d6b6fb58/variant.m3u8?url=59344922c0ba7548c15735f89462cb0b-c38b08be39641fcdbcd11aab9a85c5f0fd9ed7309400d29969e1e3bcf97804b2226607415cb34557587298abde1daaba64e383595cb7836d701544142749f4b239f2f214cd8b0a5a502532786f05fa57b3cd213d00a910a154e630b1543e52e5&x-plex-token=7wx5RzKS6it-J71RqQvU
 #EXTINF:-1 tvg-id="plex.TheBobRossChannelEnEspañol" tvg-logo="https://i.postimg.cc/rpK0Rwf7/plex-the-bob-ross-channel-en-espa-ol.png" group-title="PLEX", The Bob Ross Channel en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Session-Identifier=z9x6m8yfkjgugumjocrjxa74&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=859x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
-#EXTINF:-1 tvg-id="us.CNNEspañol" tvg-logo="https://i.postimg.cc/sMb93tJc/cn-cgtn-en-espanol.png" group-title="Internacionales",CNN Español
+#EXTINF:-1 tvg-id="us.CNNEspañol" tvg-logo="https://i.postimg.cc/NLQ8G8RW/us-cnn-espa-ol.png" group-title="Internacionales",CNN Español
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10608
-#EXTINF:-1 tvg-id="cn.CgtnEnEspanol" tvg-logo="https://i.postimg.cc/3W9XkyBW/de-dw-en-espanol.png" group-title="Internacionales",CGTN en Español
+#EXTINF:-1 tvg-id="cn.CgtnEnEspanol" tvg-logo="https://i.postimg.cc/sMb93tJc/cn-cgtn-en-espanol.png" group-title="Internacionales",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="de.DwEnEspañol" tvg-logo="https://i.postimg.cc/34TXvmV0/fr-euronews-en-espanol.png" group-title="Internacionales",DW en Español
+#EXTINF:-1 tvg-id="de.DwEnEspañol" tvg-logo="https://i.postimg.cc/3W9XkyBW/de-dw-en-espanol.png" group-title="Internacionales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="fr.EuronewsEnEspanol" tvg-logo="https://i.postimg.cc/bGb0r3Cj/fr-france24-espanol.png" group-title="Internacionales",Euronews en Español
+#EXTINF:-1 tvg-id="fr.EuronewsEnEspanol" tvg-logo="https://i.postimg.cc/34TXvmV0/fr-euronews-en-espanol.png" group-title="Internacionales",Euronews en Español
 https://stream.ads.ottera.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="fr.France24Espanol" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Internacionales",France 24 Español
+#EXTINF:-1 tvg-id="fr.France24Espanol" tvg-logo="https://i.postimg.cc/bGb0r3Cj/fr-france24-espanol.png" group-title="Internacionales",France 24 Español
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/197421
-#EXTINF:-1 tvg-id="ru.RtEnEspañol" tvg-logo="https://i.postimg.cc/NLQ8G8RW/us-cnn-espa-ol.png" group-title="Internacionales",RT en Español
+#EXTINF:-1 tvg-id="ru.RtEnEspañol" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Internacionales",RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
