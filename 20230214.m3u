@@ -55,6 +55,8 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="pe.ClipsTV" tvg-logo="https://i.postimg.cc/cHXpsQnx/pe-clipstv.png" group-title="Perú", Clips TV [Paita]
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="pe.CNC" tvg-logo="https://i.postimg.cc/8zy3PLHQ/pe-cnc.png" group-title="Perú", CNC [Cajamarca]
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="pe.CNCDigital" tvg-logo="https://i.postimg.cc/xTZJ7BSw/pe-cnc-digital.png" group-title="Perú", CNC Digital [Iquitos]
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 #EXTINF:-1 tvg-id="pe.Conecta2TV" tvg-logo="https://i.postimg.cc/br9p5Wcb/pe-conecta2tv.png" group-title="Perú", Conecta2 TV
@@ -187,6 +189,8 @@ https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 tvg-id="pe.SuperTV" tvg-logo="https://i.postimg.cc/x8TD0Zpw/pe-supertv.png" group-title="Perú", Super TV HD [Bagua Grande]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1 tvg-id="pe.SuperCanal" tvg-logo="https://i.postimg.cc/CxvrJnJ4/pe-super-canal.png" group-title="Perú", Super Canal [Yurimaguas]
+https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="pe.Sur" tvg-logo="https://i.postimg.cc/d0xmy8wC/pe-sur.png" group-title="Perú", Sur [Ilo]
 https://stmv.panel.grupoLimalive.com/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Tele2000" tvg-logo="https://i.postimg.cc/FK8x0RtG/pe-tele2000.png" group-title="Perú", Tele 2000 [Huanta]
@@ -262,7 +266,7 @@ https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="pe.Willax" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Perú", Willax
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10641
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Perú", W TV
-https://live.obslivestream.com/wtv/tracks-v3a1/mono.m3u8
+https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Perú", XTV [Chachapoyas]
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="plex.Chiquilines" tvg-logo="https://i.postimg.cc/Jh6YcH65/plex-chiquilines.png" group-title="PLEX", PLEX Chiquilines
@@ -282,7 +286,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7094a092
 #EXTINF:-1 tvg-id="plex.TuCine" tvg-logo="https://i.postimg.cc/BQcQMJxV/plex-tu-cine.png" group-title="PLEX", PLEX Tu Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6018913ea15130002b284193.m3u8?X-Plex-Session-Identifier=ytli73m2ghkjit3ng3nvqe5d&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
 #EXTINF:-1 tvg-id="plex.Bjgtjme" tvg-logo="https://i.postimg.cc/LhFHT84N/plex-bjgtjme.png" group-title="PLEX", Bjgtjme
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=739c9a7185e08fb6266550d8fe06eb85-147adce11c0f3f05cfcb068d030b2588d7d1f09b492ae8f135f9aa2fcd6691f3b1f56191901e63be6f9b2dd95e584444753114ccf70dfd852bdc7d8dcddda6b4bfb7081973ff817f2c35e0c2df6e9c57a1a126c596d9a7eb30c8ee2b1230b93ea499923a7500fd8398b2b92ae4c593a10605aca520b8fa16ecbaee4831ef7889accab118db182a4a775bdd463218e27c107b051e34832093bab9c8b8defefce750316038489df7167c30ffef429e2fda11ad3c9d70f1f2c4af5bca3e71f427f3647148bfddd826db2add87a1e26b61e4&x-plex-token=HdH9jQc1N6UPhXV17_sZ
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=d789b7dde79141702391fbff4b3859ca-972b5e1bb5b844614e9b53dc48e2280a3ebf690e8bdae562d27ced65e68987e96641a162aae4e0c26bbb342a697b21adde95e784e8b957b2c581de21a5cdd9914a46e845ad622f51943b57e6d411878b5ee35ed62a8a2e836d3d2f9e22a8dd6ac6bc2e9c27b87b34d2d68d58eec634f534e28e345d063357eb366d417e221b14f0551e9080e9533dcaadb1587ac3cf836cf5d2391c0a40a9fe2cf0df9bcf7fe2508123a5dc8449d0073229a7ab9626f265b951261272e388b6507a82a2461f47faa29daedc535f522914da73132bf86f&x-plex-token=t7646ss6fkbirfDRy5ak&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1682143093
 #EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
 https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
@@ -583,6 +587,8 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/148714
 http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="prem.TntMex" tvg-logo="https://i.postimg.cc/VrpPq73g/prem-tnt.png" group-title="Premium",TNT [Mex]
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155176
+#EXTINF:-1 tvg-id="prem.TntHD" tvg-logo="https://i.postimg.cc/VrpPq73g/prem-tnt.png" group-title="Premium",TNT HD
+http://23.148.145.49:25461/live/televall/2RgAXOPzNP/199_.m3u8
 #EXTINF:-1 tvg-id="prem.TntSeriesArg" tvg-logo="https://i.postimg.cc/DzPSjj28/prem-tnt-series.png" group-title="Premium",TNT Series [Arg]
 http://170.79.235.29:8000/play/108
 #EXTINF:-1 tvg-id="prem.TntSeriesMex" tvg-logo="https://i.postimg.cc/DzPSjj28/prem-tnt-series.png" group-title="Premium",TNT Series [Mex]
@@ -623,3 +629,15 @@ http://45.166.92.22:58001/play/a01r/index.m3u8
 http://170.79.235.29:8000/play/081
 #EXTINF:-1 tvg-id="prem.WarnerChannelMex" tvg-logo="https://i.postimg.cc/VLKgjVcL/prem-warner-channel.png" group-title="Premium",Warner Channel [Mex]
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/148810
+#EXTINF:-1 tvg-id="us.CNNEspañol" tvg-logo="https://i.postimg.cc/NLQ8G8RW/us-cnn-espa-ol.png" group-title="Internacionales",CNN Español
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10608
+#EXTINF:-1 tvg-id="cn.CgtnEnEspanol" tvg-logo="https://i.postimg.cc/sMb93tJc/cn-cgtn-en-espanol.png" group-title="Internacionales",CGTN en Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="de.DwEnEspañol" tvg-logo="https://i.postimg.cc/3W9XkyBW/de-dw-en-espanol.png" group-title="Internacionales",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="fr.EuronewsEnEspanol" tvg-logo="https://i.postimg.cc/34TXvmV0/fr-euronews-en-espanol.png" group-title="Internacionales",Euronews en Español
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fr.France24Espanol" tvg-logo="https://i.postimg.cc/bGb0r3Cj/fr-france24-espanol.png" group-title="Internacionales",France 24 Español
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/197421
+#EXTINF:-1 tvg-id="ru.RtEnEspañol" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Internacionales",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
