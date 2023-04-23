@@ -641,3 +641,5 @@ https://stream.ads.ottera.tv/playlist.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/197421
 #EXTINF:-1 tvg-id="ru.RtEnEspañol" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Internacionales",RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="ru.MovistarDeportes" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Deportes",Movistar deportes
+https://ed1.zorrohd7.xyz/live/ST574ebef268c2ba2.m3u8
