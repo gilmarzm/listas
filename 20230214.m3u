@@ -304,7 +304,7 @@ http://mundxtr.online:2082/69968/69968/372522
 #EXTINF:-1 tvg-id="prem.AmcArg" tvg-logo="https://i.postimg.cc/3ysS8Ppg/prem-amc.jpg" group-title="Premium",AMC [Arg]
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="prem.AmcMex" tvg-logo="https://i.postimg.cc/3ysS8Ppg/prem-amc.jpg" group-title="Premium",AMC [Mex]
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/148717
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/37983
 #EXTINF:-1 tvg-id="prem.AmcBreak" tvg-logo="https://i.postimg.cc/d7WJNHGX/prem-amc-break.png" group-title="Premium",AMC Break
 http://mundxtr.online:2082/69968/69968/219259
 #EXTINF:-1 tvg-id="prem.AmcCrime" tvg-logo="https://i.postimg.cc/5Y6bhB3t/prem-amc-crime.png" group-title="Premium",AMC Crime
@@ -398,17 +398,19 @@ http://170.79.235.29:8000/play/177
 #EXTINF:-1 tvg-id="prem.EspnPer" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Per]
 http://200.4.217.18:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="prem.EspnArg" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Arg]
-http://190.119.78.170:8000/play/a0az/index.m3u8
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/14857
 #EXTINF:-1 tvg-id="prem.Espn2Arg" tvg-logo="https://i.postimg.cc/RWcy3CSg/prem-espn2.png" group-title="Deportes",ESPN 2 [Arg]
 http://200.4.217.18:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="prem.Espn3Arg" tvg-logo="https://i.postimg.cc/Z0RGfhHq/prem-espn3.png" group-title="Deportes",ESPN 3 [Arg]
 http://200.4.217.18:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="prem.Espn4Arg" tvg-logo="https://i.postimg.cc/0jz8N4YX/prem-espn4.png" group-title="Deportes",ESPN 4 [Arg]
-http://190.119.78.170:8000/play/a0az/index.m3u8
+http://190.187.192.92:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="prem.EspnChi" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Chi]
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/79935
 #EXTINF:-1 tvg-id="prem.EspnCol" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Col]
 http://200.116.199.180:8000/play/a04k
 #EXTINF:-1 tvg-id="prem.Espn2Col" tvg-logo="https://i.postimg.cc/RWcy3CSg/prem-espn2.png" group-title="Deportes",ESPN 2 [Col]
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202084
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/69925
 
 #EXTINF:-1 tvg-id="prem.EspnMex" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Mex]
 http://45.166.92.22:58001/play/a01g/index.m3u8
@@ -418,10 +420,14 @@ http://45.166.92.22:58001/play/a01i/index.m3u8
 http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="prem.Espn4Mex" tvg-logo="https://i.postimg.cc/0jz8N4YX/prem-espn4.png" group-title="Deportes",ESPN 4 [Mex]
 http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="prem.EspnAccNetwork" tvg-logo="https://i.postimg.cc/Fk3D41Ln/prem-espn-acc-network.png" group-title="Deportes",ESPN ACC Network
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/14370
+#EXTINF:-1 tvg-id="prem.EspnDeportes" tvg-logo="https://i.postimg.cc/s1hnSHN9/prem-espn-deportes.png" group-title="Deportes",ESPN Deportes
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/15453
 #EXTINF:-1 tvg-id="prem.EspnExtraArg" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra [Arg]
 http://168.194.171.33:8000/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-id="prem.EspnExtraMex" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra [Mex]
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/37820
 #EXTINF:-1 tvg-id="prem.EspnExtraUsa" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra [USA]
 http://45.162.135.33:1880/play/a077
 #EXTINF:-1 tvg-id="prem.EspnPremium" tvg-logo="https://i.postimg.cc/bsW025NK/prem-espn-premium.png" group-title="Deportes",ESPN Premium
