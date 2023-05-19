@@ -572,7 +572,7 @@ http://mundxtr.online:2082/69968/69968/372432
 #EXTINF:-1 tvg-id="prem.LifetimeMex" tvg-logo="https://i.postimg.cc/FKkYHDvK/prem-lifetime.png" group-title="Premium",Lifetime [Mex]
 http://190.0.246.174:30000/play/tr074
 #EXTINF:-1 tvg-id="prem.Liga1Max" tvg-logo="https://i.postimg.cc/xkVkR5S0/prem-liga1-max.png" group-title="Deportes",Liga 1 Max
-http://191.52.214.5:8000/play/a04q/index.m3u8
+http://190.119.178.46:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="prem.LoveNature" tvg-logo="https://i.postimg.cc/Hj8gYgyh/prem-love-nature.png" group-title="Premium",Love Nature
 http://168.194.171.33:8000/play/a09f/index.m3u8
 
