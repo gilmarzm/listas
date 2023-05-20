@@ -1,3 +1,6 @@
+#EXTM3U
+######################################################### PERU #########################################################
+
 #EXTINF:-1 tvg-id="pe.AgroTV" tvg-logo="https://i.postimg.cc/ncPDWLT6/pe-agrotv.png" group-title="Peru-Regionales",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pe.AmazonasTV" tvg-logo="https://i.postimg.cc/CL3wStp3/pe-amazonastv.png" group-title="Peru-Regionales",Amazonas TV
@@ -230,3 +233,469 @@ http://168.121.46.90:8000/play/a05c/index.m3u8
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Peru-Regionales",XTV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+
+######################################################### PLEX #########################################################
+
+#EXTINF:-1 tvg-id="plex.Chiquilines" tvg-logo="https://i.postimg.cc/Jh6YcH65/plex-chiquilines.png" group-title="PLEX", PLEX Chiquilines
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/14d366a2-3a9e-4948-9e9b-100372116046/5.m3u8
+#EXTINF:-1 tvg-id="plex.CineReal" tvg-logo="https://i.postimg.cc/brp4JfsZ/plex-cine-real.png" group-title="PLEX", PLEX Cine Real
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7095a09205002da4f295.m3u8?X-Plex-Session-Identifier=6igv42a5wdkrsfk69vlpgpzf&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.CineSureño" tvg-logo="https://i.postimg.cc/2SGRB64C/plex-cine-sureño.png" group-title="PLEX", PLEX Cine Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-plex/e51ffdb0-b338-4945-a310-f0d2ccc2b610/5.m3u8
+#EXTINF:-1 tvg-id="plex.Flash" tvg-logo="https://i.postimg.cc/Jhhw3LqZ/plex-flash.png" group-title="PLEX", PLEX Flash
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/38d557da-879e-4c29-a604-2f757794febb/5.m3u8
+#EXTINF:-1 tvg-id="plex.JuntosTV" tvg-logo="https://i.postimg.cc/Pf6PjXLv/plex-juntos.png" group-title="PLEX", PLEX Juntos
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/26801ede-47f6-4017-9be9-2daf85260453/5.m3u8
+#EXTINF:-1 tvg-id="plex.SaberMas" tvg-logo="https://i.postimg.cc/bwYGcZgn/plex-saber-mas.png" group-title="PLEX", PLEX Saber Mas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/79a43647-42f9-45b1-bb6b-f02bf47da955/5.m3u8
+#EXTINF:-1 tvg-id="plex.TopCine" tvg-logo="https://i.postimg.cc/Z54zR3vf/plex-top-cine.png" group-title="PLEX", PLEX Top Cine
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-608b7094a09205002da4f291.m3u8?X-Plex-Session-Identifier=1trvalg5zlw5ft0t73g216fx&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.TuCine" tvg-logo="https://i.postimg.cc/BQcQMJxV/plex-tu-cine.png" group-title="PLEX", PLEX Tu Cine
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6018913ea15130002b284193.m3u8?X-Plex-Session-Identifier=ytli73m2ghkjit3ng3nvqe5d&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1360x625%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-id="plex.Bjgtjme" tvg-logo="https://i.postimg.cc/LhFHT84N/plex-bjgtjme.png" group-title="PLEX", Bjgtjme
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-6348969190b96ef5e0eb327a/variant.m3u8?url=d789b7dde79141702391fbff4b3859ca-972b5e1bb5b844614e9b53dc48e2280a3ebf690e8bdae562d27ced65e68987e96641a162aae4e0c26bbb342a697b21adde95e784e8b957b2c581de21a5cdd9914a46e845ad622f51943b57e6d411878b5ee35ed62a8a2e836d3d2f9e22a8dd6ac6bc2e9c27b87b34d2d68d58eec634f534e28e345d063357eb366d417e221b14f0551e9080e9533dcaadb1587ac3cf836cf5d2391c0a40a9fe2cf0df9bcf7fe2508123a5dc8449d0073229a7ab9626f265b951261272e388b6507a82a2461f47faa29daedc535f522914da73132bf86f&x-plex-token=t7646ss6fkbirfDRy5ak&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1682143093
+#EXTINF:-1 tvg-id="plex.LaCorriente" tvg-logo="https://i.postimg.cc/432DBSLM/plex-la-corriente.png" group-title="PLEX", La Corriente
+https://stream.ads.ottera.tv/cl/230304cg1d6nkps1tjeqvhuvog/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="plex.LevelUp" tvg-logo="https://i.postimg.cc/xdb401Tf/plex-level-up-tv.png" group-title="PLEX", Level Up
+https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/e49f7ab2-55c1-41fa-a541-273115be6ac6/5.m3u8
+#EXTINF:-1 tvg-id="plex.MotorvisionTV" tvg-logo="https://i.postimg.cc/CLCRZG5X/plex-motorvisiontv.png" group-title="PLEX", Motorvision TV
+https://stream.ads.ottera.tv/cl/230305cg221b4ps1tjeqviu8l0/1280x720_3071200_1_f.m3u8
+#EXTINF:-1 tvg-id="plex.StingrayExitosDelMomento" tvg-logo="https://i.postimg.cc/xCRT8rKc/plex-stingray-exitos-del-momento.png" group-title="PLEX", Stingray - Éxitos del Momento
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-62efba6588a16bb7d6b6fb58/variant.m3u8?url=59344922c0ba7548c15735f89462cb0b-c38b08be39641fcdbcd11aab9a85c5f0fd9ed7309400d29969e1e3bcf97804b2226607415cb34557587298abde1daaba64e383595cb7836d701544142749f4b239f2f214cd8b0a5a502532786f05fa57b3cd213d00a910a154e630b1543e52e5&x-plex-token=7wx5RzKS6it-J71RqQvU
+#EXTINF:-1 tvg-id="plex.TheBobRossChannelEnEspañol" tvg-logo="https://i.postimg.cc/rpK0Rwf7/plex-the-bob-ross-channel-en-espa-ol.png" group-title="PLEX", The Bob Ross Channel en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-636442f69aabc8029c6d6b8d.m3u8?X-Plex-Session-Identifier=z9x6m8yfkjgugumjocrjxa74&X-Plex-Product=Plex%20Web&X-Plex-Version=4.102.1&X-Plex-Client-Identifier=ab7hstl54ksimrgembshp4uq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=859x568%2C1360x768&X-Plex-Token=7wx5RzKS6it-J71RqQvU&X-Plex-Language=es&Accept-Language=es
+
+######################################################### PREMIUM #########################################################
+
+#EXTINF:-1 tvg-id="prem.AandE.S1" tvg-logo="https://i.postimg.cc/dkGWL4mg/prem-a-e.png" group-title="Premium",A&E
+http://181.78.24.187:8006/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="prem.AandE.S2" tvg-logo="https://i.postimg.cc/dkGWL4mg/prem-a-e.png" group-title="Premium",A&E
+http://mundxtr.online:2082/69968/69968/372522
+#EXTINF:-1 tvg-id="prem.AandE.S3" tvg-logo="https://i.postimg.cc/dkGWL4mg/prem-a-e.png" group-title="Premium",A&E
+http://45.228.234.162:24000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="prem.Afizzionados" tvg-logo="https://i.postimg.cc/rm5X0Jt2/prem-afizzionados.png" group-title="Deportes",Afizzionados
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/15
+#EXTINF:-1 tvg-id="prem.Amc.S1" tvg-logo="https://i.postimg.cc/3ysS8Ppg/prem-amc.jpg" group-title="Premium",AMC
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="prem.Amc.S2" tvg-logo="https://i.postimg.cc/3ysS8Ppg/prem-amc.jpg" group-title="Premium",AMC
+http://181.78.24.187:8006/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="prem.AmcBreak" tvg-logo="https://i.postimg.cc/d7WJNHGX/prem-amc-break.png" group-title="Premium",AMC Break
+http://mundxtr.online:2082/69968/69968/219259
+#EXTINF:-1 tvg-id="prem.AmcCrime" tvg-logo="https://i.postimg.cc/5Y6bhB3t/prem-amc-crime.png" group-title="Premium",AMC Crime
+http://mundxtr.online:2082/69968/69968/219262
+#EXTINF:-1 tvg-id="prem.AnimalPlanet.S1" tvg-logo="https://i.postimg.cc/Bt03NzyL/prem-animal-planet.png" group-title="Premium",Animal Planet
+http://mundxtr.online:2082/69968/69968/372613
+#EXTINF:-1 tvg-id="prem.AnimalPlanet.S2" tvg-logo="https://i.postimg.cc/Bt03NzyL/prem-animal-planet.png" group-title="Premium",Animal Planet
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="prem.Axn.S1" tvg-logo="https://i.postimg.cc/rRcfWxfs/prem-axn.png" group-title="Premium",AXN
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="prem.Axn.S2" tvg-logo="https://i.postimg.cc/rRcfWxfs/prem-axn.png" group-title="Premium",AXN
+http://167.250.39.130:8000/play/axn
+#EXTINF:-1 tvg-id="prem.BeinSportsHD" tvg-logo="https://i.postimg.cc/njvHcwV8/prem-bein-sports-hd.png" group-title="Deportes",Bein Sports HD
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/354
+#EXTINF:-1 tvg-id="prem.BeinSportsÑ" tvg-logo="https://i.postimg.cc/svFctmGX/prem-bein-sports-en-espa-ol.png" group-title="Deportes",Bein Sports Ñ
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117052
+#EXTINF:-1 tvg-id="prem.BeinSportsXtra" tvg-logo="https://i.postimg.cc/0KP96drz/prem-bein-sports-xtra.png" group-title="Deportes",Bein Sports Xtra
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117055
+#EXTINF:-1 tvg-id="prem.BeinSportsXtraÑ" tvg-logo="https://i.postimg.cc/JtHx6vnv/prem-bein-sports-xtra-en-espa-ol.png" group-title="Deportes",Bein Sports Xtra Ñ
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117059
+#EXTINF:-1 tvg-id="prem.CartoonNetworkArg" tvg-logo="https://i.postimg.cc/rRVFHZhk/prem-cartoon-network.png" group-title="Premium",Cartoon Network
+http://181.78.75.11:9500/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="prem.CartoonNetworkMex" tvg-logo="https://i.postimg.cc/rRVFHZhk/prem-cartoon-network.png" group-title="Premium",Cartoon Network
+http://190.0.246.174:30000/play/tr015
+#EXTINF:-1 tvg-id="prem.Cartoonito.S1" tvg-logo="https://i.postimg.cc/rwkxqTXz/prem-cartoonito.png" group-title="Premium",Cartoonito
+http://45.167.192.49:8100/play/a02i
+#EXTINF:-1 tvg-id="prem.Cartoonito.S2" tvg-logo="https://i.postimg.cc/rwkxqTXz/prem-cartoonito.png" group-title="Premium",Cartoonito
+http://85.4.116.126:8080/play/a0gx
+#EXTINF:-1 tvg-id="prem.Cinecanal.S1" tvg-logo="https://i.postimg.cc/QV3B50JS/prem-cinecanal.png" group-title="Premium",Cinecanal
+http://181.78.24.187:8006/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="prem.Cinecanal.S2" tvg-logo="https://i.postimg.cc/QV3B50JS/prem-cinecanal.png" group-title="Premium",Cinecanal
+http://167.250.39.130:8000/play/cinecanal
+#EXTINF:-1 tvg-id="prem.Cinemax.S1" tvg-logo="https://i.postimg.cc/2bFS2N7G/prem-cinemax.png" group-title="Premium",Cinemax
+http://167.250.39.130:8000/play/cinemax
+#EXTINF:-1 tvg-id="prem.Cinemax.S2" tvg-logo="https://i.postimg.cc/2bFS2N7G/prem-cinemax.png" group-title="Premium",Cinemax
+http://181.78.20.47:9000/play/a067
+
+#EXTINF:-1 tvg-id="prem.CineFamiliar" tvg-logo="https://i.postimg.cc/ykxVkGg2/prem-cine-familiar.png" group-title="Premium",Cine Familiar
+http://167.250.39.130:8000/play/cinefamiliar
+#EXTINF:-1 tvg-id="prem.CineHispano" tvg-logo="https://i.postimg.cc/SjyQpRyS/prem-cine-hispano.png" group-title="Premium",Cine Hispano
+http://167.250.39.130:8000/play/cinehispano
+#EXTINF:-1 tvg-id="prem.CinePremium" tvg-logo="https://i.postimg.cc/crzdYcfC/prem-cine-premium.png" group-title="Premium",Cine Premium
+http://167.250.39.130:8000/play/cinepremiun
+#EXTINF:-1 tvg-id="prem.ClaroSports" tvg-logo="https://i.postimg.cc/4dTZ5dtc/prem-claro-sports.png" group-title="Deportes",Claro Sports
+http://186.101.207.117:9955/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-id="prem.ClaroSports2" tvg-logo="https://i.postimg.cc/4dTZ5dtc/prem-claro-sports.png" group-title="Deportes",Claro Sports 2
+http://186.101.207.117:9955/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="prem.CloverChannel" tvg-logo="https://i.postimg.cc/mtZtpkqH/prem-clover-channel.png" group-title="Premium",Clover Channel
+http://168.194.171.33:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="prem.ComedyCentral" tvg-logo="https://i.postimg.cc/NyXM2HyW/prem-comedy-central.png" group-title="Premium",Comedy Central
+http://45.228.234.41:16000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-id="prem.DeluxeMusic" tvg-logo="https://i.postimg.cc/zvwh1Kh4/prem-deluxe-music.png" group-title="Musica",Deluxe Music
+http://5.255.90.250:5000/play/a018
+#EXTINF:-1 tvg-id="prem.Dhe" tvg-logo="https://i.postimg.cc/PNQCMY6H/prem-dhe.png" group-title="Premium",DHE
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryChannel.S1" tvg-logo="https://i.postimg.cc/FY71mqhF/prem-discovery-channel.png" group-title="Premium",Discovery Channel
+http://167.250.39.130:8000/play/discoverychannel
+#EXTINF:-1 tvg-id="prem.DiscoveryChannel.S2" tvg-logo="https://i.postimg.cc/FY71mqhF/prem-discovery-channel.png" group-title="Premium",Discovery Channel
+http://38.7.24.161:8000/play/a01u
+#EXTINF:-1 tvg-id="prem.DiscoveryChannel.S3" tvg-logo="https://i.postimg.cc/FY71mqhF/prem-discovery-channel.png" group-title="Premium",Discovery Channel
+http://181.188.138.186:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryEnEspañol" tvg-logo="https://i.postimg.cc/L5wyBw2D/prem-discovery-channel-en-espa-ol.png" group-title="Premium",Discovery En Español
+http://mundxtr.online:2082/69968/69968/372638
+
+#EXTINF:-1 tvg-id="prem.DiscoveryHandH.S1" tvg-logo="https://i.postimg.cc/t1sLBJhH/prem-discovery-h-h.png" group-title="Premium",Discovery H&H
+http://179.1.64.211:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryHandH.S2" tvg-logo="https://i.postimg.cc/t1sLBJhH/prem-discovery-h-h.png" group-title="Premium",Discovery H&H
+http://38.7.24.161:8000/play/a029
+
+#EXTINF:-1 tvg-id="prem.DiscoveryKids.S1" tvg-logo="https://i.postimg.cc/xkBBhQRN/prem-discovery-kids.png" group-title="Premium",Discovery Kids
+http://179.1.64.211:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryKids.S2" tvg-logo="https://i.postimg.cc/xkBBhQRN/prem-discovery-kids.png" group-title="Premium",Discovery Kids
+http://38.7.24.161:8000/play/a00b
+#EXTINF:-1 tvg-id="prem.DiscoveryKids" tvg-logo="https://i.postimg.cc/xkBBhQRN/prem-discovery-kids.png" group-title="Premium",Discovery Kids
+http://181.189.243.198:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryScience" tvg-logo="https://i.postimg.cc/qMV9DP1X/prem-discovery-science.png" group-title="Premium",Discovery Science
+http://181.189.243.198:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryTheater" tvg-logo="https://i.postimg.cc/ZB3XhQ77/prem-discovery-theater.png" group-title="Premium",Discovery Theater
+http://181.78.75.11:9500/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryTurbo" tvg-logo="https://i.postimg.cc/18Ck0wVH/prem-discovery-turbo.png" group-title="Premium",Discovery Turbo
+http://181.78.75.11:9500/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="prem.DiscoveryWorld" tvg-logo="https://i.postimg.cc/w7W3CH8b/prem-discovery-world.png" group-title="Premium",Discovery World
+http://45.228.234.162:24000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.InvestigationDiscovery.S2" tvg-logo="https://i.postimg.cc/rzfrk55J/prem-investigation-discovery.png" group-title="Premium",Investigation Discovery
+http://45.228.234.162:24000/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="prem.DisneyChannel.S1" tvg-logo="https://i.postimg.cc/YvZ0S3S6/prem-disney-channel.png" group-title="Premium",Disney Channel
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="prem.DisneyChannel.S2" tvg-logo="https://i.postimg.cc/YvZ0S3S6/prem-disney-channel.png" group-title="Premium",Disney Channel
+http://45.238.20.235:8000/play/a0ze/index.m3u8
+#EXTINF:-1 tvg-id="prem.DisneyJunior.S1" tvg-logo="https://i.postimg.cc/vTdyzqxd/prem-disney-junior.png" group-title="Premium",Disney Junior
+http://179.189.222.226:8000/play/ch05
+#EXTINF:-1 tvg-id="prem.DisneyJunior.S2" tvg-logo="https://i.postimg.cc/vTdyzqxd/prem-disney-junior.png" group-title="Premium",Disney Junior
+http://181.78.20.47:9000/play/a00z
+#EXTINF:-1 tvg-id="prem.DsportsArg" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Arg]
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/350
+#EXTINF:-1 tvg-id="prem.DsportsChi" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Chi]
+http://mundxtr.online:2082/69968/69968/372352
+
+#EXTINF:-1 tvg-id="prem.DsportsPer" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Per]
+http://138.185.15.250:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="prem.DsportsEcu" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Ecu]
+http://mundxtr.online:2082/69968/69968/372552
+
+#EXTINF:-1 tvg-id="prem.Dsports2" tvg-logo="https://i.postimg.cc/64vJw44C/prem-dsports2.png" group-title="Deportes",DSports2
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117090
+#EXTINF:-1 tvg-id="prem.Dsports2Ecu" tvg-logo="https://i.postimg.cc/64vJw44C/prem-dsports2.png" group-title="Deportes",DSports2 [Ecu]
+http://190.119.178.46:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/mzqf0ykb/prem-dsports-plus.png" group-title="Deportes",DSports+
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117092
+#EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/BnRvHzwg/prem-dsports-fight.png" group-title="Deportes",Dsports Fight
+http://190.119.178.46:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="prem.EEntertainment.S1" tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png" group-title="Premium",E! Entertainment
+http://181.78.75.11:9500/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.ElGourmet" tvg-logo="https://i.postimg.cc/WFP4G1gt/prem-el-gourmet.png" group-title="Premium",El Gourmet
+http://181.78.24.187:8006/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.EspnArg" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Arg]
+http://181.78.20.47:9000/play/a05t
+#EXTINF:-1 tvg-id="prem.Espn2Arg" tvg-logo="https://i.postimg.cc/RWcy3CSg/prem-espn2.png" group-title="Deportes",ESPN 2 [Arg]
+http://200.116.199.180:8000/play/a03p
+#EXTINF:-1 tvg-id="prem.Espn3Arg" tvg-logo="https://i.postimg.cc/Z0RGfhHq/prem-espn3.png" group-title="Deportes",ESPN 3 [Arg]
+http://200.116.199.180:8000/play/a03u
+#EXTINF:-1 tvg-id="prem.Espn4Arg" tvg-logo="https://i.postimg.cc/0jz8N4YX/prem-espn4.png" group-title="Deportes",ESPN 4 [Arg]
+http://200.116.199.180:8000/play/a045
+
+#EXTINF:-1 tvg-id="prem.EspnCol" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Col]
+http://200.116.199.180:8000/play/a04k
+#EXTINF:-1 tvg-id="prem.Espn2Col" tvg-logo="https://i.postimg.cc/RWcy3CSg/prem-espn2.png" group-title="Deportes",ESPN 2 [Col]
+http://181.78.21.60:16123/play/ch17
+#EXTINF:-1 tvg-id="prem.Espn3Col" tvg-logo="https://i.postimg.cc/Z0RGfhHq/prem-espn3.png" group-title="Deportes",ESPN 3 [Col]
+http://181.78.21.60:16123/play/ch18
+#EXTINF:-1 tvg-id="prem.Espn4Col" tvg-logo="https://i.postimg.cc/0jz8N4YX/prem-espn4.png" group-title="Deportes",ESPN 4 [Col]
+http://181.78.21.60:16123/play/ch19
+#EXTINF:-1 tvg-id="prem.EspnMex" tvg-logo="https://i.postimg.cc/7fJpkMp8/prem-espn.png" group-title="Deportes",ESPN [Mex]
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="prem.Espn2Mex" tvg-logo="https://i.postimg.cc/RWcy3CSg/prem-espn2.png" group-title="Deportes",ESPN 2 [Mex]
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="prem.Espn3Mex" tvg-logo="https://i.postimg.cc/Z0RGfhHq/prem-espn3.png" group-title="Deportes",ESPN 3 [Mex]
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="prem.Espn4Mex" tvg-logo="https://i.postimg.cc/0jz8N4YX/prem-espn4.png" group-title="Deportes",ESPN 4 [Mex]
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="prem.EspnAccNetwork" tvg-logo="https://i.postimg.cc/Fk3D41Ln/prem-espn-acc-network.png" group-title="Deportes",ESPN ACC Network
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/91175
+#EXTINF:-1 tvg-id="prem.EspnDeportes" tvg-logo="https://i.postimg.cc/s1hnSHN9/prem-espn-deportes.png" group-title="Deportes",ESPN Deportes
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/91046
+#EXTINF:-1 tvg-id="prem.EspnExtra.S1" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra
+http://168.194.171.33:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="prem.EspnExtra.S2" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34654
+
+#EXTINF:-1 tvg-id="prem.EspnPremium" tvg-logo="https://i.postimg.cc/bsW025NK/prem-espn-premium.png" group-title="Deportes",ESPN Premium
+http://45.170.225.212:58001/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="prem.EspnU" tvg-logo="https://i.postimg.cc/vDPtGTR8/prem-espn-u.png" group-title="Deportes",ESPN U [USA]
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/91222
+#EXTINF:-1 tvg-id="prem.EuropaEuropa" tvg-logo="https://i.postimg.cc/nz5Tgyvb/prem-europa-europa.png" group-title="Premium",Europa Europa
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="prem.FilmAndArts" tvg-logo="https://i.postimg.cc/7YFXzk9P/prem-film-and-arts.png" group-title="Premium",Film & Arts
+http://45.228.234.162:24000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="prem.FoodNetwork" tvg-logo="https://i.postimg.cc/pm2TLp7v/prem-food-network.png" group-title="Premium",Food Network
+http://45.238.20.235:8000/play/a1az/index.m3u8
+#EXTINF:-1 tvg-id="prem.FoxSportsArg" tvg-logo="https://i.postimg.cc/sMTQ0fNb/prem-fox-sports-arg.png" group-title="Deportes",Fox Sports [Arg]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34641
+#EXTINF:-1 tvg-id="prem.FoxSportsArg2" tvg-logo="https://i.postimg.cc/LgkhkmPC/prem-fox-sports-arg2.png" group-title="Deportes",Fox Sports 2 [Arg]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34644
+#EXTINF:-1 tvg-id="prem.FoxSportsArg3" tvg-logo="https://i.postimg.cc/N2v5rKK2/prem-fox-sports-arg3.png" group-title="Deportes",Fox Sports 3 [Arg]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34647
+#EXTINF:-1 tvg-id="prem.FoxSports1Col" tvg-logo="https://i.postimg.cc/67cP0HGR/prem-fox-sports1.png" group-title="Deportes",Fox Sports 1 [Col]
+http://mundxtr.online:2082/69968/69968/375608
+#EXTINF:-1 tvg-id="prem.FoxSports2Col" tvg-logo="https://i.postimg.cc/QBhPcLVh/prem-fox-sports2.png" group-title="Deportes",Fox Sports 2 [Col]
+http://181.78.21.60:16123/play/ch20
+#EXTINF:-1 tvg-id="prem.FoxSports3Col" tvg-logo="https://i.postimg.cc/pmN3X5H9/prem-fox-sports3.png" group-title="Deportes",Fox Sports 3 [Ccol]
+http://181.78.21.60:16123/play/ch21
+#EXTINF:-1 tvg-id="prem.FoxSportsMex" tvg-logo="https://i.postimg.cc/HcyrxwkC/prem-fox-sports-mex.png" group-title="Deportes",Fox Sports [Mex]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302652
+#EXTINF:-1 tvg-id="prem.FoxSportsMex2" tvg-logo="https://i.postimg.cc/VS5ryQyv/prem-fox-sports-mex2.png" group-title="Deportes",Fox Sports 2 [Mex]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302653
+#EXTINF:-1 tvg-id="prem.FoxSportsMex3" tvg-logo="https://i.postimg.cc/f3F3D2ZK/prem-fox-sports-mex3.png" group-title="Deportes",Fox Sports 3 [Mex]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34626
+#EXTINF:-1 tvg-id="prem.FoxSports1Chi" tvg-logo="https://i.postimg.cc/67cP0HGR/prem-fox-sports1.png" group-title="Deportes",Fox Sports 1 [Chi]
+http://168.194.171.33:8000/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="prem.FoxSports2Chi" tvg-logo="https://i.postimg.cc/QBhPcLVh/prem-fox-sports2.png" group-title="Deportes",Fox Sports 2 [Chi]
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34635
+#EXTINF:-1 tvg-id="prem.FoxSports3Chi" tvg-logo="https://i.postimg.cc/pmN3X5H9/prem-fox-sports3.png" group-title="Deportes",Fox Sports 3 [Chi]
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="prem.FoxSportsPremium" tvg-logo="https://i.postimg.cc/fk4xMgTy/prem-fox-sports-premium.png" group-title="Deportes",Fox Sports Premium
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/304554
+#EXTINF:-1 tvg-id="prem.Fx.S1" tvg-logo="https://i.postimg.cc/PvYxPZTX/prem-fx.png" group-title="Premium",FX
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="prem.Fx.S2" tvg-logo="https://i.postimg.cc/PvYxPZTX/prem-fx.png" group-title="Premium",FX
+http://167.250.39.130:8000/play/fx
+#EXTINF:-1 tvg-id="prem.GoldenS1" tvg-logo="https://i.postimg.cc/06QMY7NF/prem-golden.png" group-title="Premium",Golden
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
+#EXTINF:-1 tvg-id="prem.GoldenS2" tvg-logo="https://i.postimg.cc/06QMY7NF/prem-golden.png" group-title="Premium",Golden
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/313039
+#EXTINF:-1 tvg-id="prem.GoldenEdge" tvg-logo="https://i.postimg.cc/FdkYqm3x/prem-golden-edge.png" group-title="Premium",Golden Edge
+http://mundxtr.online:2082/69968/69968/372671
+#EXTINF:-1 tvg-id="prem.GoldenPlus" tvg-logo="https://i.postimg.cc/ykhxKFLn/prem-golden-plus.png" group-title="Premium",Golden Plus
+http://45.167.192.49:8300/play/a01r
+#EXTINF:-1 tvg-id="prem.GoldenPremier" tvg-logo="https://i.postimg.cc/bGBG3dDJ/prem-golden-premier.png" group-title="Premium",Golden Premier
+http://45.228.234.162:24000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="prem.GoldenPremier2" tvg-logo="https://i.postimg.cc/v8qnsNcL/prem-golden-premier2.png" group-title="Premium",Golden Premier 2
+http://45.228.234.162:24000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="prem.GolPeru" tvg-logo="https://i.postimg.cc/9D69kVyH/prem-golperu.png" group-title="Deportes",GolPeru
+http://168.121.46.90:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="prem.GolTV" tvg-logo="https://i.postimg.cc/YjWjncg5/prem-goltv.png" group-title="Deportes",GolTV
+http://138.185.15.250:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.Hbo.S1" tvg-logo="https://i.postimg.cc/G8rycQMM/prem-hbo.png" group-title="Premium",HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="prem.Hbo.S2" tvg-logo="https://i.postimg.cc/G8rycQMM/prem-hbo.png" group-title="Premium",HBO
+http://181.78.27.188:5350/play/a001
+#EXTINF:-1 tvg-id="prem.Hbo2.S1" tvg-logo="https://i.postimg.cc/9rSw4V8w/prem-hbo2.png" group-title="Premium",HBO 2
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="prem.Hbo2.S2" tvg-logo="https://i.postimg.cc/9rSw4V8w/prem-hbo2.png" group-title="Premium",HBO 2
+http://138.185.15.250:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="prem.HboFamily" tvg-logo="https://i.postimg.cc/ZBcy0d2J/prem-hbo-family.png" group-title="Premium",HBO Family
+http://45.228.234.162:24000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="prem.HboMundi" tvg-logo="https://i.postimg.cc/JHCst31X/prem-hbo-mundi.png" group-title="Premium",HBO Mundi
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302663
+#EXTINF:-1 tvg-id="prem.HboPlus.S1" tvg-logo="https://i.postimg.cc/T2y3vDpQ/prem-hbo-plus.png" group-title="Premium",HBO Plus
+http://45.228.234.162:24000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="prem.HboPlus.S2" tvg-logo="https://i.postimg.cc/T2y3vDpQ/prem-hbo-plus.png" group-title="Premium",HBO Plus
+http://mundxtr.online:2082/69968/69968/372451
+#EXTINF:-1 tvg-id="prem.HboPop" tvg-logo="https://i.postimg.cc/2Vw18Bgq/prem-hbo-pop.png" group-title="Premium",HBO Pop
+http://177.128.115.10:8000/play/a07h
+#EXTINF:-1 tvg-id="prem.HboSignature" tvg-logo="https://i.postimg.cc/MX1cNLDm/prem-hbo-signature.png" group-title="Premium",HBO Signature
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302670
+#EXTINF:-1 tvg-id="prem.HboXtreme" tvg-logo="https://i.postimg.cc/HjYyR68n/prem-hbo-xtreme.png" group-title="Premium",HBO Xtreme
+http://45.228.234.162:24000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="prem.HistoryChannel.S1" tvg-logo="https://i.postimg.cc/Pv5vDqnY/prem-history-channel.png" group-title="Premium",History Channel
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="prem.HistoryChannel.S2" tvg-logo="https://i.postimg.cc/Pv5vDqnY/prem-history-channel.png" group-title="Premium",History Channel
+http://45.238.20.235:8000/play/a12e/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.History2.S1" tvg-logo="https://i.postimg.cc/fV9tmFp2/prem-history2.png" group-title="Premium",History 2
+http://179.1.64.211:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.HolaTV" tvg-logo="https://i.postimg.cc/bG1ncMRD/prem-holatv.jpg" group-title="Premium",Hola TV
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="prem.ISat" tvg-logo="https://i.postimg.cc/DZrL2nk6/prem-i-sat.png" group-title="Premium",I-Sat
+http://mundxtr.online:2082/69968/69968/372493
+#EXTINF:-1 tvg-id="prem.KanalDDrama" tvg-logo="https://i.postimg.cc/RNqnVqRz/prem-kanal-d-drama.png" group-title="Premium",Kanal D Drama
+http://168.194.171.33:8000/play/a0cv/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.LifetimeArg" tvg-logo="https://i.postimg.cc/FKkYHDvK/prem-lifetime.png" group-title="Premium",Lifetime [Arg]
+http://mundxtr.online:2082/69968/69968/372432
+#EXTINF:-1 tvg-id="prem.LifetimeMex" tvg-logo="https://i.postimg.cc/FKkYHDvK/prem-lifetime.png" group-title="Premium",Lifetime [Mex]
+http://190.0.246.174:30000/play/tr074
+#EXTINF:-1 tvg-id="prem.Liga1Max" tvg-logo="https://i.postimg.cc/xkVkR5S0/prem-liga1-max.png" group-title="Deportes",Liga 1 Max
+http://191.52.214.5:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="prem.LoveNature" tvg-logo="https://i.postimg.cc/Hj8gYgyh/prem-love-nature.png" group-title="Premium",Love Nature
+http://168.194.171.33:8000/play/a09f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="prem.MovistarDeportesPer" tvg-logo="https://i.postimg.cc/bJwsSYnD/prem-movistar-deportes.png" group-title="Deportes",Movistar Deportes [Per]
+http://138.185.15.250:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="prem.Mtv.S1" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV
+http://45.228.234.162:24000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="prem.Mtv.S2" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV
+http://168.194.171.33:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="prem.MtvUSA" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV [USA]
+http://85.4.116.126:8080/play/a03p
+#EXTINF:-1 tvg-id="prem.Mtv00s" tvg-logo="https://i.postimg.cc/0KKxhgph/prem-mtv-00s.png" group-title="Musica",MTV 00s
+http://168.194.171.33:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="prem.MtvBiggestPop" tvg-logo="https://i.postimg.cc/Sn8dhXw2/prem-mtv-biggest-pop.png" group-title="Musica",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5aadef90-1bb2-47f4-9f66-7ff231f9b031&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-id="prem.MtvSpankinNew" tvg-logo="https://i.postimg.cc/8Fmb72kT/prem-mtv-spankin-new.png" group-title="Musica",MTV Spankin' New
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="prem.MtvLive" tvg-logo="https://i.postimg.cc/J43FtRnv/prem-mtv-live.png" group-title="Musica",MTV Live
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="prem.MtvYo" tvg-logo="https://i.postimg.cc/YhTRZNyB/prem-mtv-yo.png" group-title="Musica",MTV Yo!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="prem.NatGeo.S1" tvg-logo="https://i.postimg.cc/qgWpyRrr/prem-nat-geo.png" group-title="Premium",Nat Geo
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="prem.NatGeo.S2" tvg-logo="https://i.postimg.cc/qgWpyRrr/prem-nat-geo.png" group-title="Premium",Nat Geo
+http://167.250.39.130:8000/play/natgeo
+
+#EXTINF:-1 tvg-id="prem.NatGeoWild" tvg-logo="https://i.postimg.cc/Y23DtrRz/prem-nat-geo-wild.png" group-title="Premium",Nat Geo Wild
+http://5.255.90.184:2004/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="prem.NickJr" tvg-logo="https://i.postimg.cc/BQdwhtzj/prem-nick-jr.png" group-title="Premium",Nick Jr
+http://167.250.39.130:8000/play/nickjr
+#EXTINF:-1 tvg-id="prem.NickMusic" tvg-logo="https://i.postimg.cc/PfZp85xJ/prem-nick-music.png" group-title="Musica",Nick Music
+http://190.0.246.174:30000/play/a01b
+#EXTINF:-1 tvg-id="prem.Nickelodeon.S1" tvg-logo="https://i.postimg.cc/tsjyvM7m/prem-nickelodeon.png" group-title="Premium",Nickelodeon
+http://45.228.234.162:24000/play/a08o/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.TeenNick" tvg-logo="https://i.postimg.cc/2qB8SYCK/prem-teennick.png" group-title="Premium",TeenNick
+http://45.228.234.162:24000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="prem.ParamountNetwork" tvg-logo="https://i.postimg.cc/svSscrfh/prem-paramount-channel.png" group-title="Premium",Paramount Network
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="prem.Pasiones" tvg-logo="https://i.postimg.cc/ph6R0VnD/prem-pasiones.png" group-title="Premium",Pasiones
+http://45.166.92.22:58001/play/a01q/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="prem.SkySportsPremierLeague" tvg-logo="https://i.postimg.cc/4Y7NR2bq/prem-sky-sports-premier-league.png" group-title="Deportes",Sky Sports Premier League
+http://mundxtr.online:2082/69968/69968/372548
+#EXTINF:-1 tvg-id="prem.SonyChannel" tvg-logo="https://i.postimg.cc/bDJqHSdy/prem-sony-channel.png" group-title="Premium",Sony Channel
+http://181.78.75.11:9500/play/a016/index.m3u8
+
+
+#EXTINF:-1 tvg-id="prem.SonyMovies" tvg-logo="https://i.postimg.cc/c4qzJdRC/prem-sony-movies.png" group-title="Premium",Sony Movies
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="prem.Space.S1" tvg-logo="https://i.postimg.cc/t1rjTRkL/prem-space.png" group-title="Premium",Space
+http://45.5.119.155:8000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-id="prem.Space.S2" tvg-logo="https://i.postimg.cc/t1rjTRkL/prem-space.png" group-title="Premium",Space
+http://45.189.117.32:7075/play/a0q3/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.StarChannel.S1" tvg-logo="https://i.postimg.cc/CZM0SnGG/prem-star-channel.png" group-title="Premium",Star Channel
+http://45.166.92.22:58001/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.StudioUniversal.S1" tvg-logo="https://i.postimg.cc/Snf4BfMQ/prem-studio-universal.png" group-title="Premium",Studio Universal
+http://167.250.39.130:8000/play/studiouniversal
+#EXTINF:-1 tvg-id="prem.StudioUniversal.S2" tvg-logo="https://i.postimg.cc/Snf4BfMQ/prem-studio-universal.png" group-title="Premium",Studio Universal
+http://45.160.15.1:8111/play/a0pi
+#EXTINF:-1 tvg-id="prem.StudioUniversal.S3" tvg-logo="https://i.postimg.cc/Snf4BfMQ/prem-studio-universal.png" group-title="Premium",Studio Universal
+http://200.24.151.134:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="prem.SunChannel" tvg-logo="https://i.postimg.cc/ncftrHKf/prem-sun-channel.png" group-title="Premium",Sun Channel
+http://45.189.117.32:7075/play/a0oo/index.m3u8
+#EXTINF:-1 tvg-id="prem.Syfy" tvg-logo="https://i.postimg.cc/ZKktGH7c/prem-syfy.png" group-title="Premium",Syfy
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/118
+
+#EXTINF:-1 tvg-id="prem.Tbs.S1" tvg-logo="https://i.postimg.cc/vgcd6RSD/prem-tbs.png" group-title="Premium",TBS
+http://179.1.64.211:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="prem.Tbs.S2" tvg-logo="https://i.postimg.cc/vgcd6RSD/prem-tbs.png" group-title="Premium",TBS
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/119
+#EXTINF:-1 tvg-id="prem.Tcm.S1" tvg-logo="https://i.postimg.cc/G2hm6CQ6/prem-tcm.png" group-title="Premium",TCM
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/120
+
+#EXTINF:-1 tvg-id="prem.TelehitMusica" tvg-logo="https://i.postimg.cc/jqk4SDVK/prem-telehit-musica.png" group-title="Musica",Telehit Música
+http://38.7.24.161:8000/play/a012
+#EXTINF:-1 tvg-id="prem.TelehitMusicaPlus" tvg-logo="https://i.postimg.cc/8cFJHxTM/prem-telehit-musica-plus.png" group-title="Musica",Telehit Música Plus
+http://181.78.75.11:9500/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="prem.TelemundoInternacional" tvg-logo="https://i.postimg.cc/bJ4C5QcM/prem-telemundo-internacional.png" group-title="Premium",Telemundo Internacional
+http://45.228.234.162:24000/play/a04e/index.m3u8
+
+
+#EXTINF:-1 tvg-id="prem.TigoSportsCr" tvg-logo="https://i.postimg.cc/FKprNKGN/prem-tigo-sports.png" group-title="Deportes",Tigo Sports [CR]
+http://45.228.234.162:24000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="prem.TigoSportsESa" tvg-logo="https://i.postimg.cc/FKprNKGN/prem-tigo-sports.png" group-title="Deportes",Tigo Sports [ESa]
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/91162
+
+
+
+
+#EXTINF:-1 tvg-id="prem.Tlc" tvg-logo="https://i.postimg.cc/zvrzrHTt/prem-tlc.png" group-title="Premium",TLC
+http://167.250.39.130:8000/play/discoverytlc
+#EXTINF:-1 tvg-id="prem.Tnt.S1" tvg-logo="https://i.postimg.cc/VrpPq73g/prem-tnt.png" group-title="Premium",TNT
+http://45.228.234.162:24000/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="prem.Tnt.S2" tvg-logo="https://i.postimg.cc/VrpPq73g/prem-tnt.png" group-title="Premium",TNT
+http://167.250.39.130:8000/play/tnt
+#EXTINF:-1 tvg-id="prem.TntSeries.S1" tvg-logo="https://i.postimg.cc/DzPSjj28/prem-tnt-series.png" group-title="Premium",TNT Series
+http://45.228.234.162:24000/play/a07x/index.m3u8
+#EXTINF:-1 tvg-id="prem.TntSeries.S2" tvg-logo="https://i.postimg.cc/DzPSjj28/prem-tnt-series.png" group-title="Premium",TNT Series
+http://167.250.39.130:8000/play/tntseries
+#EXTINF:-1 tvg-id="prem.TntSportsArg" tvg-logo="https://i.postimg.cc/LXBzrcPP/prem-tnt-sports.png" group-title="Deportes",TNT Sports [Arg]
+http://mundxtr.online:2082/69968/69968/245650
+#EXTINF:-1 tvg-id="prem.TntSportsChi" tvg-logo="https://i.postimg.cc/LXBzrcPP/prem-tnt-sports.png" group-title="Deportes",TNT Sports [Chi]
+http://138.185.15.250:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="prem.TntSportsChi2" tvg-logo="https://i.postimg.cc/7f2Hpy5r/prem-tnt-sports2.png" group-title="Deportes",TNT Sports [Chi] 2
+http://181.188.138.186:8000/play/a0ds/index.m3u8
+
+
+#EXTINF:-1 tvg-id="prem.TruTV" tvg-logo="https://i.postimg.cc/vxnF3rys/prem-trutv.png" group-title="Premium",TruTV
+http://45.189.117.32:7075/play/a0ql/index.m3u8
+#EXTINF:-1 tvg-id="prem.TvcDeportes" tvg-logo="https://i.postimg.cc/brDhYhHL/prem-tvc-deportes.png" group-title="Deportes",TVC Deportes
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/347
+#EXTINF:-1 tvg-id="prem.TyCSports" tvg-logo="https://i.postimg.cc/6T6703y9/prem-tyc-sports.png" group-title="Deportes",TyC Sports
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalCinema.S1" tvg-logo="https://i.postimg.cc/m1rt2d0c/prem-universal-cinema.png" group-title="Premium",Universal Cinema
+http://45.166.92.22:58001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="prem.UniversalComedy" tvg-logo="https://i.postimg.cc/mcqs9Hf4/prem-universal-comedy.png" group-title="Premium",Universal Comedy
+http://45.228.234.162:24000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalCrime" tvg-logo="https://i.postimg.cc/PLNHNM7K/prem-universal-crime.png" group-title="Premium",Universal Crime
+http://45.228.234.162:24000/play/a090/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalPremiere" tvg-logo="https://i.postimg.cc/gxgdY7gn/prem-universal-premiere.png" group-title="Premium",Universal Premiere
+http://45.228.234.162:24000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalPremiereWest" tvg-logo="https://i.postimg.cc/gxgdY7gn/prem-universal-premiere.png" group-title="Premium",Universal Premiere West
+http://45.228.234.162:24000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalReality" tvg-logo="https://i.postimg.cc/xcynZ8HG/prem-universal-reality.png" group-title="Premium",Universal Reality
+http://45.228.234.162:24000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="prem.UniversalTV.S1" tvg-logo="https://i.postimg.cc/8PgcZpNZ/prem-universaltv.png" group-title="Premium",Universal TV
+http://45.160.15.1:8111/play/a0pi
+#EXTINF:-1 tvg-id="prem.UniversalTV.S2" tvg-logo="https://i.postimg.cc/8PgcZpNZ/prem-universaltv.png" group-title="Premium",Universal TV
+http://204.157.255.28:20001/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="prem.Univision" tvg-logo="https://i.postimg.cc/7bB5Qk2S/prem-univision.png" group-title="Premium",Univisión
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="prem.WarnerChannel.S1" tvg-logo="https://i.postimg.cc/VLKgjVcL/prem-warner-channel.png" group-title="Premium",Warner Channel
+http://45.228.234.162:24000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="prem.WarnerChannel.S2" tvg-logo="https://i.postimg.cc/VLKgjVcL/prem-warner-channel.png" group-title="Premium",Warner Channel
+http://45.160.15.1:8111/play/a0pe
+
+
+#EXTINF:-1 tvg-id="prem.WinSports" tvg-logo="https://i.postimg.cc/3kjcx3t4/prem-win-sports.png" group-title="Deportes",Win Sports
+http://45.189.117.32:7075/play/a0sf/index.m3u8
+#EXTINF:-1 tvg-id="prem.WinSportsPlus" tvg-logo="https://i.postimg.cc/Ff9nfw6P/prem-win-sports-plus.png" group-title="Deportes",Win Sports+
+http://45.189.117.32:7075/play/a0t0/index.m3u8
+
+
+######################################################### INTERNACIONALES #########################################################
+
+#EXTINF:-1 tvg-id="cn.CgtnEnEspanol" tvg-logo="https://i.postimg.cc/sMb93tJc/cn-cgtn-en-espanol.png" group-title="Internacionales",CGTN en Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="prem.CNNEnEspañol" tvg-logo="https://i.postimg.cc/NLQ8G8RW/us-cnn-espa-ol.png" group-title="Internacionales",CNN En Español
+http://190.61.55.186:1010/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="de.DwEnEspañol" tvg-logo="https://i.postimg.cc/3W9XkyBW/de-dw-en-espanol.png" group-title="Internacionales",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="fr.EuronewsEnEspanol" tvg-logo="https://i.postimg.cc/34TXvmV0/fr-euronews-en-espanol.png" group-title="Internacionales",Euronews en Español
+http://mundxtr.online:2082/69968/69968/241398
+#EXTINF:-1 tvg-id="fr.France24Espanol" tvg-logo="https://i.postimg.cc/bGb0r3Cj/fr-france24-espanol.png" group-title="Internacionales",France 24 Español
+http://168.121.46.90:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="ru.RtEnEspañol" tvg-logo="https://i.postimg.cc/JD5bctC6/ru-rt-en-espanol.png" group-title="Internacionales",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
