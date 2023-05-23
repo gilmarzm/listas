@@ -395,7 +395,7 @@ http://190.83.60.34:1414/play/a06c
 #EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/mzqf0ykb/prem-dsports-plus.png" group-title="Deportes",DSports+
 http://190.83.60.34:1414/play/a06b
 #EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/BnRvHzwg/prem-dsports-fight.png" group-title="Deportes",Dsports Fight
-http://190.119.178.46:8000/play/a036/index.m3u8
+http://190.83.60.34:1414/play/a069
 #EXTINF:-1 tvg-id="prem.EEntertainment.S1" tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png" group-title="Premium",E! Entertainment
 http://181.78.75.11:9500/play/a03f/index.m3u8
 
@@ -529,6 +529,8 @@ http://179.1.64.211:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="prem.HolaTV" tvg-logo="https://i.postimg.cc/bG1ncMRD/prem-holatv.jpg" group-title="Premium",Hola TV
 http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="prem.Htv" tvg-logo="https://i.postimg.cc/dtCvwBGt/prem-htv.png" group-title="Musica",HTV
+http://190.0.246.174:30000/play/tr034
 #EXTINF:-1 tvg-id="prem.ISat" tvg-logo="https://i.postimg.cc/DZrL2nk6/prem-i-sat.png" group-title="Premium",I-Sat
 http://mundxtr.online:2082/69968/69968/372493
 #EXTINF:-1 tvg-id="prem.KanalDDrama" tvg-logo="https://i.postimg.cc/RNqnVqRz/prem-kanal-d-drama.png" group-title="Premium",Kanal D Drama
@@ -574,7 +576,9 @@ http://45.166.92.22:58001/play/a01k/index.m3u8
 http://167.250.39.130:8000/play/natgeo
 
 #EXTINF:-1 tvg-id="prem.NatGeoWild" tvg-logo="https://i.postimg.cc/Y23DtrRz/prem-nat-geo-wild.png" group-title="Premium",Nat Geo Wild
-http://5.255.90.184:2004/play/a005/index.m3u8
+http://168.228.194.33:48001/play/Z12/index.m3u8
+#EXTINF:-1 tvg-id="prem.NbaTV" tvg-logo="https://i.postimg.cc/285YBYpy/prem-nbatv.png" group-title="Deportes",NBA TV
+http://49.12.123.148:8989/82/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.NickJr" tvg-logo="https://i.postimg.cc/BQdwhtzj/prem-nick-jr.png" group-title="Premium",Nick Jr
 http://167.250.39.130:8000/play/nickjr
 #EXTINF:-1 tvg-id="prem.NickMusic" tvg-logo="https://i.postimg.cc/PfZp85xJ/prem-nick-music.png" group-title="Musica",Nick Music
