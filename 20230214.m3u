@@ -405,9 +405,9 @@ http://181.78.75.11:9500/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="prem.CartoonNetworkMex" tvg-logo="https://i.postimg.cc/rRVFHZhk/prem-cartoon-network.png" group-title="Premium",Cartoon Network
 http://190.0.246.174:30000/play/tr015
 #EXTINF:-1 tvg-id="prem.Cartoonito.S1" tvg-logo="https://i.postimg.cc/rwkxqTXz/prem-cartoonito.png" group-title="Premium",Cartoonito
-http://45.167.192.49:8100/play/a02i
+http://181.78.21.206:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="prem.Cartoonito.S2" tvg-logo="https://i.postimg.cc/rwkxqTXz/prem-cartoonito.png" group-title="Premium",Cartoonito
-http://85.4.116.126:8080/play/a0gx
+http://191.97.14.61:8045/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="prem.Cinecanal.S1" tvg-logo="https://i.postimg.cc/QV3B50JS/prem-cinecanal.png" group-title="Premium",Cinecanal
 http://181.78.24.187:8006/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="prem.Cinecanal.S2" tvg-logo="https://i.postimg.cc/QV3B50JS/prem-cinecanal.png" group-title="Premium",Cinecanal
@@ -454,7 +454,7 @@ http://167.250.39.130:8000/play/discoverychannel
 #EXTINF:-1 tvg-id="prem.DiscoveryChannel.S2" tvg-logo="https://i.postimg.cc/FY71mqhF/prem-discovery-channel.png" group-title="Premium",Discovery Channel
 http://38.7.24.161:8000/play/a01u
 #EXTINF:-1 tvg-id="prem.DiscoveryChannel.S3" tvg-logo="https://i.postimg.cc/FY71mqhF/prem-discovery-channel.png" group-title="Premium",Discovery Channel
-http://181.188.138.186:8000/play/a0fn/index.m3u8
+http://181.224.201.115:5577/play/a00t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="prem.DiscoveryHandH.S1" tvg-logo="https://i.postimg.cc/t1sLBJhH/prem-discovery-h-h.png" group-title="Premium",Discovery H&H
@@ -826,6 +826,7 @@ http://45.189.117.32:7075/play/a0sf/index.m3u8
 http://45.189.117.32:7075/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="prem.ZooMoo" tvg-logo="https://i.postimg.cc/05wFPTHH/prem-zoomoo.png" group-title="Premium",ZooMoo
 http://181.232.159.2:35600/play/a019/index.m3u8
+
 
 
 ######################################################### 5. INTERNACIONALES #########################################################
