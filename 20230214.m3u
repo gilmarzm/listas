@@ -105,7 +105,7 @@ https://tv.portalexpress.es:3399/live/megatvlive.m3u8
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="pe.NativaTV" tvg-logo="https://i.postimg.cc/T1vCy8vF/pe-nativa.png" group-title="Peru-Regionales",Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="pe.NativaTV" tvg-logo="https://i.postimg.cc/ydvstssH/pe-nativa-chanchamayo.png" group-title="Peru-Regionales",Nativa TV
+#EXTINF:-1 tvg-id="pe.NativaTV[Chanchamayo]" tvg-logo="https://i.postimg.cc/ydvstssH/pe-nativa-chanchamayo.png" group-title="Peru-Regionales",Nativa TV [Chanchamayo]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="pe.NORSelvaRadio&TV" tvg-logo="https://i.postimg.cc/hGyK4XVB/pe-norselva-radio-tv.png" group-title="Peru-Regionales",NOR Selva Radio & TV
 https://live.obslivestream.com/norselvatv/index.m3u8
@@ -122,7 +122,7 @@ https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="pe.Ovación" tvg-logo="https://i.postimg.cc/L52F4SN7/pe-ovacion.png" group-title="Peru-Regionales",Ovación
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV
-https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri6d6r9jTsf8a8FdWOHdP_OG55V72-pCJrbyYNmnJPD4v&dmTs=557605&dmV1st=5959c164-d90f-489a-90fb-32d911ab688e
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqqfRz7qDN2z33sKpqlPDtWA0iE2CAVqKmPZtybs989U)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTVHD" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV HD
 http://168.121.46.90:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="pe.PBODigital" tvg-logo="https://i.postimg.cc/MpLCcyvk/pe-pbo.png" group-title="Peru-Nacionales",PBO Digital
@@ -234,7 +234,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VZTV" tvg-logo="https://i.postimg.cc/8CK0CxHh/pe-vztv.png" group-title="Peru-Regionales",VZ TV
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="pe.WillaxTVHD" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Peru-Nacionales",Willax TV HD
-http://168.121.46.90:8000/play/a05c/index.m3u8
+http://190.83.60.34:1414/play/a06e
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Peru-Regionales",WTV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Peru-Regionales",XTV
@@ -612,7 +612,7 @@ http://45.228.234.162:24000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="prem.GolPeru" tvg-logo="https://i.postimg.cc/9D69kVyH/prem-golperu.png" group-title="Deportes",GolPeru
 http://190.83.60.34:1414/play/a04m
 #EXTINF:-1 tvg-id="prem.GolTV" tvg-logo="https://i.postimg.cc/YjWjncg5/prem-goltv.png" group-title="Deportes",GolTV
-http://138.185.15.250:8000/play/a06c/index.m3u8
+http://190.83.60.34:1414/play/a04f
 
 #EXTINF:-1 tvg-id="prem.Hbo.S1" tvg-logo="https://i.postimg.cc/G8rycQMM/prem-hbo.png" group-title="Premium",HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
@@ -666,17 +666,15 @@ http://167.250.39.130:8000/play/maschic
 #EXTINF:-1 tvg-id="prem.MusicChoiceRock" tvg-logo="https://i.postimg.cc/nr3WTjzf/prem-music-choice.png" group-title="Musica",Music Choice Rock
 http://hardcoremedia.xyz:80/pmhmlnkh/2211229126/1094
 #EXTINF:-1 tvg-id="prem.MovistarDeportesPer" tvg-logo="https://i.postimg.cc/bJwsSYnD/prem-movistar-deportes.png" group-title="Deportes",Movistar Deportes [Per]
-http://138.185.15.250:8000/play/a064/index.m3u8
+http://190.83.60.34:1414/play/a05s
 #EXTINF:-1 tvg-id="prem.LigaDeCampeones" tvg-logo="https://i.postimg.cc/8kRwnfgR/prem-movistar-liga-de-campeones.png" group-title="Deportes",Movistar Liga de Campeones
 http://168.228.194.33:48001/play/a0bi/index.m3u8
 #EXTINF:-1 tvg-id="prem.MovistarPlus" tvg-logo="https://i.postimg.cc/v842gYfK/prem-movistar-plus.png" group-title="Premium",Movistar Plus
 http://190.43.92.145:8000/play/a0tc/index.m3u8
 #EXTINF:-1 tvg-id="prem.Mtv.S1" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV
 http://45.228.234.162:24000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="prem.Mtv.S2" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV
-http://168.194.171.33:8000/play/a09j/index.m3u8
-#EXTINF:-1 tvg-id="prem.MtvUSA" tvg-logo="https://i.postimg.cc/K41Z1TdQ/prem-mtv.png" group-title="Musica",MTV [USA]
-http://85.4.116.126:8080/play/a03p
+
+
 #EXTINF:-1 tvg-id="prem.Mtv00s" tvg-logo="https://i.postimg.cc/0KKxhgph/prem-mtv-00s.png" group-title="Musica",MTV 00s
 http://168.194.171.33:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="prem.MtvBiggestPop" tvg-logo="https://i.postimg.cc/Sn8dhXw2/prem-mtv-biggest-pop.png" group-title="Musica",MTV Biggest Pop
@@ -785,6 +783,8 @@ http://138.185.15.250:8000/play/a06p/index.m3u8
 http://181.188.138.186:8000/play/a0ds/index.m3u8
 
 
+#EXTINF:-1 tvg-id="prem.Tooncast" tvg-logo="https://i.postimg.cc/63zGN4Mc/prem-tooncast.png" group-title="Premium",Tooncast
+http://181.78.21.206:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="prem.TUDN.S1" tvg-logo="https://i.postimg.cc/0y79wjng/prem-tudn.png" group-title="Deportes",TUDN
 http://168.228.194.33:48001/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="prem.TUDN.S2" tvg-logo="https://i.postimg.cc/0y79wjng/prem-tudn.png" group-title="Deportes",TUDN
@@ -826,7 +826,6 @@ http://45.189.117.32:7075/play/a0sf/index.m3u8
 http://45.189.117.32:7075/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="prem.ZooMoo" tvg-logo="https://i.postimg.cc/05wFPTHH/prem-zoomoo.png" group-title="Premium",ZooMoo
 http://181.232.159.2:35600/play/a019/index.m3u8
-
 
 
 ######################################################### 5. INTERNACIONALES #########################################################
