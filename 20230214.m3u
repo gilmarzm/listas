@@ -6,7 +6,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pe.AmazonasTV" tvg-logo="https://i.postimg.cc/CL3wStp3/pe-amazonastv.png" group-title="Peru-Regionales",Amazonas TV
 https://vdo.grupoLimalive.com:3327/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Peru-Nacionales",America TV
-http://168.121.46.90:8000/play/a049/index.m3u8
+http://200.119.222.198:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="pe.AndesTV" tvg-logo="https://i.postimg.cc/15VKHdPn/pe-andestv.png" group-title="Peru-Regionales",Andes TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.AntaresTelevisión" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Peru-Regionales",Antares Televisión
@@ -19,8 +19,7 @@ https://v4.tustreaming.cl/atmtv/index.m3u8
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
 #EXTINF:-1 tvg-id="pe.ATV+" tvg-logo="https://i.postimg.cc/cLLyVvT5/pe-atv.png" group-title="Peru-Nacionales",ATV+
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
-#EXTINF:-1 tvg-id="pe.ATV+HD" tvg-logo="https://i.postimg.cc/cLLyVvT5/pe-atv.png" group-title="Peru-Nacionales",ATV+ HD
-http://168.121.46.90:8000/play/a05u/index.m3u8
+
 #EXTINF:-1 tvg-id="pe.ATVSur" tvg-logo="https://i.postimg.cc/vZ2FMGN8/pe-atv-sur.png" group-title="Peru-Nacionales",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.AuténticaTelevisión" tvg-logo="https://i.postimg.cc/HL4DPw47/pe-autenticatv.png" group-title="Peru-Regionales",Auténtica Televisión
@@ -77,7 +76,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="pe.GeniosTV" tvg-logo="https://i.postimg.cc/W10M50br/pe-geniostv.png" group-title="Peru-Regionales",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="pe.GlobalHD" tvg-logo="https://i.postimg.cc/593ygr3T/pe-globaltv.png" group-title="Peru-Nacionales",Global HD
-http://168.121.46.90:8000/play/a05w/index.m3u8
+http://181.119.66.30:8000/play/61/index.m3u8
 #EXTINF:-1 tvg-id="pe.HechiceraTV" tvg-logo="https://i.postimg.cc/m29XLmxK/pe-hechiceratv.png" group-title="Peru-Regionales",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.IdentidadTV" tvg-logo="https://i.postimg.cc/PfDR6F7N/pe-identidadtv.png" group-title="Peru-Regionales",Identidad TV
@@ -121,9 +120,9 @@ https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="pe.Ovación" tvg-logo="https://i.postimg.cc/L52F4SN7/pe-ovacion.png" group-title="Peru-Regionales",Ovación
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFviyZ90yioEu6QZ5qy-p6jsREppNGcEXz0YvjNxD3anS)/dm/3/x774s7s/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFovLBarZjId7jC2QLxWBVwHzY2iLBHHz96p6L491MnOI)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTVHD" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV HD
-http://168.121.46.90:8000/play/a05z/index.m3u8
+http://191.97.60.193:10000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="pe.PBODigital" tvg-logo="https://i.postimg.cc/MpLCcyvk/pe-pbo.png" group-title="Peru-Nacionales",PBO Digital
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanísima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Peru-Regionales",Peruanísima
@@ -232,11 +231,12 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VZTV" tvg-logo="https://i.postimg.cc/8CK0CxHh/pe-vztv.png" group-title="Peru-Regionales",VZ TV
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="pe.WillaxTVHD" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Peru-Nacionales",Willax TV HD
-http://190.83.60.34:1414/play/a06e
+http://191.97.60.193:10000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Peru-Regionales",WTV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Peru-Regionales",XTV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
 
 ######################################################### 2. CHILE ########################################################
 
