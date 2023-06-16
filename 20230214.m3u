@@ -90,7 +90,7 @@ http://181.119.66.30:8000/play/58/index.m3u8
 #EXTINF:-1 tvg-id="pe.Latina" tvg-logo="https://i.postimg.cc/TwgnfYQZ/pe-latina.png" group-title="Peru-Nacionales",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="pe.LatinaHD" tvg-logo="https://i.postimg.cc/TwgnfYQZ/pe-latina.png" group-title="Peru-Nacionales",Latina HD
-http://168.121.46.90:8000/play/a05f/index.m3u8
+http://200.119.222.198:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="pe.Mas1" tvg-logo="https://i.postimg.cc/CxB49fGY/pe-mas1tv.png" group-title="Peru-Regionales",Mas 1
 https://live.obslivestream.com/mas1/index.m3u8
 #EXTINF:-1 tvg-id="pe.MayoTelevisión" tvg-logo="https://i.postimg.cc/1zJkfVTM/pe-mayo-television.png" group-title="Peru-Regionales",Mayo Televisión
