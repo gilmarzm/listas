@@ -618,7 +618,7 @@ http://45.228.234.162:24000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="prem.GoldenPremier2" tvg-logo="https://i.postimg.cc/v8qnsNcL/prem-golden-premier2.png" group-title="Premium",Golden Premier 2
 http://45.228.234.162:24000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="prem.GolPeru" tvg-logo="https://i.postimg.cc/9D69kVyH/prem-golperu.png" group-title="Deportes",GolPeru
-http://200.119.222.198:25470/play/a018/index.m3u8
+http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="prem.GolTV" tvg-logo="https://i.postimg.cc/YjWjncg5/prem-goltv.png" group-title="Deportes",GolTV
 http://200.119.222.198:25470/play/a012/index.m3u8
 
@@ -674,7 +674,7 @@ http://167.250.39.130:8000/play/maschic
 #EXTINF:-1 tvg-id="prem.MusicChoiceRock" tvg-logo="https://i.postimg.cc/nr3WTjzf/prem-music-choice.png" group-title="Musica",Music Choice Rock
 http://hardcoremedia.xyz:80/pmhmlnkh/2211229126/1094
 #EXTINF:-1 tvg-id="prem.MovistarDeportesPer" tvg-logo="https://i.postimg.cc/bJwsSYnD/prem-movistar-deportes.png" group-title="Deportes",Movistar Deportes [Per]
-http://187.102.208.155:8000/play/a06i/index.m3u8
+http://190.61.55.186:1010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="prem.LaLigaTV" tvg-logo="https://i.postimg.cc/QdB0H6zG/prem-movistar-laligatv.png" group-title="Deportes",Movistar LaLiga TV
 http://50.7.66.234:8080/monicaferraz/518260/1156047
 #EXTINF:-1 tvg-id="prem.LigaDeCampeones" tvg-logo="https://i.postimg.cc/8kRwnfgR/prem-movistar-liga-de-campeones.png" group-title="Deportes",Movistar Liga de Campeones
@@ -838,6 +838,7 @@ http://190.83.60.34:1414/play/a01k
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 tvg-id="prem.ZooMoo" tvg-logo="https://i.postimg.cc/05wFPTHH/prem-zoomoo.png" group-title="Premium",ZooMoo
 http://181.209.194.242:8080/play/a0s7/index.m3u8
+
 
 
 
