@@ -261,6 +261,8 @@ http://187.102.208.155:8000/play/a084/index.m3u8
 http://190.83.60.34:1414/play/a01a
 #EXTINF:-1 tvg-id="cl.CulturaOnline" tvg-logo="https://i.postimg.cc/VJH0JW2G/cl-cultura-online.png" group-title="Chile",Cultura Online
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+#EXTINF:-1 tvg-id="cl.EternalMetal" tvg-logo="https://i.postimg.cc/RFdgR9hw/cl-eternal-metal.png" group-title="Chile",Eternal Metal
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="cl.GTVTelevision" tvg-logo="https://i.postimg.cc/RqZ0rHWX/cl-gtv-television.png" group-title="Chile",GTV Television
 http://v1.tustreaming.cl/gtvtelevision/index.m3u8
 #EXTINF:-1 tvg-id="cl.HuascoTelevisiónStreaming" tvg-logo="https://i.postimg.cc/K3jctd6d/cl-huasco-television-streaming.png" group-title="Chile",Huasco Televisión Streaming
@@ -277,6 +279,8 @@ https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Mega" tvg-logo="https://i.postimg.cc/9RdVZcg8/cl-mega.png" group-title="Chile",Mega
 http://187.102.210.164:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="cl.MundodelaMúsicaTV" tvg-logo="https://i.postimg.cc/dVRQVTpn/cl-mundo-de-la-musicatv.png" group-title="Chile",Mundo de la Música TV
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.NTV" tvg-logo="https://i.postimg.cc/mtbZ3FsQ/cl-ntv.png" group-title="Chile",NTV
 http://187.102.210.164:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="cl.PlanetaTVMovies" tvg-logo="https://i.postimg.cc/XZynNff0/cl-planetatv.png" group-title="Chile",Planeta TV Movies
@@ -285,8 +289,11 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.PortalFoxmix" tvg-logo="https://i.postimg.cc/1405NrLm/cl-portal-foxmix.png" group-title="Chile",Portal Foxmix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="cl.RadioEstacion7" tvg-logo="https://i.postimg.cc/8JQN774f/cl-radio-estacion7.png" group-title="Chile",Radio Estacion 7
+#EXTINF:-1 tvg-id="cl.RadioÁreaBPM" tvg-logo="https://i.postimg.cc/FFB3v2XG/cl-radio-area-bpm.png" group-title="Chile",Radio Área BPM
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cl.RadioPopMedia" tvg-logo="https://i.postimg.cc/9fZbsLqJ/cl-radio-pop-media.png" group-title="Chile",Radio Pop Media
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="cl.RadiotecaStereo" tvg-logo="https://i.postimg.cc/0KCkR9pM/cl-radioteca-stereo.png" group-title="Chile",Radioteca Stereo
 https://paneltv.net:3908/stream/play.m3u8
 #EXTINF:-1 tvg-id="cl.RCKTV" tvg-logo="https://i.postimg.cc/SXvjDL4X/cl-rcktv.png" group-title="Chile",RCKTV
@@ -325,6 +332,7 @@ https://redirector.dps.live/hls/tvr/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.VclassicTV" tvg-logo="https://i.postimg.cc/hfY2V6zT/cl-vclassictv.png" group-title="Chile",Vclassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
 
 
 ######################################################### 3. PLEX #########################################################
