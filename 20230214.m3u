@@ -482,22 +482,25 @@ http://181.78.20.47:9000/play/a00z
 #EXTINF:-1 tvg-id="prem.Dreamworks" tvg-logo="https://i.postimg.cc/Vv53YXjn/prem-dreamworks.png" group-title="Premium",Dreamworks
 http://190.60.39.198:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="prem.DsportsArg" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Arg]
-http://hardcoremedia.xyz:80/pmhmlnkh/2211229126/11902
+http://50.7.66.234:8080/monicaferraz/518260/1091366
 #EXTINF:-1 tvg-id="prem.DsportsChi" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Chi]
 http://50.7.66.234:8080/monicaferraz/518260/7863
 #EXTINF:-1 tvg-id="prem.DsportsCol" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Col]
 http://160.ip-192-99-70.net:25461/qwer123/qwer123/117091
 
 #EXTINF:-1 tvg-id="prem.DsportsEcu" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Ecu]
-http://160.ip-192-99-70.net:25461/qwer123/qwer123/350
-
+http://50.7.66.234:8080/monicaferraz/518260/53462
+#EXTINF:-1 tvg-id="prem.DsportsUru" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Uru]
+http://50.7.66.234:8080/monicaferraz/518260/1156003
 #EXTINF:-1 tvg-id="prem.Dsports2" tvg-logo="https://i.postimg.cc/64vJw44C/prem-dsports2.png" group-title="Deportes",DSports2
-http://190.83.60.34:1414/play/a06c
-
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117090
+#EXTINF:-1 tvg-id="prem.Dsports2Ecu" tvg-logo="https://i.postimg.cc/64vJw44C/prem-dsports2.png" group-title="Deportes",DSports2 [Ecu]
+http://50.7.66.234:8080/monicaferraz/518260/53489
 #EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/mzqf0ykb/prem-dsports-plus.png" group-title="Deportes",DSports+
-http://190.83.60.34:1414/play/a06b
+http://160.ip-192-99-70.net:25461/qwer123/qwer123/117092
 #EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/BnRvHzwg/prem-dsports-fight.png" group-title="Deportes",Dsports Fight
-http://190.83.60.34:1414/play/a069
+http://50.7.66.234:8080/monicaferraz/518260/1155911
+
 #EXTINF:-1 tvg-id="prem.EEntertainment.S1" tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png" group-title="Premium",E! Entertainment
 http://181.78.75.11:9500/play/a03f/index.m3u8
 
