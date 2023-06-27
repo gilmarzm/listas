@@ -240,7 +240,7 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 ######################################################### 2. CHILE ########################################################
 
 #EXTINF:-1 tvg-id="cl.13" tvg-logo="https://i.postimg.cc/qgQq5GQm/cl-13.png" group-title="Chile",13
-http://200.119.222.198:8000/play/a01a/index.m3u8
+http://190.43.92.175:8989/play/a0wz/index.m3u8
 #EXTINF:-1 tvg-id="cl.24Horas" tvg-logo="https://i.postimg.cc/K13Y4hbV/cl-24-horas.png" group-title="Chile",24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.AntofagastaTV" tvg-logo="https://i.postimg.cc/CZyxqrLK/cl-antofagastatv.png" group-title="Chile",Antofagasta TV
@@ -423,7 +423,7 @@ http://167.250.39.130:8000/play/cinehispano
 #EXTINF:-1 tvg-id="prem.CinePremium" tvg-logo="https://i.postimg.cc/crzdYcfC/prem-cine-premium.png" group-title="Premium",Cine Premium
 http://167.250.39.130:8000/play/cinepremiun
 #EXTINF:-1 tvg-id="prem.ClaroMúsicaSinLimites" tvg-logo="https://i.postimg.cc/zvtSsfwt/prem-claro-musica-sin-limites.png" group-title="Musica",Claro Música - Sin Limites
-http://168.228.194.33:48001/play/a070/index.m3u8
+http://201.219.246.114:7000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="prem.ClaroSports" tvg-logo="https://i.postimg.cc/4dTZ5dtc/prem-claro-sports.png" group-title="Deportes",Claro Sports
 http://190.149.66.90:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="prem.ClaroSports2" tvg-logo="https://i.postimg.cc/4dTZ5dtc/prem-claro-sports.png" group-title="Deportes",Claro Sports 2
@@ -508,7 +508,6 @@ http://50.7.66.234:8080/monicaferraz/518260/53489
 http://160.ip-192-99-70.net:25461/qwer123/qwer123/117092
 #EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/BnRvHzwg/prem-dsports-fight.png" group-title="Deportes",Dsports Fight
 http://50.7.66.234:8080/monicaferraz/518260/1155911
-
 #EXTINF:-1 tvg-id="prem.EEntertainment.S1" tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png" group-title="Premium",E! Entertainment
 http://181.78.75.11:9500/play/a03f/index.m3u8
 
@@ -569,8 +568,7 @@ http://160.ip-192-99-70.net:25461/qwer123/qwer123/91175
 http://160.ip-192-99-70.net:25461/qwer123/qwer123/91046
 #EXTINF:-1 tvg-id="prem.EspnExtra.S1" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra
 http://168.194.171.33:8000/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-id="prem.EspnExtra.S2" tvg-logo="https://i.postimg.cc/nMP6gwSG/prem-espn-extra.png" group-title="Deportes",ESPN Extra
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34654
+
 
 #EXTINF:-1 tvg-id="prem.EspnPremium" tvg-logo="https://i.postimg.cc/bsW025NK/prem-espn-premium.png" group-title="Deportes",ESPN Premium
 http://45.170.225.212:58001/play/a01y/index.m3u8
@@ -669,7 +667,9 @@ http://168.194.171.33:8000/play/a0cv/index.m3u8
 
 #EXTINF:-1 tvg-id="prem.Lifetime.S2" tvg-logo="https://i.postimg.cc/FKkYHDvK/prem-lifetime.png" group-title="Premium",Lifetime
 http://186.190.224.39:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="prem.Liga1Max" tvg-logo="https://i.postimg.cc/xkVkR5S0/prem-liga1-max.png" group-title="Deportes",Liga 1 Max
+#EXTINF:-1 tvg-id="prem.Liga1" tvg-logo="https://i.postimg.cc/6yb8rRGT/prem-liga1.png" group-title="Deportes",Liga 1
+http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/304161
+#EXTINF:-1 tvg-id="prem.Liga1Max" tvg-logo="https://i.postimg.cc/gn2wL4jf/prem-liga1-max.png" group-title="Deportes",Liga 1 Max
 http://50.7.66.234:8080/monicaferraz/518260/1151341
 #EXTINF:-1 tvg-id="prem.LoveNature" tvg-logo="https://i.postimg.cc/Hj8gYgyh/prem-love-nature.png" group-title="Premium",Love Nature
 http://168.194.171.33:8000/play/a09f/index.m3u8
