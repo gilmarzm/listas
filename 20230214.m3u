@@ -3,354 +3,252 @@
 ######################################################### 1. PERU #########################################################
 
 #EXTINF:-1 tvg-id="pe.AgroTV" tvg-logo="https://i.postimg.cc/ncPDWLT6/pe-agrotv.png" group-title="Peru-Regionales",Agro TV
-
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pe.AmazonasTV" tvg-logo="https://i.postimg.cc/CL3wStp3/pe-amazonastv.png" group-title="Peru-Regionales",Amazonas TV
-
 https://vdo.grupoLimalive.com:3327/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="pe.AmericaTV" tvg-logo="https://i.postimg.cc/K8cXT1MD/pe-americatv.png" group-title="Peru-Nacionales",America TV
-
 http://191.97.58.41:8001/play/a005
 #EXTINF:-1 tvg-id="pe.AndesTV" tvg-logo="https://i.postimg.cc/15VKHdPn/pe-andestv.png" group-title="Peru-Regionales",Andes TV
-
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.AntaresTelevisión" tvg-logo="https://i.postimg.cc/gjnDxYxY/pe-antarestv.png" group-title="Peru-Regionales",Antares Televisión
-
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.AsiriTV" tvg-logo="https://i.postimg.cc/y85W7K19/pe-asiritv.png" group-title="Peru-Regionales",Asiri TV
-
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="pe.AtmTV" tvg-logo="https://i.postimg.cc/y86WKfZd/pe-atm.png" group-title="Peru-Regionales",Atm TV
-
 https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-id="pe.ATVHD" tvg-logo="https://i.postimg.cc/xdkr1Bwv/pe-atv.png" group-title="Peru-Nacionales",ATV HD
-
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
 #EXTINF:-1 tvg-id="pe.ATV+" tvg-logo="https://i.postimg.cc/cLLyVvT5/pe-atv.png" group-title="Peru-Nacionales",ATV+
-
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-id="pe.ATVSur" tvg-logo="https://i.postimg.cc/vZ2FMGN8/pe-atv-sur.png" group-title="Peru-Nacionales",ATV Sur
-
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.AuténticaTelevisión" tvg-logo="https://i.postimg.cc/HL4DPw47/pe-autenticatv.png" group-title="Peru-Regionales",Auténtica Televisión
-
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="pe.BestCableMusic" tvg-logo="https://i.postimg.cc/wT3tCNc1/pe-bestcablemusic.png" group-title="Peru-Música",Best Cable Music
-
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 #EXTINF:-1 tvg-id="pe.BestCableSports" tvg-logo="https://i.postimg.cc/fT02XWJr/pe-bestcablesports.png" group-title="Deportes",Best Cable Sports
-
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="pe.BestTV" tvg-logo="https://i.postimg.cc/C5GDrB3v/pe-bestcabletv.png" group-title="Peru-Música",Best TV
-
 https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 #EXTINF:-1 tvg-id="pe.BHTV" tvg-logo="https://i.postimg.cc/8cFQ5TpG/pe-bhtv.png" group-title="Peru-Regionales",BHTV
-
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.CableVisiónPerú" tvg-logo="https://i.postimg.cc/qq2NshKw/pe-cablevisionperu.png" group-title="Peru-Regionales",Cable Visión Perú
-
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.CadenaTV" tvg-logo="https://i.postimg.cc/DyhyQTX5/pe-cadenatv.png" group-title="Peru-Regionales",Cadena TV
-
 https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1 tvg-id="pe.CajamarcaTV" tvg-logo="https://i.postimg.cc/rwnWsJp1/pe-cajamarcatv.png" group-title="Peru-Regionales",Cajamarca TV
-
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
 #EXTINF:-1 tvg-id="pe.CanalEAltomayo" tvg-logo="https://i.postimg.cc/d10Y4SSL/pe-canal-e-altomayo.png" group-title="Peru-Regionales",Canal E Altomayo
-
 https://stream.plixitv.live/westv/westv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.CanalIpe" tvg-logo="https://i.postimg.cc/15hB2bRg/pe-canal-ipe.png" group-title="Peru-Nacionales",Canal Ipe
-
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
 #EXTINF:-1 tvg-id="pe.CanalN" tvg-logo="https://i.postimg.cc/SQgqNyF3/pe-canal-n.png" group-title="Peru-Nacionales",Canal N
-
 http://187.102.209.92:9010/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="pe.CentralTV" tvg-logo="https://i.postimg.cc/rsxDMBnm/pe-centraltv.png" group-title="Peru-Regionales",Central TV
-
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="pe.CNC" tvg-logo="https://i.postimg.cc/8zy3PLHQ/pe-cnc.png" group-title="Peru-Regionales",CNC
-
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="pe.Conecta2TV" tvg-logo="https://i.postimg.cc/br9p5Wcb/pe-conecta2tv.png" group-title="Peru-Regionales",Conecta2 TV
-
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="pe.ContactoDeportivoTV" tvg-logo="https://i.postimg.cc/jSPz7hVB/pe-contacto-deportivo-tv.png" group-title="Peru-Regionales",Contacto Deportivo TV
-
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-id="pe.ControversiaTV" tvg-logo="https://i.postimg.cc/jqGkfyTj/pe-controversiatv.png" group-title="Peru-Regionales",Controversia TV
-
-https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="pe.CREOTV" tvg-logo="https://i.postimg.cc/7ZjX0LQQ/pe-creotv.png" group-title="Peru-Regionales",CREO TV
-
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Cultura24" tvg-logo="https://i.postimg.cc/QMtj6F9j/pe-cultura24tv.png" group-title="Peru-Regionales",Cultura 24
-
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.DiásporaTV" tvg-logo="https://i.postimg.cc/wvzh6R7L/pe-diasporatv.png" group-title="Peru-Regionales",Diáspora TV
-
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="pe.DMJSur" tvg-logo="https://i.postimg.cc/0jFDqy4w/pe-dmj.png" group-title="Peru-Regionales",DMJ Sur
-
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.DobleC" tvg-logo="https://i.postimg.cc/hts80W1T/pe-doble-ctv.png" group-title="Peru-Regionales",Doble C
-
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="pe.Exitosa" tvg-logo="https://i.postimg.cc/sxJL4HTx/pe-exitosa.png" group-title="Peru-Nacionales",Exitosa
-
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-id="pe.FuegoTV" tvg-logo="https://i.postimg.cc/G2HcScdy/pe-fuegotv.png" group-title="Peru-Regionales",Fuego TV
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 #EXTINF:-1 tvg-id="pe.GeniosTV" tvg-logo="https://i.postimg.cc/W10M50br/pe-geniostv.png" group-title="Peru-Regionales",Genios TV
-
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="pe.GlobalHD" tvg-logo="https://i.postimg.cc/593ygr3T/pe-globaltv.png" group-title="Peru-Nacionales",Global HD
-
 http://45.189.117.202:48000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="pe.HechiceraTV" tvg-logo="https://i.postimg.cc/m29XLmxK/pe-hechiceratv.png" group-title="Peru-Regionales",Hechicera TV
-
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.IdentidadTV" tvg-logo="https://i.postimg.cc/PfDR6F7N/pe-identidadtv.png" group-title="Peru-Regionales",Identidad TV
-
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.KaribeñaTV" tvg-logo="https://i.postimg.cc/bYQszpMP/pe-karibe-atv.png" group-title="Peru-Música",Karibeña TV
-
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="pe.LaAbejaTV" tvg-logo="https://i.postimg.cc/xjvpKK6Z/pe-la-abejatv.png" group-title="Peru-Regionales",La Abeja TV
-
 https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1 tvg-id="pe.LaTele" tvg-logo="https://i.postimg.cc/L8yf2mY9/pe-la-tele.png" group-title="Peru-Nacionales",La Tele
-
 http://45.189.117.202:48000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="pe.Latina" tvg-logo="https://i.postimg.cc/TwgnfYQZ/pe-latina.png" group-title="Peru-Nacionales",Latina
-
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="pe.LatinaHD" tvg-logo="https://i.postimg.cc/TwgnfYQZ/pe-latina.png" group-title="Peru-Nacionales",Latina HD
-
 http://191.97.58.41:8001/play/a006
 #EXTINF:-1 tvg-id="pe.Mas1" tvg-logo="https://i.postimg.cc/CxB49fGY/pe-mas1tv.png" group-title="Peru-Regionales",Mas 1
-
 https://live.obslivestream.com/mas1/index.m3u8
 #EXTINF:-1 tvg-id="pe.MayoTelevisión" tvg-logo="https://i.postimg.cc/1zJkfVTM/pe-mayo-television.png" group-title="Peru-Regionales",Mayo Televisión
-
 https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="pe.MegaTV[Arequipa]" tvg-logo="https://i.postimg.cc/c4GsTB30/pe-megatv-arequipa.png" group-title="Peru-Regionales",Mega TV [Arequipa]
-
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 tvg-id="pe.MegaTV[Jaen]" tvg-logo="https://i.postimg.cc/BZKSxVXm/pe-megatv-jaen.png" group-title="Peru-Regionales",Mega TV [Jaen]
-
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="pe.MilleniumRTV" tvg-logo="https://i.postimg.cc/L6PnXVm8/pe-millenium-rtv.png" group-title="Peru-Regionales",Millenium RTV
-
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="pe.NativaTV" tvg-logo="https://i.postimg.cc/T1vCy8vF/pe-nativa.png" group-title="Peru-Nacionales",Nativa TV
-
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.NativaTV[Chanchamayo]" tvg-logo="https://i.postimg.cc/ydvstssH/pe-nativa-chanchamayo.png" group-title="Peru-Regionales",Nativa TV [Chanchamayo]
-
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="pe.NORSelvaRadio&TV" tvg-logo="https://i.postimg.cc/hGyK4XVB/pe-norselva-radio-tv.png" group-title="Peru-Regionales",NOR Selva Radio & TV
-
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.OKTeVe" tvg-logo="https://i.postimg.cc/PqdsmJ8M/pe-ok-teve.png" group-title="Peru-Regionales",OK TeVe
-
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigitalPerú" tvg-logo="https://i.postimg.cc/FHNGsLSN/pe-onda-digital.png" group-title="Peru-Regionales",Onda Digital Perú
-
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigitalTV" tvg-logo="https://i.postimg.cc/8PJV8y2q/pe-onda-digitaltv.png" group-title="Peru-Regionales",Onda Digital TV
-
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigitalTV2" tvg-logo="https://i.postimg.cc/hvgXjKT0/pe-onda-digitaltv2.png" group-title="Peru-Regionales",Onda Digital TV 2
-
 https://v4.tustreaming.cl/odtv2/index.m3u8
 #EXTINF:-1 tvg-id="pe.OndaDigitalTV3" tvg-logo="https://i.postimg.cc/j5yWtDw5/pe-onda-digitaltv3.png" group-title="Peru-Regionales",Onda Digital TV 3
-
 https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
-#EXTINF:-1 tvg-id="pe.Ovación" tvg-logo="https://i.postimg.cc/L52F4SN7/pe-ovacion.png" group-title="Peru-Nacionales",Ovación
-
+#EXTINF:-1 tvg-id="pe.Ovación" tvg-logo="https://i.postimg.cc/L52F4SN7/pe-ovacion.png" group-title="Deportes",Ovación
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTV" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV
-
 https://cdnh74.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="pe.PanamericanaTVHD" tvg-logo="https://i.postimg.cc/J08ZnV2t/pe-panamericana.png" group-title="Peru-Nacionales",Panamericana TV HD
-
 http://191.97.60.193:10000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="pe.PBODigital" tvg-logo="https://i.postimg.cc/MpLCcyvk/pe-pbo.png" group-title="Peru-Nacionales",PBO Digital
-
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="pe.PerúChannel" tvg-logo="https://i.postimg.cc/GmpvcP8c/pe-peru-channel.png" group-title="Peru-Regionales",Perú Channel
+https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.Peruanísima" tvg-logo="https://i.postimg.cc/xCG3x57b/pe-peruanisima.png" group-title="Peru-Regionales",Peruanísima
-
 https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.PlanetaTVHD" tvg-logo="https://i.postimg.cc/NFv1MKM1/pe-planetatv.png" group-title="Peru-Regionales",Planeta TV HD
-
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.ProyectaTV" tvg-logo="https://i.postimg.cc/hPm0XsTQ/pe-proyectatv.png" group-title="Peru-Regionales",Proyecta TV
-
 https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-id="pe.QTTV" tvg-logo="https://i.postimg.cc/GtQPBb69/pe-qttv.png" group-title="Peru-Regionales",QT TV
-
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="pe.RadioInkaTV" tvg-logo="https://i.postimg.cc/q7WCcMwB/pe-radio-inkatv.png" group-title="Peru-Regionales",Radio Inka TV
-
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="pe.RadioSanBorjaTV" tvg-logo="https://i.postimg.cc/x139hJjp/pe-radio-sanborjatv.png" group-title="Peru-Música",Radio San Borja TV
-
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.RadioTVTendencias" tvg-logo="https://i.postimg.cc/HnBSnTQb/pe-radiotv-tendencias.png" group-title="Peru-Música",Radio TV Tendencias
-
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-id="pe.RCRTV" tvg-logo="https://i.postimg.cc/fTSdvJ4b/pe-rcrtv.png" group-title="Peru-Regionales",RCR TV
-
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="pe.RedDigitalTV" tvg-logo="https://i.postimg.cc/mgDLVRsd/pe-red-digital.png" group-title="Peru-Regionales",Red Digital TV
+https://live.obslivestream.com/reddigital/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="pe.RegiónTV" tvg-logo="https://i.postimg.cc/GtkvsGSc/pe-regiontv.png" group-title="Peru-Regionales",Región TV
-
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="pe.Ribereña" tvg-logo="https://i.postimg.cc/MK3sCCRw/pe-ribere-a.png" group-title="Peru-Regionales",Ribereña
-
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="pe.RNTelevision" tvg-logo="https://i.postimg.cc/tC25bLjt/pe-rn-television.png" group-title="Peru-Regionales",RN Television
-
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.RPP" tvg-logo="https://i.postimg.cc/Fzrc40kY/pe-rpp.png" group-title="Peru-Nacionales",RPP
-
 http://160.ip-192-99-70.net:25461/qwer123/qwer123/103704
 #EXTINF:-1 tvg-id="pe.RSelvaTV" tvg-logo="https://i.postimg.cc/7ZfMRzqN/pe-rselvatv.png" group-title="Peru-Regionales",RSelva TV
-
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.RTVOasis" tvg-logo="https://i.postimg.cc/DZh7CMzt/pe-rtv-oasis.png" group-title="Peru-Regionales",RTV Oasis
-
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-id="pe.RTVTotal" tvg-logo="https://i.postimg.cc/rsDB9F2Z/pe-rtv-total.png" group-title="Peru-Regionales",RTV Total
-
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="pe.RWTV" tvg-logo="https://i.postimg.cc/Y2fbvZdd/pe-rwtv.png" group-title="Peru-Regionales",RW TV
+https://live.obslivestream.com/rwtv/index.m3u8
+#EXTINF:-1 tvg-id="pe.SanjuaneraTV" tvg-logo="https://i.postimg.cc/bNJHRK97/pe-sanjuaneratv.png" group-title="Peru-Música",Sanjuanera TV
+https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="pe.Sistema1TV" tvg-logo="https://i.postimg.cc/pVS9nntw/pe-sistema1tv.png" group-title="Peru-Regionales",Sistema 1 TV
-
 https://inliveserver.com:1936/9514/9514/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.SolTV" tvg-logo="https://i.postimg.cc/9MdVDML5/pe-soltv.png" group-title="Peru-Regionales",Sol TV
-
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.SolarTelevisión" tvg-logo="https://i.postimg.cc/dtC2FYzb/pe-solar-television.png" group-title="Peru-Regionales",Solar Televisión
-
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.SuperTV" tvg-logo="https://i.postimg.cc/x8TD0Zpw/pe-supertv.png" group-title="Peru-Regionales",Super TV
-
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="pe.SuperCanal" tvg-logo="https://i.postimg.cc/CxvrJnJ4/pe-super-canal.png" group-title="Peru-Regionales",Super Canal
-
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="pe.Tele2000" tvg-logo="https://i.postimg.cc/FK8x0RtG/pe-tele2000.png" group-title="Peru-Regionales",Tele 2000
-
 https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-id="pe.TeleAmazonas" tvg-logo="https://i.postimg.cc/50JvZ6jr/pe-teleamazonas.png" group-title="Peru-Regionales",Tele Amazonas
-
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TelecolorHD" tvg-logo="https://i.postimg.cc/vT4HHYn7/pe-telecolor.png" group-title="Peru-Regionales",Telecolor HD
-
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="pe.TeleLima" tvg-logo="https://i.postimg.cc/cHDw4Z5M/pe-telelima.png" group-title="Peru-Nacionales",TeleLima
-
 https://mserver.latincable.net/TeleLimaSD/index.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurArequipa" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Arequipa
-
 https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurCamaná" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Camaná
-
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurIlo" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Ilo
-
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurMollendo" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Mollendo
-
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurMoquegua" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Moquegua
-
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="pe.TelesurTacna" tvg-logo="https://i.postimg.cc/VLjBYmFP/pe-telesur.png" group-title="Peru-Regionales",Telesur Tacna
-
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 #EXTINF:-1 tvg-id="pe.TeleVida" tvg-logo="https://i.postimg.cc/wxGmvnM3/pe-tele-vida.png" group-title="Peru-Regionales",Tele Vida
-
 https://live.obslivestream.com/televida/index.m3u8
 #EXTINF:-1 tvg-id="pe.TelevisiónTarapoto" tvg-logo="https://i.postimg.cc/MKbWpwSk/pe-television-tarapoto.png" group-title="Peru-Regionales",Televisión Tarapoto
-
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="pe.TOPLatinoTV" tvg-logo="https://i.postimg.cc/sDKW10Wx/pe-toplatinotv.png" group-title="Peru-Música",TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TOPTV" tvg-logo="https://i.postimg.cc/8C7rZzvX/pe-toptv.png" group-title="Peru-Música",TOP TV
-
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="pe.TrivuTV" tvg-logo="https://i.postimg.cc/mDg1GGgR/pe-trivutv.png" group-title="Peru-Regionales",Trivu TV
-
 https://servilive.com:3244/live/trivutvlive.m3u8
 #EXTINF:-1 tvg-id="pe.TumpisTV" tvg-logo="https://i.postimg.cc/pXKGc76X/pe-tumpistv.png" group-title="Peru-Música",Tumpis TV
-
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.TurboMIX" tvg-logo="https://i.postimg.cc/tR8p1WC0/pe-turbo-mixtv.png" group-title="Peru-Regionales",Turbo MIX
-
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-id="pe.TV5" tvg-logo="https://i.postimg.cc/qMXRCHrw/pe-tv5.png" group-title="Peru-Regionales",TV5
-
 https://live.obslivestream.com/tv5/index.m3u8
 #EXTINF:-1 tvg-id="pe.TVBellaAsunción" tvg-logo="https://i.postimg.cc/BQgpNgyK/pe-tvbella-asuncion.png" group-title="Peru-Regionales",TV Bella Asunción
-
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.TVCosmos" tvg-logo="https://i.postimg.cc/N0WhxCc7/pe-tvcosmos.png" group-title="Peru-Regionales",TV Cosmos
-
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.TVEnLinea" tvg-logo="https://i.postimg.cc/6pgq7Gc7/pe-tv-en-linea.png" group-title="Peru-Regionales",TV En Linea
-
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="pe.TVFaces" tvg-logo="https://i.postimg.cc/rF0VZZFj/pe-tvfaces.png" group-title="Peru-Música",TV Faces
 
-https://tvdatta.com:3211/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.TVPerú" tvg-logo="https://i.postimg.cc/nrxc7HZb/pe-tvperu.png" group-title="Peru-Nacionales",TV Perú
-
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 
 #EXTINF:-1 tvg-id="pe.TVPerúInternacional" tvg-logo="https://i.postimg.cc/W4Q4NGH4/pe-tvperu-internacional.png" group-title="Peru-Nacionales",TV Perú Internacional
-
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index.m3u8
 #EXTINF:-1 tvg-id="pe.TVPerúNoticias" tvg-logo="https://i.postimg.cc/FR3H7YMV/pe-tvperu-noticias.png" group-title="Peru-Nacionales",TV Perú Noticias
-
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 #EXTINF:-1 tvg-id="pe.UnitelTV" tvg-logo="https://i.postimg.cc/Dw2KyfL9/pe-uniteltv.png" group-title="Peru-Regionales",Unitel TV
-
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id="pe.USMPTV" tvg-logo="https://i.postimg.cc/PJMjJCvq/pe-usmptv.png" group-title="Peru-Nacionales",USMP TV
-
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="pe.UranioTV" tvg-logo="https://i.postimg.cc/Y9246B5Z/pe-uraniotv.png" group-title="Peru-Regionales",Uranio TV
-
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="pe.VamisaRadio&TV" tvg-logo="https://i.postimg.cc/y8HV5gB9/pe-vamisa-radio-y-tv.png" group-title="Peru-Regionales",Vamisa Radio & TV
-
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VIAAltomayoTV" tvg-logo="https://i.postimg.cc/yx6PZN0t/pe-via-altomayotv.png" group-title="Peru-Regionales",VIA Altomayo TV
-
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="pe.ViaTelevisión" tvg-logo="https://i.postimg.cc/bJcbh5ZJ/pe-via.png" group-title="Peru-Regionales",Via Televisión
-
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="pe.VinilosTV" tvg-logo="https://i.postimg.cc/LX4P1JSf/pe-vinilostv.png" group-title="Peru-Música",Vinilos TV
+https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="pe.VisiónMúsicaTV" tvg-logo="https://i.postimg.cc/ncRM3NVp/pe-vision-musica.png" group-title="Peru-Música",Visión Música TV
-
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VisiónSur" tvg-logo="https://i.postimg.cc/rFytQTx8/pe-visi-n-sur.png" group-title="Peru-Regionales",Visión Sur
-
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="pe.VZTV" tvg-logo="https://i.postimg.cc/8CK0CxHh/pe-vztv.png" group-title="Peru-Regionales",VZ TV
-
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="pe.WillaxTVHD" tvg-logo="https://i.postimg.cc/52J27h7N/pe-willax.png" group-title="Peru-Nacionales",Willax TV HD
-
 http://191.97.60.193:10000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/Ls5k4kDD/pe-wtv.png" group-title="Peru-Regionales",WTV
-
+#EXTINF:-1 tvg-id="pe.WTV" tvg-logo="https://i.postimg.cc/yNqqFhcZ/pe-wtv-2.png" group-title="Peru-Regionales",WTV
 https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Peru-Regionales",XTV
-
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
 
 ######################################################### 2. CHILE ########################################################
 
@@ -368,7 +266,8 @@ https://inliveserver.com:1936/10010/10010/playlist.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b131877056850648c88c4f358a
 #EXTINF:-1 tvg-id="cl.Canal9BioBioTV" tvg-logo="https://i.postimg.cc/D8Z0kbM7/cl-canal9-bio-biotv.png" group-title="Chile",Canal 9 Bio Bio TV
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="cl.Canal21Televisión" tvg-logo="https://i.postimg.cc/Pv4PTWmM/cl-canal21-television.png" group-title="Chile",Canal 21 Televisión
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Canal57" tvg-logo="https://i.postimg.cc/Y4GGYmHp/cl-canal57.png" group-title="Chile",Canal 57
 https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.CanalAltaFrontera" tvg-logo="https://i.postimg.cc/QB2Bbx8c/cl-canal-alta-frontera.png" group-title="Chile",Canal Alta Frontera
@@ -377,7 +276,7 @@ https://stmv2.zcasthn.com.br/altafronteratv/altafronteratv/playlist.m3u8
 https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Chilevisión" tvg-logo="https://i.postimg.cc/wyD1b8MZ/cl-chilevision.png" group-title="Chile",Chilevisión
 http://187.102.208.155:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-id="cl.ClassicChannel" tvg-logo="https://i.postimg.cc/MGHQTV21/cl-classic-channel.png" group-title="Chile-Música",Classic Channel
+#EXTINF:-1 tvg-id="cl.ClassicChannel" tvg-logo="https://i.postimg.cc/MGHQTV21/cl-classic-channel.png" group-title="Chile",Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.CNNChile" tvg-logo="https://i.postimg.cc/307dsSDR/cl-cnn-chile.png" group-title="Chile",CNN Chile
 http://179.51.169.254:7000/play/a00w
@@ -429,7 +328,6 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RadioContinenteFM" tvg-logo="https://i.postimg.cc/44BwmNVb/cl-radio-continentefm.png" group-title="Chile-Música",Radio Continente FM
 https://streamlov.alsolnet.com/continentefm/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="cl.RadioPopMedia" tvg-logo="https://i.postimg.cc/9fZbsLqJ/cl-radio-pop-media.png" group-title="Chile-Música",Radio Pop Media
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="cl.RadioStefania" tvg-logo="https://i.postimg.cc/kGXV0C57/cl-radio-stefania.png" group-title="Chile-Música",Radio Stefania
@@ -476,6 +374,7 @@ https://redirector.dps.live/hls/tvr/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.VclassicTV" tvg-logo="https://i.postimg.cc/hfY2V6zT/cl-vclassictv.png" group-title="Chile-Música",Vclassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
 
 
 ######################################################### 3. PLEX #########################################################
@@ -950,6 +849,7 @@ http://45.225.95.171:8589/play/a02p
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 tvg-id="prem.ZooMoo" tvg-logo="https://i.postimg.cc/05wFPTHH/prem-zoomoo.png" group-title="Premium",ZooMoo
 http://181.209.194.242:8080/play/a0s7/index.m3u8
+
 
 
 ######################################################### 5. INTERNACIONALES #########################################################
