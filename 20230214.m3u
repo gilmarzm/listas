@@ -387,7 +387,7 @@ http://45.191.234.189:15082/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="prem.AandE.S2" tvg-logo="https://i.postimg.cc/dkGWL4mg/prem-a-e.png" group-title="Premium",A&E
 http://179.51.168.13:4000/play/a04p
 #EXTINF:-1 tvg-id="prem.AandE.S3" tvg-logo="https://i.postimg.cc/dkGWL4mg/prem-a-e.png" group-title="Premium",A&E
-http://181.189.243.254:8000/play/a0q7/index.m3u8
+http://160.20.165.245:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="prem.Afizzionados" tvg-logo="https://i.postimg.cc/rm5X0Jt2/prem-afizzionados.png" group-title="Deportes",Afizzionados
 http://160.ip-192-99-70.net:25461/qwer123/qwer123/15
 #EXTINF:-1 tvg-id="prem.Amc.S1" tvg-logo="https://i.postimg.cc/3ysS8Ppg/prem-amc.jpg" group-title="Premium",AMC
@@ -586,37 +586,28 @@ http://51.222.110.182:8000/play/a00n
 http://45.181.122.169:8000/play/a02k
 #EXTINF:-1 tvg-id="prem.FoodNetwork" tvg-logo="https://i.postimg.cc/pm2TLp7v/prem-food-network.png" group-title="Premium",Food Network
 http://190.43.92.176:9898/play/a0om/index.m3u8
-#EXTINF:-1 tvg-id="prem.FoxSportsArg" tvg-logo="https://i.postimg.cc/sMTQ0fNb/prem-fox-sports-arg.png" group-title="Deportes",Fox Sports [Arg]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34641
-#EXTINF:-1 tvg-id="prem.FoxSportsArg2" tvg-logo="https://i.postimg.cc/LgkhkmPC/prem-fox-sports-arg2.png" group-title="Deportes",Fox Sports 2 [Arg]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34644
-#EXTINF:-1 tvg-id="prem.FoxSportsArg3" tvg-logo="https://i.postimg.cc/N2v5rKK2/prem-fox-sports-arg3.png" group-title="Deportes",Fox Sports 3 [Arg]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34647
+
+
+
 
 #EXTINF:-1 tvg-id="prem.FoxSports2Col" tvg-logo="https://i.postimg.cc/QBhPcLVh/prem-fox-sports2.png" group-title="Deportes",Fox Sports 2 [Col]
 http://181.78.21.60:16123/play/ch20
 #EXTINF:-1 tvg-id="prem.FoxSports3Col" tvg-logo="https://i.postimg.cc/pmN3X5H9/prem-fox-sports3.png" group-title="Deportes",Fox Sports 3 [Ccol]
 http://181.78.21.60:16123/play/ch21
-#EXTINF:-1 tvg-id="prem.FoxSportsMex" tvg-logo="https://i.postimg.cc/HcyrxwkC/prem-fox-sports-mex.png" group-title="Deportes",Fox Sports [Mex]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302652
-#EXTINF:-1 tvg-id="prem.FoxSportsMex2" tvg-logo="https://i.postimg.cc/VS5ryQyv/prem-fox-sports-mex2.png" group-title="Deportes",Fox Sports 2 [Mex]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302653
-#EXTINF:-1 tvg-id="prem.FoxSportsMex3" tvg-logo="https://i.postimg.cc/f3F3D2ZK/prem-fox-sports-mex3.png" group-title="Deportes",Fox Sports 3 [Mex]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34626
+
+
+
 #EXTINF:-1 tvg-id="prem.FoxSports1Chi" tvg-logo="https://i.postimg.cc/67cP0HGR/prem-fox-sports1.png" group-title="Deportes",Fox Sports 1 [Chi]
 http://168.194.171.33:8000/play/a09o/index.m3u8
-#EXTINF:-1 tvg-id="prem.FoxSports2Chi" tvg-logo="https://i.postimg.cc/QBhPcLVh/prem-fox-sports2.png" group-title="Deportes",Fox Sports 2 [Chi]
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34635
+
 #EXTINF:-1 tvg-id="prem.FoxSports3Chi" tvg-logo="https://i.postimg.cc/pmN3X5H9/prem-fox-sports3.png" group-title="Deportes",Fox Sports 3 [Chi]
 http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="prem.FoxSportsPremium" tvg-logo="https://i.postimg.cc/fk4xMgTy/prem-fox-sports-premium.png" group-title="Deportes",Fox Sports Premium
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/304554
+
 #EXTINF:-1 tvg-id="prem.Fx.S1" tvg-logo="https://i.postimg.cc/PvYxPZTX/prem-fx.png" group-title="Premium",FX
 http://45.181.122.209:8088/play/a03s
 #EXTINF:-1 tvg-id="prem.Fx.S2" tvg-logo="https://i.postimg.cc/PvYxPZTX/prem-fx.png" group-title="Premium",FX
 http://167.250.39.130:8000/play/fx
-#EXTINF:-1 tvg-id="prem.GoldenS1" tvg-logo="https://i.postimg.cc/06QMY7NF/prem-golden.png" group-title="Premium",Golden
-http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/302658
+
 #EXTINF:-1 tvg-id="prem.GoldenS2" tvg-logo="https://i.postimg.cc/06QMY7NF/prem-golden.png" group-title="Premium",Golden
 http://179.51.169.254:7000/play/a02c
 #EXTINF:-1 tvg-id="prem.GoldenEdge" tvg-logo="https://i.postimg.cc/FdkYqm3x/prem-golden-edge.png" group-title="Premium",Golden Edge
@@ -684,7 +675,7 @@ http://168.194.171.33:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="prem.MásChic" tvg-logo="https://i.postimg.cc/gjLz0zqX/prem-mas-chic.png" group-title="Premium",Más Chic
 http://167.250.39.130:8000/play/maschic
 #EXTINF:-1 tvg-id="prem.MusicChoiceRock" tvg-logo="https://i.postimg.cc/nr3WTjzf/prem-music-choice.png" group-title="Musica",Music Choice Rock
-http://hardcoremedia.xyz:80/pmhmlnkh/2211229126/1094
+http://940987047242262413.stonehuge.xyz:80/vi101551/1875644199/1094
 #EXTINF:-1 tvg-id="prem.MovistarDeportesPer" tvg-logo="https://i.postimg.cc/bJwsSYnD/prem-movistar-deportes.png" group-title="Deportes",Movistar Deportes [Per]
 http://190.61.55.186:1010/play/a00q/index.m3u8
 
