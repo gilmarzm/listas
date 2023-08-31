@@ -257,10 +257,14 @@ http://unlimited1-us.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Canal9BioBioTV" tvg-logo="https://i.postimg.cc/D8Z0kbM7/cl-canal9-bio-biotv.png" group-title="Chile",Canal 9 Bio Bio TV
 https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cl.Canal30Loncomilla" tvg-logo="https://i.postimg.cc/HkWBq58x/cl-canal30-loncomilla.png" group-title="Chile",Canal 30 Loncomilla
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8
 #EXTINF:-1 tvg-id="cl.Canal57" tvg-logo="https://i.postimg.cc/Y4GGYmHp/cl-canal57.png" group-title="Chile",Canal 57
 https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.CanalAltaFrontera" tvg-logo="https://i.postimg.cc/QB2Bbx8c/cl-canal-alta-frontera.png" group-title="Chile",Canal Alta Frontera
 https://stmv2.zcasthn.com.br/altafronteratv/altafronteratv/playlist.m3u8
+#EXTINF:-1 tvg-id="cl.CaracolaTV" tvg-logo="https://i.postimg.cc/fbq2jvCX/cl-caracolatv.png" group-title="Chile",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.ChileVisualCanal" tvg-logo="https://i.postimg.cc/L5bdmkmn/cl-chile-visual-canal.png" group-title="Chile",Chile Visual Canal
 https://stmv2.zcasthn.com.br/streamlatino/streamlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Chilevisión" tvg-logo="https://i.postimg.cc/wyD1b8MZ/cl-chilevision.png" group-title="Chile",Chilevisión
@@ -271,6 +275,8 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 http://181.177.255.253:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="cl.CulturaOnline" tvg-logo="https://i.postimg.cc/VJH0JW2G/cl-cultura-online.png" group-title="Chile",Cultura Online
 https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+#EXTINF:-1 tvg-id="cl.EGMChannel" tvg-logo="https://i.postimg.cc/R0G7cVMD/cl-egm-channel.png" group-title="Chile-Música",EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Energeek" tvg-logo="https://i.postimg.cc/F79ZTp3F/cl-energeek.png" group-title="Chile",Energeek
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.EnergeekFanPop" tvg-logo="https://i.postimg.cc/Rq1d1y3b/cl-energeek-fanpop.png" group-title="Chile",Energeek FanPop
@@ -293,6 +299,8 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-id="cl.LaRed" tvg-logo="https://i.postimg.cc/k2KJNNHX/cl-la-red.png" group-title="Chile",La Red
 http://181.177.255.253:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="cl.LancoTelevisión" tvg-logo="https://i.postimg.cc/XvPWGn6f/cl-lanco-television.png" group-title="Chile",Lanco Televisión
+https://lancotv.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="cl.LatinosRadioTV" tvg-logo="https://i.postimg.cc/06v8VMgG/cl-latinos-radio.png" group-title="Chile-Música",Latinos Radio TV
 https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.MargaMargaTV" tvg-logo="https://i.postimg.cc/QMn2rkmw/cl-marga-margatv.png" group-title="Chile",Marga Marga TV
@@ -317,6 +325,8 @@ http://181.177.255.253:8000/play/a01l/index.m3u8
 http://170.79.235.29:8000/play/123
 #EXTINF:-1 tvg-id="cl.OldMusic" tvg-logo="https://i.postimg.cc/GpRqSW4r/cl-old-music.jpg" group-title="Chile-Música",Old Music
 http://170.79.235.29:8000/play/137
+#EXTINF:-1 tvg-id="cl.OrigenTV" tvg-logo="https://i.postimg.cc/J08KqYfT/cl-origentv.png" group-title="Chile",Origen TV
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.ParentesisTV" tvg-logo="https://i.postimg.cc/pd5gM1zp/cl-parentesistv.png" group-title="Chile",Parentesis TV
 https://vdo.miserver.pro/p/3591/live/parentesistvlive.m3u8
 #EXTINF:-1 tvg-id="cl.PlanetaTVMovies" tvg-logo="https://i.postimg.cc/XZynNff0/cl-planetatv.png" group-title="Chile",Planeta TV Movies
@@ -342,11 +352,11 @@ https://5e3483cba9114.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RetroPlay" tvg-logo="https://i.postimg.cc/87c19Qsc/cl-retro-play.png" group-title="Chile",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="cl.RetroPlus1" tvg-logo="https://i.postimg.cc/kR7CyLkn/cl-retro-plus.png" group-title="Chile-Música",Retro Plus 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RetroPlus2" tvg-logo="https://i.postimg.cc/kR7CyLkn/cl-retro-plus.png" group-title="Chile-Música",Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RetroPlus3" tvg-logo="https://i.postimg.cc/kR7CyLkn/cl-retro-plus.png" group-title="Chile",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RewindTV" tvg-logo="https://i.postimg.cc/XrxrySDk/cl-rewindtv.png" group-title="Chile-Música",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.RTCTelevisión" tvg-logo="https://i.postimg.cc/fVM3LT5b/cl-rtctv.png" group-title="Chile",RTC Televisión
@@ -363,10 +373,16 @@ https://tv.clientetvstudio.net:3382/live/costatv2live.m3u8
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="cl.SextaVisión" tvg-logo="https://i.postimg.cc/t1TY3SKQ/cl-sexta-vision.png" group-title="Chile",Sexta Visión
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-id="cl.T13" tvg-logo="https://i.postimg.cc/Dz04sQmt/cl-t13.png" group-title="Chile",T13
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8?dpssid=b131158509135764f01a291b5ac&sid=ba5t1l1xb2103063047764f01a29873be&ndvc=0
 #EXTINF:-1 tvg-id="cl.TV+" tvg-logo="https://i.postimg.cc/3431KHV5/cl-tv.png" group-title="Chile",TV+
 http://190.83.60.34:1414/play/a03h
 #EXTINF:-1 tvg-id="cl.TVCosta" tvg-logo="https://i.postimg.cc/3y59cGZw/cl-tvcosta.png" group-title="Chile",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+#EXTINF:-1 tvg-id="cl.TVNorteDigital" tvg-logo="https://i.postimg.cc/76kLYg8v/cl-tvnorte-digital.png" group-title="Chile",TV Norte Digital
+https://v4.tustreaming.cl/tvnortedigital/index.m3u8
+#EXTINF:-1 tvg-id="cl.TVPrimeMovie" tvg-logo="https://i.postimg.cc/43V7w24h/cl-tvprime-movie.png" group-title="Chile",TV Prime Movie
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8
 #EXTINF:-1 tvg-id="cl.TVN" tvg-logo="https://i.postimg.cc/bZ23ggkM/cl-tvn.png" group-title="Chile",TVN
 http://181.177.255.253:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="cl.TVR" tvg-logo="https://i.postimg.cc/WDGSL49w/cl-tvr.png" group-title="Chile",TVR
