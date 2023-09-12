@@ -305,7 +305,7 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="cl.MaximaFMChile" tvg-logo="https://i.postimg.cc/McYzN6xC/cl-maxima-fm-chile.png" group-title="Chile-Música",Maxima FM Chile
 https://server1.oklanet.cl:1936/MaximaFmChile/MaximaFmChile/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.Mega" tvg-logo="https://i.postimg.cc/9RdVZcg8/cl-mega.png" group-title="Chile",Mega
-http://181.177.255.253:8000/play/a01n/index.m3u8
+http://190.216.162.155:8001/play/a01l
 #EXTINF:-1 tvg-id="cl.MoniTV" tvg-logo="https://i.postimg.cc/KYdCcSyd/cl-monitv.png" group-title="Chile",Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.MundodelaMúsicaTV" tvg-logo="https://i.postimg.cc/dVRQVTpn/cl-mundo-de-la-musicatv.png" group-title="Chile-Música",Mundo de la Música TV
