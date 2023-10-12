@@ -502,16 +502,12 @@ http://161.132.243.192:50001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="prem.Dreamworks" tvg-logo="https://i.postimg.cc/Vv53YXjn/prem-dreamworks.png" group-title="Premium",Dreamworks
 http://187.102.208.108:50001/play/a03x/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="prem.DsportsEcu" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Ecu]
-http://hardcoremedia.xyz:80/pmhmlnkh/2211229126/8265
-
+#EXTINF:-1 tvg-id="prem.DsportsArg" tvg-logo="https://i.postimg.cc/bDdfCBzC/prem-dsports.png" group-title="Deportes",Dsports [Arg]
+http://svtv.xyz:8080/Ricardo%20R/TMPBT3Q/124532
 #EXTINF:-1 tvg-id="prem.Dsports2" tvg-logo="https://i.postimg.cc/64vJw44C/prem-dsports2.png" group-title="Deportes",DSports2
-http://940987047242262413.stonehuge.xyz:80/vi101551/1875644199/1875644199/628560.ts
-
-
+http://svtv.xyz:8080/Ricardo%20R/TMPBT3Q/28
+#EXTINF:-1 tvg-id="prem.DsportsPlus" tvg-logo="https://i.postimg.cc/mzqf0ykb/prem-dsports-plus.png" group-title="Deportes",DSports+
+http://svtv.xyz:8080/Ricardo%20R/TMPBT3Q/58
 
 #EXTINF:-1 tvg-id="prem.Eentertainment" tvg-logo="https://i.postimg.cc/9M6M7nyv/prem-e-entertainment-television.png" group-title="Premium",E! Entertainment
 http://181.78.75.11:9500/play/a03f/index.m3u8
