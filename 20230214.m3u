@@ -620,9 +620,9 @@ http://177.234.245.26:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="prem.GoldenPremier2" tvg-logo="https://i.postimg.cc/v8qnsNcL/prem-golden-premier2.png" group-title="Premium",Golden Premier 2
 http://177.234.245.26:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="prem.GolPeru" tvg-logo="https://i.postimg.cc/9D69kVyH/prem-golperu.png" group-title="Deportes",GolPeru
-http://45.238.21.84:8000/play/a087
+http://38.56.118.88:4000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="prem.GolPeru2" tvg-logo="https://i.postimg.cc/9D69kVyH/prem-golperu.png" group-title="Deportes",GolPeru [2]
-http://45.173.201.6:8000/play/a030/index.m3u8
+http://179.51.161.3:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="prem.GolTVEcu" tvg-logo="https://i.postimg.cc/YjWjncg5/prem-goltv.png" group-title="Deportes",GolTV [Ecu]
 http://177.234.242.150:50032/play/a0fr/index.m3u8
