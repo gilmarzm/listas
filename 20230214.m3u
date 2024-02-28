@@ -1,4 +1,12 @@
 #EXTM3U
+######################################################### 0. EVENTOS #########################################################
+
+#EXTINF:-1 tvg-id="pe.Evento01" tvg-logo="https://i.postimg.cc/W4vFmGp4/eventos-copa-libertadores.png" group-title="Eventos",Spavorting Criscat (Per) vs. Always Ready (Bol)
+https://fr02.dlive.click/iN9aYU3ri9PNGex37WuWjw/1709113028/3137392e362e3136352e313730/ff82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pe.Evento02" tvg-logo="https://i.postimg.cc/W4vFmGp4/eventos-copa-libertadores.png" group-title="Eventos",Bragantino (Bra) vs. Águilas Doradas (Col)
+https://fr03.dlive.click/-T5ySKJSsHFr59TwYEE1hQ/1709113089/3137392e362e3136352e313730/ff79/playlist.m3u8
+
 ######################################################### 1. PERU #########################################################
 
 #EXTINF:-1 tvg-id="pe.AgroTV" tvg-logo="https://i.postimg.cc/ncPDWLT6/pe-agrotv.png" group-title="Peru-Regionales",Agro TV
