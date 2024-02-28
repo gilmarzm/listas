@@ -856,6 +856,9 @@ http://179.1.67.51:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="prem.TntSeries.S2" tvg-logo="https://i.postimg.cc/DzPSjj28/prem-tnt-series.png" group-title="Premium",TNT Series
 http://167.250.39.130:8000/play/tntseries
+#EXTINF:-1 tvg-id="prem.TNTSports[Arg]" tvg-logo="https://i.postimg.cc/LXBzrcPP/prem-tnt-sports.png" group-title="Deportes",TNT Sports [Arg]
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="prem.TntSportsChi" tvg-logo="https://i.postimg.cc/LXBzrcPP/prem-tnt-sports.png" group-title="Deportes",TNT Sports [Chi]
 http://161.132.243.192:50001/play/a03r/index.m3u8
@@ -874,7 +877,7 @@ http://168.228.193.214:58005/play/a005
 http://45.184.85.6:1080/play/a0e8
 
 #EXTINF:-1 tvg-id="prem.TyCSports" tvg-logo="https://i.postimg.cc/6T6703y9/prem-tyc-sports.png" group-title="Deportes",TyC Sports
-http://177.93.52.100:45001/play/a07o
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.UniversalCinema.S1" tvg-logo="https://i.postimg.cc/m1rt2d0c/prem-universal-cinema.png" group-title="Premium",Universal Cinema
 http://45.166.92.22:58001/play/a01t/index.m3u8
 
