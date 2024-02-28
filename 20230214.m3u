@@ -51,6 +51,9 @@ http://38.56.118.88:4000/play/a03p/index.m3u8
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="pe.Conecta2TV" tvg-logo="https://i.postimg.cc/br9p5Wcb/pe-conecta2tv.png" group-title="Peru-Regionales",Conecta2 TV
 https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="pe.CositelTV" tvg-logo="https://i.postimg.cc/DyyRMGMC/pe-cositel.png" group-title="Peru-Regionales",Cositel TV
+https://cloudvideo.servers10.com:8081/8180/index.m3u8
+
 #EXTINF:-1 tvg-id="pe.ContactoDeportivoTV" tvg-logo="https://i.postimg.cc/jSPz7hVB/pe-contacto-deportivo-tv.png" group-title="Peru-Regionales",Contacto Deportivo TV
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 
@@ -62,6 +65,8 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="pe.DMJSur" tvg-logo="https://i.postimg.cc/0jFDqy4w/pe-dmj.png" group-title="Peru-Regionales",DMJ Sur
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="pe.DobleAA" tvg-logo="https://i.postimg.cc/BQCPqj4P/pe-doble-aa.png" group-title="Peru-Regionales",Doble AA
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-id="pe.DobleC" tvg-logo="https://i.postimg.cc/hts80W1T/pe-doble-ctv.png" group-title="Peru-Regionales",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="pe.Exitosa" tvg-logo="https://i.postimg.cc/sxJL4HTx/pe-exitosa.png" group-title="Peru-Nacionales",Exitosa
@@ -88,6 +93,8 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 http://190.60.40.37:12500/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="pe.LatinaHD[2]" tvg-logo="https://i.postimg.cc/TwgnfYQZ/pe-latina.png" group-title="Peru-Nacionales",Latina HD [2]
 http://179.1.146.21:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="pe.LimaLive" tvg-logo="https://i.postimg.cc/qRhC4rGt/pe-lima-live.png" group-title="Peru-Regionales",Lima Live
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="pe.Mas1" tvg-logo="https://i.postimg.cc/CxB49fGY/pe-mas1tv.png" group-title="Peru-Regionales",Mas 1
 https://live.obslivestream.com/mas1/index.m3u8
 
@@ -152,6 +159,8 @@ https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 
 #EXTINF:-1 tvg-id="pe.RegiónTV" tvg-logo="https://i.postimg.cc/GtkvsGSc/pe-regiontv.png" group-title="Peru-Regionales",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="pe.Ribereña" tvg-logo="https://i.postimg.cc/MK3sCCRw/pe-ribere-a.png" group-title="Peru-Regionales",Ribereña
+https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="pe.RNTelevision" tvg-logo="https://i.postimg.cc/tC25bLjt/pe-rn-television.png" group-title="Peru-Regionales",RN Television
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
