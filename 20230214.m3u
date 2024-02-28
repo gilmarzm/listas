@@ -770,7 +770,7 @@ http://186.10.252.90:8000/play/a02m
 
 
 #EXTINF:-1 tvg-id="prem.SonyChannel" tvg-logo="https://i.postimg.cc/bDJqHSdy/prem-sony-channel.png" group-title="Premium",Sony Channel
-http://138.118.105.190:8000/play/a02z/index.m3u8
+http://138.117.97.182:58091/play/a00j
 
 
 #EXTINF:-1 tvg-id="prem.SonyMovies" tvg-logo="https://i.postimg.cc/c4qzJdRC/prem-sony-movies.png" group-title="Premium",Sony Movies
