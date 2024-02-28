@@ -309,7 +309,7 @@ http://186.10.252.90:8000/play/a030
 #EXTINF:-1 tvg-id="cl.LaMelinkanaFM" tvg-logo="https://i.postimg.cc/QNfVBVmb/cl-la-melinkanafm.png" group-title="Chile",La Melinkana FM
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-id="cl.LaRedHD" tvg-logo="https://i.postimg.cc/k2KJNNHX/cl-la-red.png" group-title="Chile",La Red HD
-http://190.60.40.37:12500/play/a072/index.m3u8
+http://45.235.37.254:8370/play/a00h
 
 #EXTINF:-1 tvg-id="cl.LatinosRadioTV" tvg-logo="https://i.postimg.cc/06v8VMgG/cl-latinos-radio.png" group-title="Chile-Música",Latinos Radio TV
 https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8
