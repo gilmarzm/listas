@@ -792,7 +792,8 @@ http://138.186.20.13:23200/play/a0fa
 http://167.250.39.130:8000/play/syfy
 
 
-
+#EXTINF:-1 tvg-id="prem.Telehit" tvg-logo="https://i.postimg.cc/L6CCr9Qt/prem-telehit.png" group-title="Musica",Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.TelehitMusica" tvg-logo="https://i.postimg.cc/jqk4SDVK/prem-telehit-musica.png" group-title="Musica",Telehit Música
 http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="prem.TelehitMusicaPlus" tvg-logo="https://i.postimg.cc/8cFJHxTM/prem-telehit-musica-plus.png" group-title="Musica",Telehit Música Plus
