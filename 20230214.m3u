@@ -876,7 +876,7 @@ https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.TelehitMúsica" tvg-logo="https://i.postimg.cc/jqk4SDVK/prem-telehit-musica.png" group-title="Musica",Telehit Música
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.TelehitMúsicaPlus" tvg-logo="https://i.postimg.cc/8cFJHxTM/prem-telehit-musica-plus.png" group-title="Musica",Telehit Música Plus
-http://181.78.75.11:9500/play/a030/index.m3u8
+http://ytv.plus:8080/Jesus123/Jesus321/28261
 #EXTINF:-1 tvg-id="prem.Telemundo" tvg-logo="https://i.postimg.cc/Vkh75dxZ/prem-telemundo.png" group-title="Premium",Telemundo
 http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.TelemundoInternacional" tvg-logo="https://i.postimg.cc/bJ4C5QcM/prem-telemundo-internacional.png" group-title="Premium",Telemundo Internacional
