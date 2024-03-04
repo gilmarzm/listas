@@ -269,27 +269,28 @@ https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pe.XTV" tvg-logo="https://i.postimg.cc/nczLY2NC/pe-xtv.png" group-title="Peru-Regionales",XTV
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
+
 ######################################################### 2. CHILE ########################################################
 
 #EXTINF:-1 tvg-id="cl.+Cine" tvg-logo="https://i.postimg.cc/595C7PnP/cl-mas-cine.png" group-title="Chile",+Cine
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-id="cl.13" tvg-logo="https://i.postimg.cc/qgQq5GQm/cl-13.png" group-title="Chile",13
 http://45.160.12.253:8000/play/067
-#EXTINF:-1 tvg-id="cl.13Cultura" tvg-logo="0" group-title="Chile",13 Cultura
+#EXTINF:-1 tvg-id="cl.13Cultura" tvg-logo="https://i.postimg.cc/cKPC5BGL/cl-13-cultura.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Entretención" tvg-logo="0" group-title="Chile",13 Entretención
+#EXTINF:-1 tvg-id="cl.13Entretención" tvg-logo="https://i.postimg.cc/G4h4Bpjd/cl-13-entretencion.png" group-title="Chile",13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Festival" tvg-logo="0" group-title="Chile",13 Festival
+#EXTINF:-1 tvg-id="cl.13Festival" tvg-logo="https://i.postimg.cc/TpxL60Ly/cl-13-festival.png" group-title="Chile",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Humor" tvg-logo="0" group-title="Chile",13 Humor
+#EXTINF:-1 tvg-id="cl.13Humor" tvg-logo="https://i.postimg.cc/NKJ5RwNT/cl-13-humor.png" group-title="Chile",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Kids" tvg-logo="0" group-title="Chile",13 Kids
+#EXTINF:-1 tvg-id="cl.13Kids" tvg-logo="https://i.postimg.cc/gr8XQQJF/cl-13-kids.png" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Prime" tvg-logo="0" group-title="Chile",13 Prime
+#EXTINF:-1 tvg-id="cl.13Prime" tvg-logo="https://i.postimg.cc/hJXhr3wY/cl-13-prime.png" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Realities" tvg-logo="0" group-title="Chile",13 Realities
+#EXTINF:-1 tvg-id="cl.13Realities" tvg-logo="https://i.postimg.cc/PvWCDpcr/cl-13-realities.png" group-title="Chile",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="cl.13Teleseries" tvg-logo="0" group-title="Chile",13 Teleseries
+#EXTINF:-1 tvg-id="cl.13Teleseries" tvg-logo="https://i.postimg.cc/56mHNzLs/cl-13-teleseries.png" group-title="Chile",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="cl.24Horas" tvg-logo="https://i.postimg.cc/K13Y4hbV/cl-24-horas.png" group-title="Chile",24 Horas
 http://190.90.154.73:8080/play/a095/index.m3u8
@@ -458,6 +459,7 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4325.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="co.RCNXtra" tvg-logo="https://i.postimg.cc/MXKJdwzr/co-rcn-xtra.png" group-title="Colombia",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
 
 ######################################################### 4. PREMIUM #########################################################
 
@@ -851,7 +853,8 @@ http://186.10.252.90:8000/play/a02m
 #EXTINF:-1 tvg-id="prem.SonyChannel" tvg-logo="https://i.postimg.cc/bDJqHSdy/prem-sony-channel.png" group-title="Premium",Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder4-srt/sonychannel.stream/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="prem.SonyCine" tvg-logo="https://i.postimg.cc/sQdfBLXD/prem-sony-cine.png" group-title="Premium",Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="prem.SonyMovies" tvg-logo="https://i.postimg.cc/c4qzJdRC/prem-sony-movies.png" group-title="Premium",Sony Movies
 http://138.186.20.13:23200/play/a07d
 #EXTINF:-1 tvg-id="prem.Space" tvg-logo="https://i.postimg.cc/t1rjTRkL/prem-space.png" group-title="Premium",Space
