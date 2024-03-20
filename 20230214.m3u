@@ -1,8 +1,1 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-id="prem.Liga1Max" tvg-logo="https://i.postimg.cc/gn2wL4jf/prem-liga1-max.png" group-title="Deportes",Liga 1 Max
-http://nxt.plus:8080/MarceCo/CorreaMar/130639
-#EXTINF:-1 tvg-id="prem.Liga1Max[2]" tvg-logo="https://i.postimg.cc/gn2wL4jf/prem-liga1-max.png" group-title="Deportes",Liga 1 Max [2]
-http://190.119.178.46:8000/play/a00c
-#EXTINF:-1 tvg-id="prem.Liga1Max[3]" tvg-logo="https://i.postimg.cc/gn2wL4jf/prem-liga1-max.png" group-title="Deportes",Liga 1 Max [3]
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/309415
